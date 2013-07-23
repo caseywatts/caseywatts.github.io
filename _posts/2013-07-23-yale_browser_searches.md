@@ -16,19 +16,21 @@ You can add a browser search in Chrome and Firefox. Also theoretically in IE. A 
 These extensions are all hosted on github [here](http://github.com/triplingual/yale-opensearch-extensions). Many were made by Trip
 Kirkpatrick, some were made by Casey Watts.
 
-To install in Chrome/Firefox/IE just click the link below, and it will be automatically added to your browser!
+To install in Chrome/Firefox just click the link below, and it will be automatically added to your browser!
 
 ##Installation & Browser Notes
 
-###Firefox and IE
-- In Firefox and IE, the search appears in the search box at
-the top-right of the browser. These have been tested on Firefox, but not
-IE.
+###Firefox
+- In Firefox, the search appears in the search box at the top-right of the browser.
 
 ###Chrome
 - In Chrome, browser search appears when you you type a short keyword (such as `netid` or `directory.yale.edu`) into the address bar. This can be even faster than using the search box in Firefox/IE.
 - The default is the url of the page, which usually works okay. Next to each search is included a recommended shorter keyword you may consider.
 - Some searches are for the same URL (phonebook by name vs phonebook by netid), and you'll need to define different keywords for each of those if you want both.
+
+###IE
+- These opensearch extensions can theoretically work with IE, but
+  something isn't working with them. Currently IE is not compatible.
 
 ###Other Browsers
 - Safari apparently cannot add custom search engines currently (without an extension to add this feature).
@@ -52,15 +54,6 @@ Look up someone in the phonebook, by name
 Look up someone in the phonebook, by netid
 
 - recommended Chrome keyword: `netid`
-
-
-##Yale ITS Website
-<a onclick="window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-its-website.xml');" href="#">Add Yale ITS Orgchart Search</a>
-(todo: create this xml)
-
-Search the ITS Website - especially useful to find How-To's, etc.
-
-- recommended Chrome keyword: `its`
 
 
 ##Yale ITS Orgchart

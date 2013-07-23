@@ -24,7 +24,9 @@ The most important lesson I've learned is that `Everything in Service Now is a b
 - Blue links have changed since you last opened them. Purple ones have not changed.
 - They are personal; no sharing capability.
 - See the Service Now wiki page about [Labels](http://wiki.servicenow.com/index.php?title=Creating_and_Using_Labels) to see how these work.
-- TODO How to label + screenshot
+- To apply a label to a ticket, **right-click on the top bar** of a ticket (e.g. "Incident... Apply Label... LabelName")
+
+<img src="{{site.url}}/assets/images/SN-LabelsApply.png" class="righty">
 
 
 ###"Most Recent" Label
@@ -69,6 +71,7 @@ know what the text starts with.
 - You can modify any search by pressing the arrow to the left of "All"
 
 ###Filtering by Related Tables' Fields
+####Enabling Related Tables
 <img src="{{site.url}}/assets/images/SN-SearchFilterShowRelated.png" class="righty">
 - Normally when you're creating a search for Incidents you can only see
   fields that are in the table `Incident`, such as `Client` and
@@ -76,7 +79,14 @@ know what the text starts with.
 - If you "Show Related Fields", you can also search through fields in related tables, such as for the Client's `NetID`. NetID is recorded in the User table but not in the Incident table directly.
 - The button "Show Related Fields" is at the very bottom of the search
   filter drop-down.
-- TODO Screenshot of result
+
+####Using Related Fields
+<img src="{{site.url}}/assets/images/SN-SearchFilterRelated1.png" class="righty" style="clear:both;">
+<img src="{{site.url}}/assets/images/SN-SearchFilterRelated2.png" class="righty" style="clear:both;">
+- Once related fields are enabled, you need two clicks to get what you
+  need. If you're looking for the Client's College, here is an example:
+  - Click on `Client --> User fields`
+  - Click on the field you're looking for, such as `College`
 
 
 
@@ -99,10 +109,9 @@ know what the text starts with.
 <img src="{{site.url}}/assets/images/SN-CalendarViewOpen.png" class="righty">
 - Service Now can display all of a ticket's updates on a calendar view.
 - You can also filter what is displayed, choosing the different types of updates you want to see.
+- This isn't a feature that's often useful in everyday work, but it really helps to figure out when things happened in a long ticket.
 - Access the calendar view by going to `History => Calendar` after right
   clicking on the top blue bar of a ticket.
-- TODO - I don't use it often, but it really helps to figure out what
-  went wrong in a ticket, or what happened when in a long ticket
 
 <img src="{{site.url}}/assets/images/SN-CalendarViewExample.png" class="righty">
 
