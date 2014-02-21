@@ -4,13 +4,13 @@ title: Yale Browser Searches
 tagline: for Chrome, Firefox, and IE
 tags: YaleITS
 ---
+Update Feb 21, 2014 - added ITS Website Search.
+
+
 Related articles:
 
 - [Service Now Tips Revised]({% post_url 2013-07-09-service_now_tips_revised %})
 - [Yale Chrome Extensions]({% post_url 2013-07-23-yale_chrome_extensions %})
-
-
-Update Feb 21, 2014 - added ITS Website Search.
 
 
 #Browser Search Engines
