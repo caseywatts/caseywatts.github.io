@@ -20,7 +20,7 @@ I'd love a way to use markdown to generate HTML presentations. If I were to use 
 
 ###I took a shot at it
 So I hosted a folder of "presentations" I may potentially give:
-<https://googledrive.com/host/0B4pzqThqXEKfdlVkSlBSaVNwQkE/>
+[Presentations on Google Drive](https://googledrive.com/host/0B4pzqThqXEKfdlVkSlBSaVNwQkE/)
 
 ###Hesitations
 1. Image embedding is manual by filename - ick. That's not going away either.
