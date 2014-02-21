@@ -10,6 +10,9 @@ Related articles:
 - [Yale Chrome Extensions]({% post_url 2013-07-23-yale_chrome_extensions %})
 
 
+Update Feb 21, 2014 - added ITS Website Search.
+
+
 #Browser Search Engines
 You can add a browser search in Chrome and Firefox. Also theoretically in IE. A browser search saves you from going to the page (such as `directory.yale.edu`) and then typing into its search box. Instead, you type directly into a box in your browser.
 
@@ -49,7 +52,7 @@ Look up someone in the phonebook, by name
 
 
 ##Yale Phonebook (by NetID)
-<a onclick="window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-directory.xml');" href="#">Add Yale Directory Seacrh By NetID</a>
+<a onclick="window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-directory.xml');" href="#">Add Yale Directory Search By NetID</a>
 
 Look up someone in the phonebook, by netid
 
@@ -62,6 +65,14 @@ Look up someone in the phonebook, by netid
 Look up someone in the ITS Organization Chart, by name or group
 
 - recommended Chrome keyword: `org`
+
+
+##Yale ITS Orgchart
+<a onclick="window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-its-website.xml');" href="#">Add Yale ITS Website Search</a>
+
+Look up something on the ITS Website
+
+- recommended Chrome keyword: `its`
 
 
 ##Service Now Global Search
