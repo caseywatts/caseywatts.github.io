@@ -67,7 +67,7 @@ Look up someone in the ITS Organization Chart, by name or group
 - recommended Chrome keyword: `org`
 
 
-##Yale ITS Orgchart
+##Yale ITS Website
 <a onclick="window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-its-website.xml');" href="#">Add Yale ITS Website Search</a>
 
 Look up something on the ITS Website
