@@ -15,8 +15,9 @@ Most of these tricks I discovered by clicking around in Service Now.
 The most important lesson I've learned is that `Everything in Service Now is a button` - even things that don't look like buttons. Even when the cursor doesn't change to a finger. Click everything!
 
 
-##Labels
-###Labels
+## Labels
+
+### Labels
 <img src="{{site.url}}/assets/images/SN-Labels.png" class="righty">
 - Labels allow you to "label" any ticket so you can come back to it later. This is similar to "starring" or "flagging" in other software.
 - They indicate when tickets have changed since you last opened it. The label displays the number of unread tickets with a number after the title, such as `Given to Other Department (3)`.
