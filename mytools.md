@@ -11,7 +11,7 @@ As of October 2014, Casey uses these:
 - Computer
   - Mac OS X 10.8 Mountain Lion
   - Sublime Text 3
-    - Formerly: MacVIM + Janus + [many dotfile tweaks](https://github.com/caseywatts/dotfiles). Switched for teaching, vim confuses students.
+    - Formerly: MacVIM + Janus + [many dotfile tweaks](https://github.com/caseywatts/dotfiles). Switched for teaching - vim confused students.
   - git + github (for everything, including this jekyll-based blog)
 - Phone
   - Samsung Galaxy S3 + Android 4.1 Jelly Bean
