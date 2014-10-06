@@ -34,7 +34,7 @@ Improves the experience of Service Now, is an IT ticket tracking software with a
 ### Yale Wiki, Haven Free Clinic Wiki, Student Technology Collaborative Wiki
 <http://yalewiki.org>
 
-Helps people share information and collaborate, especially long-term. Editable by anyone affiliated with the group. For YaleWiki.org, &gt;50,000 views/year by a population of &lt;5,000. Information architecture, server administration, MediaWiki with custom plugins. yalewiki.org
+Helps people share information and collaborate, especially long-term. Editable by anyone affiliated with the group. For YaleWiki.org, &gt;50,000 views/year by a population of &lt;5,000. Information architecture, server administration, MediaWiki with custom plugins.
 
 ### Collaboration Tips and Tricks Collection
 [Presentation on YouTube](https://www.youtube.com/watch?v=JKZ_CHSO7rs), [Notes](http://tinyurl.com/caseycollaborationtools)
