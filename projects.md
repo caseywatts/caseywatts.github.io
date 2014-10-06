@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: Projects
-tagline: Things I've dabbled in before.
+tagline: things I've dabbled in
 group: navigation
 ---
 {% include JB/setup %}
