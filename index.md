@@ -7,7 +7,7 @@ tagline: Systems Optimizer
 
 Casey Watts likes to `optimize systems`.
 
-He likes `technology`, `healthcare`, `coding`, `dancing`, `singing`, and `lolling`.
+He likes `technology`, `singing`, `dancing`, and `blowing bubbles`. He loves helping people `collaborate` together more effectively.
 
 ----
 {% for post in site.posts limit:10 %}
