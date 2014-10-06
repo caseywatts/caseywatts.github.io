@@ -36,7 +36,7 @@ With some research and conversation we decided to break down the problem into fu
 
 <img src="{{site.url}}/assets/images/bus_gps_diagram.JPG">
 
-_High-level diagram of the components needed for realtime GPS bus visualization. Light blue numbers are parts we intend to accomplish. The dark blue number is already being accomplished by CT Transit's chosen visualization software (Roadify). Drawn by Casey Watts._
+_High-level diagram of the components needed for realtime GPS bus visualization. Light blue numbers are parts we intend to accomplish. The dark blue number is already being accomplished by CT Transit's chosen visualization software (Roadify). Sketched by Casey Watts._
 
 ## Data Formats To Know About
 
