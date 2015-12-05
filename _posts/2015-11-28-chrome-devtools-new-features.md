@@ -26,22 +26,20 @@ https://developer.chrome.com/devtools/docs/javascript-debugging#breakpoints-on-x
 6. `cmd` + `u` is "soft undo" - it sorta jumps back to where you were if that was the last action, or does an undo if that was the last action. It feels a little like `ctrl`+`o` in vim.
 
 7. `console.assert(someCondition)` - you can have it raise an error+stacktrace if the condition isn't true.
-- Sortaa like sugar for `if(someCondition) {debugger();}` if you're `pause`ing on errors.
-- Sortaa like sugar for `if(someCondition) {console.trace();}` if you don't care that it throws an error.
+  - Sortaa like sugar for `if(someCondition) {debugger();}` if you're `pause`ing on errors.
+  - Sortaa like sugar for `if(someCondition) {console.trace();}` if you don't care that it throws an error.
 https://developer.chrome.com/devtools/docs/javascript-debugging#console-assert
 
 8. JS Pretty Print is built into the source tab whoaa - the `{ }` symbol in the bottom left while editing any `source` file
 
-9. JS Snippets are their own phenomenon worth checking out
-https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en
+9. JS Snippets are their own phenomenon worth checking out. Use DevTools Snippets to save small scripts, bookmarklets, and utilities so that they're always available to you while debugging in the browser.
   ```
   - Use Snippets to run small scripts from any page.
   - Run portions of Snippets in the Console with the "Evaluate in Console" feature.
   - Map Snippets to external files with Workspaces.
   - Remember that popular features from the Sources panel, like breakpoints, also work with Snippets.
   ```
-Using JavaScript Snippets | Web Tools - Google Developers
-Use DevTools Snippets to save small scripts, bookmarklets, and utilities so that they're always available to you while debugging in the browser.
+[Using JavaScript Snippets | Web Tools - Google Developers](https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en)
 
 10. Run Snippets
   -`cmd`+`enter` while in a snippet runs tho whole thing, probably like you'd expect
