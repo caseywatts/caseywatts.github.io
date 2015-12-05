@@ -25,6 +25,6 @@ He likes `technology`, `singing`, `dancing`, and `blowing bubbles`. He loves hel
 {% endfor %}
 
 
-<a href="blogposts.html" class="btn btn-large">
+<a href="{{ BASE_PATH }}{{ site.JB.archive_path }}" class="btn btn-large">
 More Posts
 </a>
