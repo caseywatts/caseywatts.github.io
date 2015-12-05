@@ -5,7 +5,7 @@
   #watch /.*/
 #end
 
-#guard 'markdown', :convert_on_start => true, :dry_run => true do  
+#guard 'markdown', :convert_on_start => true, :dry_run => true do
   ## See README for info on the watch statement below
   ## Will not convert while :dry_run is true. Once you're happy with your watch statements remove it
   #watch (/source_dir\/(.+\/)*(.+\.)(md|markdown)/i) { |m| "source_dir/#{m[1]}#{m[2]}#{m[3]}|output_dir/#{m[1]}#{m[2]}html"}
@@ -13,5 +13,10 @@
 #end
 
 guard 'livereload' do
-  watch (/\_site\/.+/)
+  watch /.*/
+end
+
+guard 'jekyll-plus', :serve => true do
+  watch /.*/
+  ignore /^_site/
 end
