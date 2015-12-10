@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: Chrome DevTools
+tagline: Exciting New Features
+tags:
 ---
 
 ## Chrome DevTools Exciting New Features
@@ -33,12 +36,10 @@ https://developer.chrome.com/devtools/docs/javascript-debugging#console-assert
 8. JS Pretty Print is built into the source tab whoaa - the `{ }` symbol in the bottom left while editing any `source` file
 
 9. JS Snippets are their own phenomenon worth checking out. Use DevTools Snippets to save small scripts, bookmarklets, and utilities so that they're always available to you while debugging in the browser.
-  ```
-  - Use Snippets to run small scripts from any page.
-  - Run portions of Snippets in the Console with the "Evaluate in Console" feature.
-  - Map Snippets to external files with Workspaces.
-  - Remember that popular features from the Sources panel, like breakpoints, also work with Snippets.
-  ```
+   - Use Snippets to run small scripts from any page.
+   - Run portions of Snippets in the Console with the "Evaluate in Console" feature.
+   - Map Snippets to external files with Workspaces.
+   - Remember that popular features from the Sources panel, like breakpoints, also work with Snippets.
 [Using JavaScript Snippets | Web Tools - Google Developers](https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en)
 
 10. Run Snippets
