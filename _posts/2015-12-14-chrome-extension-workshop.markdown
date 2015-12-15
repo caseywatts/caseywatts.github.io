@@ -156,9 +156,121 @@ When you save a bookmarklet, the browser will remove newlines. If you want to ed
 
 
 ## D. Chrome Extension
-Time to take the code from earlier and make it into a Chrome Extension!
-- [Chrome Extensioning - Guide](https://gist.github.com/caseywatts/99e7412e9bc6ae858fd1)
+Chrome is, by far, the easiest browser to make extensions for. [Google's documentation](https://developer.chrome.com/extensions) for this is pretty good and thorough!
 
+### First Extension
+
+#### Setup
+1. Make a folder `cloudtobutt` somewhere on your computer (in a `code` folder? or on your `desktop`? up to you!)
+2. Save your js script in that folder as `cloudtobutt.js`
+3. Make a file named `manifest.json` and copy-paste in an example:
+
+  ```
+  {
+    "name": "CloudToButt",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Converts clouds to butts. Demo for NewHaven.io Chrome Extension Workshop.",
+    "content_scripts": [{
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["cloudtobutt.js"]
+    }]
+  }
+  ```
+4. Load the extension into Chrome: https://developer.chrome.com/extensions/getstarted#unpacked
+5. Workflow: edit a file, reload in browser (see below), see if it worked, repeat!
+
+
+#### Files & Folders
+
+- `unpacked` extension = folder with our files in it
+  - `manifest.json` explains what this extension is called, what version it is, what files it uses when, etc
+  - your `.js` files, maybe `.css` and `.html` files
+  - any libraries you use, as something like `jQuery.js`
+- `.crx` = we upload a `.zip` of our folder to `https://developer.chrome.com/webstore/publish`, and Google converts it to this `.crx` package, and it becomes available on the Chrome Webstore!
+
+
+### Workflow
+
+#### Reload Extension
+
+Either:
+
+1. Go to `chrome://extensions` and click "reload" next to your extension
+2. Go to `chrome://extensions` and refresh the page (cmd+r)
+
+> `chrome://extensions` is also located in the "hamburger icon" menu under "more tools"
+
+
+#### Debugging
+
+- just to see if code is being loaded you could put `alert('lol code is working!');` in your `.js` file
+- for more thorough debugging tips, check out Google's guide: https://developer.chrome.com/extensions/tut_debugging
+
+
+
+### Powerups
+
+#### List of Powerups
+- I want to change what's on a page
+  - That's a "content script". See [Content Scripts](https://developer.chrome.com/extensions/content_scripts) for more details.
+- What if I want something shared between tabs?
+  - "Background page"! Also good for long-running processes or complex code.
+- What if I want a button in the top right?
+  - That's a "browser action"
+- What if I want an icon in the URL bar?
+  - That's a "page action"
+- I want to give options!
+  - Try an "options page"! (more below)
+- How do I change the "New Tab" page?
+  - How about an "[override](https://developer.chrome.com/extensions/override)" page?
+- I want to make a standalone app. Maybe access the shell and do fancy things!
+  - You can make a "Chrome App" - same idea as an extension
+
+
+
+#### Options Page
+
+Check out the Chrome documentation [Options page](https://developer.chrome.com/extensions/options) for a full explanation on how to use an options page.
+
+The key concept is "Local Storage". Modern web browsers all have an amount of hard drive space they can use to store information, and extensions can use this space too! Here's an example for Chrome:
+
+  ```javascript
+    // our app doesn't use this right now, but we might theoretically
+    // have it use the options "wordFrom" and "wordTo" in our content script
+    // here's how to set those options in the storage
+
+    var wordFrom = "cloud"; // this might come from the options page itself
+    var wordTo = "butt"; // this might come from the options page itself
+    chrome.storage.sync.set({
+      changeWordFrom: wordFrom,
+      changeWordTo: wordTo
+    }, CALLBACKFUNCTION);
+  ```
+
+> You don't have access to storage by default, unless you request it. See [Storage API](https://developer.chrome.com/apps/storage) for details on how to rquest it.
+
+> `chrome.storage.sync` can contain one javascript object which can contain any number of things - including other objects
+
+> This is an asynchronous function. Only after data is set/retrieved the `callback` function will be executed. In this example, we may want to say "SUCCESS" on the page when we're done! See https://developer.chrome.com/extensions/overview#apis
+
+> The non-Chrome-API `localStorage` might work across browsers as a way to access Local Storage, try it: https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage#localStorage
+
+
+### Sharing
+
+#### Tampermonkey / Greasemonkey
+These are like lightweight, ad-hoc browser-extension generators. You install one of these extensions and they help you make "extensions" super-quickly. It's great if you just want a quick script for yourself (and maybe your developer friends). It's often quicker to get a short "userscript" up and running than to create a full browser extension.
+
+- [TamperMonkey](http://tampermonkey.net/) - Chrome
+- [GreaseMonkey](http://www.greasespot.net/) - Firefox
+
+#### Sharing Your Extension
+tl;dr: Chrome Webstore is the best (but some $), sharing source code works but eh, and third-party hosting feels sketchy.
+
+- To put it on the Chrome Webstore you'll have to register as a developer and pay a registration fee to Google. This is by far the best option if you want to share the extension with many people.
+- Alternatively, you could just send the folder to someone and have them install it as a developer (like above).
+- There are some third-party hosting options. Check out how `crossrider.com` does it!
 
 
 
