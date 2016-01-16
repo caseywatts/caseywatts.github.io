@@ -1,0 +1,25 @@
+{
+  "name": "caseywatts.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseywatts/caseywatts.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caseywatts/caseywatts.github.io/issues"
+  },
+  "homepage": "https://github.com/caseywatts/caseywatts.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.5.1",
+    "lodash": "^4.0.0"
+  }
+}
