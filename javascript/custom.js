@@ -3,6 +3,7 @@ $(function() {
   //Calls the tocify method on your HTML div.
   $("#toc").tocify({
     selectors: "h2,h3,h4",
+    extendPage: false,
     showEffect: "fadeIn"
   });
   if( $('#toc').children('ul').length < 3){
