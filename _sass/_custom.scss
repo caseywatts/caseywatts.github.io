@@ -17,8 +17,8 @@ img.righty {
 
 .post {
   @include outer-container;
-  aside { @include span-columns(3); }
-  article { @include span-columns(9); }
+  .side-column { @include span-columns(3); }
+  .main-column { @include span-columns(9); }
 }
 
 .bubble {
