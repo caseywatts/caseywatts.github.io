@@ -82,6 +82,7 @@ know what the text starts with.
 - You can modify any search by pressing the arrow to the left of "All"
 
 ### Filtering by Related Tables' Fields
+
 #### Enabling Related Tables
 <img src="{{site.url}}/assets/images/SN-SearchFilterShowRelated.png" class="righty">
 
@@ -146,6 +147,7 @@ know what the text starts with.
 
 
 ## Email Notifications
+
 ### Toggling Notifications
 <img src="{{site.url}}/assets/images/SN-NotificationPreferences3.png" class="righty">
 You can control which emails Service Now sends you! Here's how:
