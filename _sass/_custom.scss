@@ -1,7 +1,4 @@
-.tagline {
-  font-size: .6em;
-}
-
+// Sitewide Things
 a:hover {
   text-decoration: none;
 }
@@ -10,17 +7,8 @@ h1, h2, h3, h4 {
   clear:both;
 }
 
-img.righty {
-  float:right;
-  margin:8px;
-}
 
-.post {
-  @include outer-container;
-  .side-column { @include span-columns(3); }
-  .main-column { @include span-columns(9); }
-}
-
+// Sitewide // background
 .bubble {
   opacity: 0.3;
   z-index: -1;
@@ -31,4 +19,23 @@ img.righty {
   background-image:url(../assets/images/glow3.png);
   background-size: 100% 100%;
   position:fixed;
+}
+
+
+// Post Index Specific
+.tagline {
+  font-size: .6em;
+}
+
+
+// Post Show Specific
+img.righty {
+  float:right;
+  margin:8px;
+}
+
+.post {
+  @include outer-container;
+  .side-column { @include span-columns(3); }
+  .main-column { @include span-columns(9); }
 }
