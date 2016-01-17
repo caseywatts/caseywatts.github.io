@@ -9,12 +9,15 @@ tagline: Visualizes code collaboration from git repositories
 
 
 ###Rails
+
 ####[Code Swarm - Rails](http://vimeo.com/2979844)
 
 Apparently, in 2008 Rails switched to github. I see that pretty clearly :)
 
 ###STC
+
 ####[Code Swarm - STC Shifts](http://vimeo.com/55079451)
+
 ####[Code Swarm - STC Reservations](https://vimeo.com/55080278)
 STC usually only works in the summer. Sometimes Adam tweaks things during the year. Some people import more libraries than others.
 
