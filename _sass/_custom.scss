@@ -22,6 +22,7 @@ img.righty {
 }
 
 .bubble {
+  z-index: -1;
   list-style:none;
   background:rgba(204,204,204,0.1);
   border-radius:1000px;
