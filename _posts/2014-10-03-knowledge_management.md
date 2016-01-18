@@ -26,11 +26,10 @@ I am sure there are services that will host a mediawiki instance for you too, bu
 
 ## Mediawiki
 [YaleWiki](http://yalewiki.org), the STC Wiki (private), and the HAVEN Free Clinic wiki (private) all use Mediawiki. You can set up a Mediawiki instance on your own by following this guide. For YaleWiki (on nearlyfreespeech.net) I did the installation over `ssh`, but Haven Free Clinic (on bargainvault.com) I did it by their GUI (CPanel). Both were relatively straightforward.
-http://www.mediawiki.org/wiki/Manual:Installation_guide
+`http://www.mediawiki.org/wiki/Manual:Installation_guide`
 
 Mediawiki has a ton of extensions you could install, you can see the list here
-http://www.mediawiki.org/wiki/Category:Extensions_by_category
+`http://www.mediawiki.org/wiki/Category:Extensions_by_category`
 
 If you'd like to use the CAS NetID login, here is the extension we use for that. There is a "whitelist" of permitted netids in a text file on the server. Anyone whose netid is on the list would have access, anyone who is not on the list would not have access.
-http://www.mediawiki.org/wiki/Extension:CASAuthentication
-
+`http://www.mediawiki.org/wiki/Extension:CASAuthentication`
