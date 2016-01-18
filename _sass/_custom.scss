@@ -7,14 +7,13 @@ h1, h2, h3, h4 {
   clear:both;
 }
 
+// Sitewide Header bar
 .site-header {
   background-color: $bubble-color-primary;
   border-top: 0px;
-}
-
-// Sitewide Header bar
-.site-header .icon path {
-  fill: $grey-color-dark;
+  .icon path {
+    fill: $grey-color-dark;
+  }
 }
 
 // Sitewide Footer bar
