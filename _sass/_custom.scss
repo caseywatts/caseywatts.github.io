@@ -55,9 +55,15 @@ a:hover {
 
 
 // Post Show Specific
-img.righty {
+.post-content .righty {
   float:right;
   margin:8px;
+}
+
+.post-content img {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin: 8px;
 }
 
 .post {
