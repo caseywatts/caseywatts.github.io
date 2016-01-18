@@ -1,9 +1,8 @@
 # Site settings
-title: Casey Watts Blog
+title: Casey Watts! Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Casey Watts likes to optimize systems.
-  He likes technology, singing, dancing, and blowing bubbles.
-  He loves helping people collaborate together more effectively (people systems!).
+  Casey Watts! likes system optimizing, technology, singing, dancing, blowing bubbles, enthusiasm, clear communication, hugs.
+  He loves helping people collaborate together more effectively (people systems~).
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://caseywatts.github.io" # the base hostname & protocol for your site
 twitter_username: kyloma
