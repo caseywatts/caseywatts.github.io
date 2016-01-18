@@ -68,15 +68,20 @@ h4 {
   margin: 8px;
 }
 
+$mobile: new-breakpoint(max-width 500px 12);
+
 .post {
   @include outer-container;
   .side-column {
     @include span-columns(3);
+    @include media($mobile) { display: none; @include span-columns(0); }
   }
   .main-column {
     @include span-columns(9);
+    @include media($mobile) { @include span-columns(12); }
   }
 }
+
 
 #toc {
   background: #fff; // don't let the background be transparent
