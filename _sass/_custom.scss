@@ -22,6 +22,17 @@ h1, h2, h3, h4 {
   background-color: $bubble-color-accent;
 }
 
+a {
+  color: #574E88;
+}
+
+a:visited {
+  color: #433688;
+}
+
+a:hover {
+  color: #BDB3F7;
+}
 
 // Sitewide // background
 .bubble {
