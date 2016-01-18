@@ -55,6 +55,14 @@ h4 {
   font-size: .6em;
 }
 
+.description-well {
+  background-color: $bubble-color-accent;
+  border: 1px solid $bubble-color-shadow;
+  border-radius: 100px;
+  padding: 30px;
+  text-align: center;
+}
+
 
 // Post Show Specific
 .post-content .righty {
