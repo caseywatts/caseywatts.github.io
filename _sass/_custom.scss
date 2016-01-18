@@ -1,16 +1,29 @@
 // Sitewide Things
+a {
+  color: #574e88;
+}
+
+a:visited {
+  color: #433688;
+}
+
 a:hover {
+  color: #bdb3f7;
   text-decoration: none;
 }
 
-h1, h2, h3, h4 {
-  clear:both;
+h1,
+h2,
+h3,
+h4 {
+  clear: both;
 }
 
 // Sitewide Header bar
 .site-header {
   background-color: $bubble-color-primary;
-  border-top: 0px;
+  border-top: 0;
+
   .icon path {
     fill: $grey-color-dark;
   }
@@ -21,29 +34,19 @@ h1, h2, h3, h4 {
   background-color: $bubble-color-accent;
 }
 
-a {
-  color: #574E88;
-}
-
-a:visited {
-  color: #433688;
-}
-
-a:hover {
-  color: #BDB3F7;
-}
-
 // Sitewide // background
 .bubble {
-  opacity: 1;
-  z-index: -1;
-  list-style:none;
-  background:$bubble-color-accent;
-  border-radius:1000px;
-  box-shadow: 0px 0px 5px 0px $bubble-color-shadow inset;
-  background-image:url(../assets/images/glow3.png);
+  background: $bubble-color-accent;
+  background-image: url('../assets/images/glow3.png');
   background-size: 100% 100%;
-  position:fixed;
+
+  border-radius: 1000px;
+  box-shadow: 0 0 5px 0 $bubble-color-shadow inset;
+
+  list-style: none;
+
+  position: fixed;
+  z-index: -1;
 }
 
 
@@ -55,8 +58,8 @@ a:hover {
 
 // Post Show Specific
 .post-content .righty {
-  float:right;
-  margin:8px;
+  float: right;
+  margin: 8px;
 }
 
 .post-content img {
@@ -72,5 +75,5 @@ a:hover {
 }
 
 #toc {
-  background: #FFFFFF; // don't let the background be transparent
+  background: #fff; // don't let the background be transparent
 }
