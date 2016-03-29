@@ -8,7 +8,7 @@ tags:
 It's my first hardware creation! But certainly not my last bubble-themed one :)
 
 ## Bubble Lamp Alpha
-My "Bubble Lamp Alpha" is my first full TechShop project! It's a small, black, wooden table lamp with LED-backlit bubble-shaped holes. It's made of 4 panels, 4 inches wide by 12 inches tall. The panels are joined with a butt joint: wood glue and nails. Each panel has many bubble-holes of various sizes, cut with the ShopBot CNC machine. Behind each bubble-hole is diffusion paper, lit up from the inside with a remote-controlled LED lamp. It looks pretty sweet backlit (insidelit?) with blue, red, or purple.
+My "Bubble Lamp Alpha" is my first full TechShop project! It's a small, black, wooden table lamp with LED-backlit bubble-shaped holes. It's made of 4 panels; it's 4 inches wide by 12 inches tall. The panels are joined with a butt joint: wood glue and nails. Each panel has many bubble-holes of various sizes, cut with the ShopBot CNC machine. Behind each bubble-hole is diffusion paper, lit up from the inside with a remote-controlled LED lamp. It looks pretty sweet backlit (insidelit?) with blue, red, or purple.
 
 <img src="{{site.url}}/assets/images/bubble_lamp_unlit.gif" width='200px'>
 <img src="{{site.url}}/assets/images/bubble_lamp_blue.gif" width='200px'>
@@ -39,6 +39,7 @@ A lot of people like Illustrator for vector drawing, but it's just expensive. Al
 
 ### ShopBot CNC
 Operating the machine was tricky! It had been a month since I took the class. The UI is the lolz.
+
 - The interface is the lolz
   - There is a random radio button that changes how everything works, but the interface barely changes to reflect that. "Preview Mode" is not what I wanted most of the time, oof.
   - To move the machine at all I found the "KEYBOARD MOVEMENT" button under a menu called "CUT" (even though I wasn't cutting).
