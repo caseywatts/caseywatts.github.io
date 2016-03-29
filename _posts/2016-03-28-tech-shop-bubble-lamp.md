@@ -10,7 +10,8 @@ It's my first hardware creation! But certainly not my last bubble-themed one :)
 ## Bubble Lamp Alpha
 My "Bubble Lamp Alpha" is my first full TechShop project! It's a small, black, wooden table lamp with LED-backlit bubble-shaped holes. It's made of 4 panels, 4 inches wide by 12 inches tall. The panels are joined with a butt joint: wood glue and nails. Each panel has many bubble-holes of various sizes, cut with the ShopBot CNC machine. Behind each bubble-hole is diffusion paper, lit up from the inside with a remote-controlled LED lamp. It looks pretty sweet backlit (insidelit?) with blue, red, or purple.
 
-PHOTO
+<img src="{{site.url}}/assets/images/bubble_lamp_blue.gif" class="righty">
+<img src="{{site.url}}/assets/images/bubble_lamp_unlit.gif" class="righty">
 
 ## Construction Details
 The rest of this post may only be interesting to someone who ~really~ wants to know how it was made. It describes how a person (who is not an entire factory) made a bubble lamp.
