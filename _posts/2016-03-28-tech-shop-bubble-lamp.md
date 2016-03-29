@@ -84,6 +84,7 @@ I tried:
 - paint roller and paint brush
 
 ### Light Panels
+
 - light diffusion paper
   - thought I'd need to glue 4 panes to the inside of the thing
   - tried a rolled up cylinder of the stuff for fun, and it actually looked great! less work, more fancy :)
@@ -95,6 +96,7 @@ I tried:
 
 ## Future Work
 I used skills from these three classes:
+
   - Basic Woodshoop
   - VCarve
   - ShopBot CNC
@@ -102,6 +104,7 @@ I used skills from these three classes:
 A metal version of this lamp would probably take much less time to make, and look even more modern and beautiful.
 
 I want to combine the skills from these classes to do something similar in metal:
+
   - Basic Metalshop
   - Tormach CNC
   - Sand Blasting & Powder Coating
