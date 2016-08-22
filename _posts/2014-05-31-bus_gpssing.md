@@ -152,7 +152,7 @@ At our followup [Civic Hack Night Meetup](http://www.meetup.com/newhavenio/event
 We would like to thank Zack Beatty for organizing the event, Doug Hausladen for bringing us a problem that we could work on for our city, CT Transit for agreeing to work with us on the experiment, all of the participants for their hard work over the course of the day
 
 ### Participants
-This is an incomplete <li></li>st of participants (we didn't have people sign in like they might have, oops!).
+This is an incomplete list of participants (we didn't have people sign in like they might have, oops!).
 
 * Zack Beatty
 * Joel Colucci
