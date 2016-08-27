@@ -4,21 +4,28 @@ layout: default
 
 <div class="home">
   <p class="description-well">{{ site.description }}</p>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }} <span class="tagline">{{ post.tagline }}</span>
-          </a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  <a href="/blog.html">
+    <p class="description-well-half">Blog</p>
+  </a>
+  <a href="/projects.html">
+    <p class="description-well-half">Projects</p>
+  </a>
+  <a href="http://twitter.com/kyloma">
+    <p class="description-well-quarter">Twitter</p>
+  </a>
+  <a href="http://github.com/caseywatts">
+    <p class="description-well-quarter">Github</p>
+  </a>
+  <a href="https://www.linkedin.com/in/caseywatts">
+    <p class="description-well-quarter">Linkedin</p>
+  </a>
+  <a href="https://www.instagram.com/kyloma/">
+    <p class="description-well-quarter">Instagram</p>
+  </a>
+  <a href="http://www.caseywatts.com/headshot.jpg">
+    <p class="description-well-half">A Headshot</p>
+  </a>
+  <a href="http://www.caseywatts.com/optimize.jpg">
+    <p class="description-well-half">Optimize All The Systems</p>
+  </a>
 </div>

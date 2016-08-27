@@ -94,3 +94,25 @@ $mobile: new-breakpoint(max-width 500px 12);
 #toc {
   background: #fff; // don't let the background be transparent
 }
+
+h2, h3, h4 {
+  margin-top: 35px;
+}
+
+.post-list {
+  h2, h3, h4 {
+    margin-top: 0px;
+  }
+}
+
+.description-well-half {
+  @extend .description-well;
+  display: inline-block;
+  width: 49%;
+}
+
+.description-well-quarter {
+  @extend .description-well;
+  display: inline-block;
+  width: 24%;
+}
