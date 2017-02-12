@@ -7,11 +7,9 @@ layout: default
 
 <h1 style="text-align: center;">Soundboard</h1>
 <div class="some-section">
-  <a href="#" class="bubble-link" onclick="document.getElementById('catbug-whoopsies').play();">
-    WHOOPSIES
-  </a>
-  <a href="#" class="bubble-link" onclick="document.getElementById('sardonyx-elegant').play();">ELEGANT</a>
-  <a href="#" class="bubble-link" onclick="document.getElementById('teengirlsquad-sogood').play();">SO GOOD</a>
+  <a href="#catbug-whoopsies" class="bubble-link" onclick="document.getElementById('catbug-whoopsies').play();">WHOOPSIES</a>
+  <a href="#sardonyx-elegant" class="bubble-link" onclick="document.getElementById('sardonyx-elegant').play();">ELEGANT</a>
+  <a href="#teengirlsquad-sogood" class="bubble-link" onclick="document.getElementById('teengirlsquad-sogood').play();">SO GOOD</a>
 </div>
 
 <h2 style="text-align: center;">Sources</h2>
@@ -20,3 +18,10 @@ layout: default
   <a href="https://www.youtube.com/watch?v=4rdgXaQc0bo">ELEGANT</a>
   <a href="https://www.youtube.com/watch?v=3CSNGEqhgI0">SO GOOD</a>
 </div>
+
+<script>
+  var autoplayTrackId = window.location.hash.substring(1);
+  if (autoplayTrackId) {
+    document.getElementById(autoplayTrackId).play();
+  }
+</script>
