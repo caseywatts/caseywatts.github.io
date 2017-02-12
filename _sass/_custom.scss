@@ -27,6 +27,9 @@ h4 {
   .icon path {
     fill: $grey-color-dark;
   }
+  .icon g {
+    stroke: $grey-color-dark;
+  }
 }
 
 // Sitewide Footer bar
