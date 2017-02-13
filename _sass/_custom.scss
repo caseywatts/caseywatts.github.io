@@ -1,22 +1,25 @@
 // Sitewide Things
 a {
   color: #574e88;
-  g {
+  g, path {
     stroke: #574e88;
+    fill: #574e88;
   }
 }
 
 a:visited {
   color: #433688;
-  g {
+  g, path {
     stroke: #433688;
+    fill: #433688;
   }
 }
 
 a:hover {
   color: #bdb3f7;
-  g {
+  g, path {
     stroke: #bdb3f7;
+    fill: #bdb3f7;
   }
   text-decoration: none;
 }
