@@ -18,7 +18,7 @@ A ~3-hour workshop that covers:
 ### Screen Record Hangouts using Quicktime Player + `soundflower`
 <http://caseywatts.com/quicktime>
 
-OSX can't record both outputs natively. Here's how to capture both `your mic` and `the other person's audio` during a Hangouts call.
+OSX can't record both outputs natively. Here's how to capture both `your mic` and `the other person's audio` during a Hangouts call / quicktime screen recording.
 
 ### FlipIt
 <http://caseywatts.com/flipit>
