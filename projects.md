@@ -15,6 +15,11 @@ A ~3-hour workshop that covers:
 - creating bookmarklets
 - creating a chrome extension
 
+### Screen Record Hangouts using Quicktime Player + `soundflower`
+<http://caseywatts.com/quicktime>
+
+OSX can't record both outputs natively. Here's how to capture both `your mic` and `the other person's audio` during a Hangouts call.
+
 ### FlipIt
 <http://caseywatts.com/flipit>
 
