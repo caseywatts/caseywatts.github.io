@@ -15,6 +15,12 @@
     <script src="{{ "/javascript/jquery.tocify.min.js" | prepend: site.baseurl }}" ></script>
     <script src="{{ "/javascript/custom.js" | prepend: site.baseurl }}" ></script>
     <script src="{{ "/javascript/plax.js" | prepend: site.baseurl }}" ></script>
+    <script type="text/javascript">
+      var host = 'caseywatts.com';
+      if ((host == window.location.host) && (window.location.protocol != 'https:')) {
+        window.location.protocol = 'https';
+      }
+    </script>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>
