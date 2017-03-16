@@ -11,7 +11,7 @@ intense troubleshooting for hours.
 
 For the most part, their [upgrade guide](http://www.mediawiki.org/wiki/Manual:Upgrading) was wonderful, and thorough, and had well documented some errors.
 
-##ERROR
+## ERROR
 The error I was stuck on happened when I would run `update.php` to migrate the database, which gave the error:
 
 ```
@@ -28,9 +28,9 @@ PHP Fatal error:  Class 'DOMDocument' not found in /var/www/html/wiki/includes/L
 enabled, from copying over the old LocalSettings.php and forgetting to
 toggle them off.)
 
-##Solution maybe?
+## Solution maybe?
 [MediaWiki's documentation](http://www.mediawiki.org/wiki/Manual:Errors_and_symptoms#Fatal_error:_Class_.27DOMDocument.27_not_found_in_xxxxxxxx.2FPreprocessor_DOM.php_on_line_nnn) documentation shows a similar error and the
-fix for it, but no dice. 
+fix for it, but no dice.
 
 I can't `sudo yum install php-xml`
 
@@ -41,7 +41,7 @@ From running `phpinfo();` on the server it looks like xml is enabled. I don't ha
 
 
 
-##Database Crawling
+## Database Crawling
 And once it crashed, I had to reload the database or nothing else would work, of course. It took a good 15 minutes each time I had to.
 
 - I could not upgrade 1.18.0 => 1.21.0
@@ -49,7 +49,6 @@ And once it crashed, I had to reload the database or nothing else would work, of
 - I could upgrade 1.18.0 => 1.19.0 => 1.20.0, but not all the way to
   1.21.0
 
-##The Solution!
+## The Solution!
 I don't have one yet. It might be having a more privileged admin install that package
 `php-xml`?
-

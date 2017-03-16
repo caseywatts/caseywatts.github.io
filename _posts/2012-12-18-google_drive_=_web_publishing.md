@@ -15,13 +15,13 @@ You can host a web page on google drive now. You can even host relative assets, 
 
 One stumbling point I had: If you need assets, you have to use the root **folder's** long identifying string. Not the specific HTML file's string.
 
-###Hosting solution for markdown presentations?
+### Hosting solution for markdown presentations?
 I'd love a way to use markdown to generate HTML presentations. If I were to use a markdown-generated HTML presentation, I'd probably want to host it somewhere. Probably exactly where I edit it in the first place. In my google drive!
 
-###I took a shot at it
+### I took a shot at it
 So I hosted a folder of "presentations" I may potentially give:
 [Presentations on Google Drive](https://googledrive.com/host/0B4pzqThqXEKfdlVkSlBSaVNwQkE/)
 
-###Hesitations
+### Hesitations
 1. Image embedding is manual by filename - ick. That's not going away either.
 2. Remark.js default styling is horrible. I tried to emulate reveal.js but it's hard.

@@ -171,7 +171,7 @@ This is an incomplete list of participants (we didn't have people sign in like t
 * John Parejko
 * Charles Proctor
 * Tucker Severson
-* Joseph Tyman 
+* Joseph Tyman
 * Casey Watts
 * Gary Wright
 * Steven Young

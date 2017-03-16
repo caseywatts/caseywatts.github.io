@@ -11,7 +11,7 @@ It’s hard to shop for laptops, there are so many variables.
 
 Have you helped anyone recently, is there anything in particular you’d look out for?
 
-##What To Consider
+## What To Consider
 
 This this the best article I’ve seen on this topic - they even try to include data when they can.
 <http://lifehacker.com/computer-manufacturers-ranked-how-to-pick-a-laptop-tha-1467145338>
@@ -22,7 +22,7 @@ This this the best article I’ve seen on this topic - they even try to include 
 - Consider Your Needs
 I’d add that you might want to look on deal sites some too, those can help~
 
-##Example Situation
+## Example Situation
 
 I wrote a long email trying to give advice for a specific situation in June 2012. It’s a little outdated but hopefully still relevant.
 
