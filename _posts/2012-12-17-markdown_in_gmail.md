@@ -42,5 +42,8 @@ The original email is (almost) completely raw; how we sent it anyway. The conver
 #### After
 ![after](/assets/images/markdown_here_after.png)
 
+#### More examples
+Check out more examples in [this thread](https://groups.google.com/d/msg/markdown-here/XlsuTCHR4zE/MfzLnGFwPjQJ)
+
 ## Conclusion
 I'm excited to use markdown in one more place! Away with GUI formatting!
