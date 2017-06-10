@@ -20,7 +20,7 @@ The BEST thing I've ever done to my bash/zsh.
 Everyone has their own dotfiles. My way is simple - just a couple of symlinks from a github repo.
 
 ### [FlipIt](http://caseywatts.com/flipit)
-From the development server, open the current page on the production - and vice versa.
+From the development server, open the current page on the production - and vice versa. Useful for comparing css or functionality changes quickly.
 
 ### [Push To Talk in a Google Hangout (Meet)](http://caseywatts.com/ptt)
 Hold spacebar to talk; otherwise you're muted.
