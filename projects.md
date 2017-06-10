@@ -4,7 +4,9 @@ title: Projects
 group: navigation
 ---
 
-## Big Projects
+## Projects
+
+{% include neurobiologists_guide.md %}
 
 ### CardSwipr  
 <http://github.com/YaleSTC/cardswipr>
