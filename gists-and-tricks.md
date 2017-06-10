@@ -24,6 +24,9 @@ Everyone has their own dotfiles. My way is simple - just a couple of symlinks fr
 ### [FlipIt](http://caseywatts.com/flipit)
 From the development server, open the current page on the production - and vice versa. Useful for comparing css or functionality changes quickly.
 
+### [Slack Emoticon Extraction](http://caseywatts.com/slackemoticons)
+One of your Slacks has a ton of emoticons that your others don't? Download them all at once with this tool ✨
+
 ### [Push To Talk in a Google Hangout (Meet)](http://caseywatts.com/ptt)
 Hold spacebar to talk; otherwise you're muted.
 
