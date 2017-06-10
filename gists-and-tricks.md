@@ -17,7 +17,7 @@ Summary, notes, links, related videos, book: <http://caseywatts.com/mindmanipula
 
 
 ### [Chrome Extension Workshop (Self-Directed)](http://caseywatts.com/chromeextensionworkshop)
-A ~3-hour workshop that covers:
+I've given this ~3-hour workshop quite a few times. It's written to be do-able on your own at home, too! Even for someone with very little javascript experience. It covers:
 
 - using the javascript console
 - creating bookmarklets
