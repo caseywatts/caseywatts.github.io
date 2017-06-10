@@ -1,51 +1,10 @@
 ---
 layout: default
 title: Projects
-tagline: things I've dabbled in
 group: navigation
 ---
 
-## Gists (Bookmarklets, etc)
-
-### Chrome Extension Workshop
-<http://caseywatts.com/chromeextensionworkshop>
-
-A ~3-hour workshop that covers:
-- using the javascript console
-- creating bookmarklets
-- creating a chrome extension
-
-### Screen Record Hangouts using Quicktime Player + `soundflower`
-<http://caseywatts.com/quicktime>
-
-OSX can't record both outputs natively. Here's how to capture both `your mic` and `the other person's audio` during a Hangouts call / quicktime screen recording.
-
-### FlipIt
-<http://caseywatts.com/flipit>
-
-From the development server, open the current page on the production - and vice versa.
-
-### Pixlr
-<http://caseywatts.com/pixlr>
-
-Open the current image (opened in a tab) in pixlr express. To easily put a overlay of text over something, etc.
-
-### Slugify
-<http://caseywatts.com/slugify>
-
-For a given pivotal card that's open, create an appropriate github branch name for it - including the `id` and `ticket title`.
-
-### Autorefresh Terminal History
-<https://gist.github.com/caseywatts/a54bea8b93626b99f5ee>
-
-Useful for presentations where you want to show the audience what commands you've typed.
-
-### Params to Form Input
-<https://gist.github.com/caseywatts/5952495>
-
-Easily fill out web forms using data from a spreadsheet using this bookmarklet.
-
-## Repositories
+## Big Projects
 
 ### CardSwipr  
 <http://github.com/YaleSTC/cardswipr>
