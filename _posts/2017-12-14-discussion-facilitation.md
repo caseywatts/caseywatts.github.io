@@ -5,17 +5,16 @@ tagline: unconference-inspired
 tags:
 ---
 
-People come to an unconference session with different goals. The *best* discussions happen when the group brainstorms and prioritizes topics, and topics can be discussed all at once in a "threaded" way.
+An "unconference" is a conference without a set agenda, and without set speakers. Attendees determine discussion topics the morning-of, and then each small group decides how to delve into the topic on its own.
 
->The key to a **threaded** unconference session is to spend some time at the beginning to **brainstorm** and **prioritize** topics.
+>The best unconference sessions are **threaded** - where attendees spend time at the beginning to **brainstorm** and **prioritize** topics.
 
 ## Threaded vs Unthreaded
 Many unconference sessions are **unthreaded**. Anyone can make a comment whenever they want, about any topic. For example, for topics A, B and C, here's an order of people's comments: `A B A C B D A` - that's a lot of jumping around between topics.
 
 After a bunch of that, often the moderator will ask the group to try and respond to previous comments - and that works partially. This unthreaded-ness happens so often because of the inherent structure of an unconference session - but we can do better.
 
-There's another style that's possible, and that's having a deliberately **threaded** unconference session. Comments might then go: `A A A B B C D`. People tend to prefer this style. The key to a **threaded** unconference session is to spend some time at the beginning to **brainstorm** and **prioritize** topics.
-
+There's another style that's possible, and that's having a deliberately **threaded** unconference session. Comments might then go: `A A A B B C D`. People tend to prefer this style. A threaded unconference session happens when attendees spend time at the beginning to **brainstorm** and **prioritize** topics.
 
 ## Brainstorming
 1. **Brainstorming** & Grouping: Ask `"What topics do you think the session might end up being about?"`. As we go through so many ideas, try to group some ideas together. (Once recently, 10-15 ideas came up in ~4 groups).
