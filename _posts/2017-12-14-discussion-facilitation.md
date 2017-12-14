@@ -14,7 +14,7 @@ Many unconference sessions are **unthreaded**. Anyone can make a comment wheneve
 
 After a bunch of that, often the moderator will ask the group to try and respond to previous comments - and that works partially. This unthreaded-ness happens so often because of the inherent structure of an unconference session - but we can do better.
 
-There's another style that's possible, and that's having a deliberately **threaded** unconference session. Comments might then go: `A A A B B C D`. People tend to prefer this style. A threaded unconference session happens when attendees spend time at the beginning to **brainstorm** and **prioritize** topics.
+Another style is possible: having a deliberately **threaded** unconference session. Comments might then go: `A A A B B C D`. People tend to prefer this style. A threaded unconference session happens when attendees spend time at the beginning to **brainstorm** and **prioritize** topics.
 
 ## Brainstorming
 1. **Brainstorming** & Grouping: Ask `"What topics do you think the session might end up being about?"`. As we go through so many ideas, try to group some ideas together. (Once recently, 10-15 ideas came up in ~4 groups).
