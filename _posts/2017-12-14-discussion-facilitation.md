@@ -7,6 +7,8 @@ tags:
 
 An "unconference" is a conference without a set agenda, and without set speakers. Attendees determine discussion topics the morning-of, and then each small group decides how to delve into the topic on its own.
 
+I facilitate unconference discussions a bit differently than I've seen anyone else do it - and people seem to love this format! 🤗
+
 >The best unconference sessions are **threaded** - where attendees spend time at the beginning to **brainstorm** and **prioritize** topics.
 
 ## Threaded vs Unthreaded
@@ -19,7 +21,7 @@ Another style is possible: having a deliberately **threaded** unconference sessi
 ## Brainstorming
 1. **Brainstorming** & Grouping: Ask `"What topics do you think the session might end up being about?"`. As we go through so many ideas, try to group some ideas together. (Once recently, 10-15 ideas came up in ~4 groups).
 2. **Prioritization** & Quick Vote: `"Let's choose our next topic. Someone suggest one? [hands] And another one? [hands]"` Ask people to raise their hand if they're excited for that topic. Raise hands on a couple of topics to see what the highest priority is. Counting hands isn't always necessary.
-3. Then we go through the topics the room most wanted to go through. Whenever someone has an idea for a new topic we can add it to our list - but we won't delve into the the topic until it's deliberately chosen by the group.
+3. Then we go through the most desired topics. Whenever someone has an idea for a new topic we can add it to our list - but we won't delve into the the topic until it's deliberately chosen by the group.
 
 ## Setup
 - **Big Screen**: If you have a projector or large screen available: try collecting brainstormed-ideas on a google doc. A bulleted list on a google doc is awesome for grouping things visually.
