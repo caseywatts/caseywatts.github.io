@@ -30,12 +30,14 @@ Curated resources used to improve team collaboration
 
 ## Book Me
 
-I'm willing to give these talks for your company or organization.
+### Developer Psychology
+Want your team to be the happiest, most productive team around? Your team would love to see my talk "A Developer's Guide to Mind Manipulation". I'd love to travel to your company and share these modern psychology techniques with your team. So many attendees have told me it was immensely impactful, and the techniques stayed with them even much after the talk.
 
-The "Neurobiologist's Guide to Mind Manipulation" talk can be done as a Lunch & Learn. I'll do a 25 minute presentation, followed by 25 minutes of open questions and/or facilitated discussion time. I charge $750 for this which includes my travel time and cost, time off work, the content and my expertise.
+The "Neurobiologist's Guide to Mind Manipulation" talk can be done as a Lunch & Learn. I'll do a 25 minute presentation, followed by 25 minutes of open questions and/or facilitated discussion time. Each workshop costs $750 (for the DC area).
 
-The Electron Workshop and Chrome Extension Workshop are each 3-5 hours. Teams really enjoy these, and pick up many modern javascript skills. I charge $1500 for each of these, which includes my travel time and cost, time off work, the content and my expertise.
+Email me at: `casey.s.watts (at) gmail.com`
 
-If cost is a barrier, we can discuss that.
+### Javascript Workshops
+The Electron Workshop and Chrome Extension Workshop are each 3-5 hours. Your team will quickly and effectively pick up many modern javascript skills - both ES6 in general, and the specific topic. Each workshop costs $2000 (for the DC area).
 
 Email me at: `casey.s.watts (at) gmail.com`
