@@ -6,15 +6,6 @@ group: navigation
 
 ## Gists & Tricks
 
-{% include neurobiologists_guide.md %}
-
-### [Chrome Extension Workshop (Self-Directed)](http://caseywatts.com/chromeextensionworkshop)
-I've given this ~3-hour workshop quite a few times. It's written to be do-able on your own at home, too! Even for someone with very little javascript experience. It covers:
-
-- using the javascript console
-- creating bookmarklets
-- creating a chrome extension
-
 ### [Browsersync](http://caseywatts.com/browsersync)
 A simple local HTTP server that auto-reloads AND makes it available on mobile. A critical tool for html/css design work. The gist also has instructions for a more advanced setup with `sass` compiling using `foreman`.
 
