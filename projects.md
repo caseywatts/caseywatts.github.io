@@ -6,7 +6,7 @@ group: navigation
 
 ## Projects
 
-### CardSwipr  
+### CardSwipr
 <http://github.com/YaleSTC/cardswipr>
 
 Keeps track of who has attended an event, using their Yale ID card to swipe in. A small, simple application in Ruby on Rails. Interviewed every group on campus that had a similar system to see how this app might meet their needs. Worked with central ITS to expose [card-swipe ⇔ identity] as a web API.
@@ -35,3 +35,8 @@ Improves the experience of Service Now, is an IT ticket tracking software with a
 <http://yalewiki.org> (retired)
 
 Helps people share information and collaborate, especially long-term. Editable by anyone affiliated with the group. For YaleWiki.org, &gt;50,000 views/year by a population of &lt;5,000. Information architecture, server administration, MediaWiki with custom plugins.
+
+### Various Visualizations
+- [Calendar Heatmap of Email Data](https://github.com/caseywatts/gmail-stats-plotting)
+- [Sunburst-style Orgchart](https://github.com/caseywatts/orgchart-sunburst)
+- [Spider Chart connecting to Google Sheets](https://github.com/caseywatts/GoogleFormToRadarGraph)
