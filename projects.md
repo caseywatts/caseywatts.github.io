@@ -40,3 +40,4 @@ Helps people share information and collaborate, especially long-term. Editable b
 - [Calendar Heatmap of Email Data](https://github.com/caseywatts/gmail-stats-plotting)
 - [Sunburst-style Orgchart](https://github.com/caseywatts/orgchart-sunburst)
 - [Spider Chart connecting to Google Sheets](https://github.com/caseywatts/GoogleFormToRadarGraph)
+- [Graphviz Bubbles Diagram](https://gist.github.com/caseywatts/b6565da461e69d8eb5235075320cda09)
