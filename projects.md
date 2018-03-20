@@ -6,6 +6,11 @@ group: navigation
 
 ## Projects
 
+### DC Metro Map
+<https://caseywatts.com/dcmetromap>
+
+This "mobile app" keeps a copy of DC's Metro Map offline for you to use while you're underground without internet access. It's not an app store app, but it looks like one. You do "add to home screen", and it's available as an app icon and it works offline! It's using technology that makes it a "Progressive Web Application".
+
 ### CardSwipr
 <http://github.com/YaleSTC/cardswipr>
 
