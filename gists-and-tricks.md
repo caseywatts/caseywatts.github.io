@@ -33,6 +33,9 @@ For a given pivotal card that's open, create an appropriate github branch name f
 ### [Screen Record Hangouts using Quicktime Player + `soundflower`](http://caseywatts.com/quicktime)
 OSX can't record both outputs natively. Here's how to capture both `your mic` and `the other person's audio` during a Hangouts call / quicktime screen recording.
 
+### [Make gifs via Quicktime](http://caseywatts.com/quicktimegifs)
+Quicktime records `.mp4` files. You can turn that into a gif using `ffmpeg`.
+
 ### [Mediawiki on Heroku](http://caseywatts.com/mediawikionheroku)
 Mediawiki can be challenging to set up. One of the most cost-effective setups you can do uses Heroku and ClearDB.
 
