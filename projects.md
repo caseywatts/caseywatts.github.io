@@ -41,7 +41,8 @@ Improves the experience of Service Now, is an IT ticket tracking software with a
 
 Helps people share information and collaborate, especially long-term. Editable by anyone affiliated with the group. For YaleWiki.org, &gt;50,000 views/year by a population of &lt;5,000. Information architecture, server administration, MediaWiki with custom plugins.
 
-### Various Visualizations
+### Visualizations
+- [Full Stack Bootcamp Curriculum - Dependency Chart](https://gist.github.com/caseywatts/93cba34cd882a05b3107)
 - [Calendar Heatmap of Email Data](https://github.com/caseywatts/gmail-stats-plotting)
 - [Sunburst-style Orgchart](https://github.com/caseywatts/orgchart-sunburst)
 - [Spider Chart connecting to Google Sheets](https://github.com/caseywatts/GoogleFormToRadarGraph)
