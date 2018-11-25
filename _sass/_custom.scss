@@ -85,8 +85,19 @@ h4 {
 .post-content img {
   border: 1px solid #ccc;
   border-radius: 3px;
-  margin: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  display: block;
 }
+// image with caption
+
+.post-content img + em {
+  display: block;
+  text-align: center;
+}
+
 
 $mobile: new-breakpoint(max-width 500px 12);
 
@@ -145,4 +156,16 @@ h2, h3, h4 {
   padding: 30px;
   text-align: center;
   flex:1;
+}
+
+
+// tables
+table {
+  border-spacing: 0px;
+  margin: 25px;
+}
+td {
+  padding: 10px;
+  border-left: 1px solid silver;
+  border-right: 1px solid silver;
 }
