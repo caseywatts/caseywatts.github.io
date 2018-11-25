@@ -12,7 +12,8 @@ title: Blog
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }} <span class="tagline">{{ post.tagline }}</span>
+            {{ post.title }}
+            <div class="tagline">{{ post.tagline }}</div>
           </a>
         </h2>
       </li>
