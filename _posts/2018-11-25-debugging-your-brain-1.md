@@ -72,16 +72,21 @@ To summarize, "inner brain" feelings are processed much more quickly than "outer
 
 ## Systems Thinking
 
-### Introduction
+### IPO Model
 
-Developers, engineers, and scientists are great systems thinkers. Whether you identify with any of these or not, you can be a systems thinker too! Let’s break this down.
+Developers, engineers, and scientists are great systems thinkers. Whether or not you identify with any of these, you can be a systems thinker too! Let’s break down one of the most common and simplest systems models, the "IPO" Model.
 
 ![engineer system](/assets/engineer%20system.png)
-*The Engineer's System Diagram*
+*The IPO Model*
 
-A system has: input, output, process in the middle, a feedback loop. A textbook example of "The Engineer's System Diagram" is the thermostat in your home. The thermostat measures the temperature of the room (input). It then compares that temperature to the set temperature, determining if it’s above or below the temperature you set (process). It then toggles the heater on or off accordingly (output). The temperature of the room changes, and eventually the cycle repeats (feedback loop).
+IPO stands for "Input, Process, Output". The IPO Model has input, output, process in the middle, and sometimes it includes a feedback loop.
 
-If you’d like, you could mentally model this as a function in software. A function accepts arguments (input) and returns a return value (output). Some code happens inside the body of the function (the process). And this function being called affects other things in the software, which sometimes calls the function again (feedback loop).
+A textbook example of the IPO Model is the thermostat in your home. The thermostat measures the temperature of the room (input). It then compares that temperature to the set temperature, determining if it’s above or below the temperature you set (process). It then toggles the heater on or off accordingly (output). The temperature of the room changes, and eventually the cycle repeats (feedback loop).
+
+I learned about this model in a middle school "engineering" class, and it was my first exposure to systems thinking. I nicknamed this simple model "The Engineer's System Diagram" at the time, and only later learned to call it the IPO Model.
+
+You can apply the IPO model to software development - it maps pretty cleanly to a function.  A function accepts arguments (the input) and returns a return value (the output). Some code happens inside the body of the function (the process). Calling the function also affects other things in the software, which sometimes calls the function again (the feedback loop).
+
 
 ### Systems Thinking & Conscious Thought
 We can use "The Engineer’s System Diagram" to model an animal or human, too!
