@@ -33,7 +33,7 @@ Here are three examples of situations where cognitive restructuring may help. Ea
 ### Work Disagreement
 Let's say you're at work and you have an idea, and your coworker has a different idea. You don't agree. You're having an argument, and it gets heated. You both believe very strongly that your idea is the best one for the situation. Hopefully your team will end up making the choice that's best for the situation. This topic will likely come up again - what can you do better next time?
 
-### Kids
+### Leaving The Door Open
 Imagine you're a parent, and your kids forgot to shut the front door - again! You might snap at them. You later feel guilty for snapping. It wasn't the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
 
 ### Hangry Meetup
