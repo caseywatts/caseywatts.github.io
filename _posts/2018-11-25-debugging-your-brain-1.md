@@ -50,7 +50,7 @@ A much more useful dichotomy is the inner brain versus the outer brain. Let's il
 
 This illustrates the "Dual Pathway Model of Fear" (LeDoux). I’m using fear here as a vivid example, but the core idea applies to non-fear emotions as well.
 
-The "low road" path is much faster than the "high road" one. The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the "inner brain" (Limbic System), which is a much shorter path. Animals have this part of the brain too - this is where fear is experienced.
+The "low road" path is much faster than the "high road" one. The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the "inner brain" (Limbic System), which is a much shorter path. Humans and animals both have this part of the brain. It is older than the "outer brain" in evolutionary terms. The inner brain is where fear is experienced.
 
 ![inner brain](/assets/inner%20brain.png)
 *The "inner brain" pathway is very short.*
@@ -101,9 +101,15 @@ But we humans aren’t always so aware of what’s going on inside our heads. Wh
 ![autopilot vs mindful](/assets/autopilot%20vs%20mindful.png)
 *Model of autopilot: input leads to output. Model of mindfulness: input leads to process leads to output.*
 
-You experience both "automatic thoughts" and "automatic feelings" - they just happen. From the perspective of your consciousness, they're basically inputs to that you can't control. When you're being "mindful" you can then choose to experience "deliberate thoughts" and "deliberate feelings" in response to your inputs.
+You experience both "automatic thoughts" and "automatic feelings" - they just happen to you. From the perspective of your consciousness, they're inputs to that you can't control. When you are being "mindful" you can then choose to experience "deliberate thoughts" and influence your feelings.
 
-You can probably imagine how to have a "deliberate thought" - you just think it! I consider a "deliberate feeling" one you consciously decided (thought) to experience, and you influence your thoughts and actions to help you feel that way. It’s still deliberate, but in an indirect way. If you want to think "influenced feelings" instead, that would an appropriate synonym.
+You can probably imagine how to have a "deliberate thought" - you just think it!  In a way, all feelings are “automatic feelings” because you can’t will yourself to have a “deliberate feeling”. You can, however influence your feelings based on the deliberate thoughts you think. You could call an influenced-feeling a partially-deliberate feeling.
+
+|  | automatic | deliberate |
+| -- | -- | -- |
+| thought | automatic thought | deliberate thought |
+| feeling | automatic feeling | influenced feeling |
+
 
 ### Downward Spiral
 Sometimes these automatic or deliberate thoughts and feelings can cause a troublesome feedback loop - a downward spiral.
