@@ -57,12 +57,12 @@ This illustrates the "Dual Pathway Model of Fear" (LeDoux). I’m using fear her
 The "low road" path is much faster than the "high road" one. The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the "inner brain" (Limbic System), which is a much shorter path. Humans and animals both have this part of the brain. It is older than the "outer brain" in evolutionary terms. The inner brain is where fear is experienced.
 
 ![inner brain - emotion path](/assets/brain%20emotion%20path.png)
-*The "inner brain" pathway is very short.*
+*The "inner brain" or "low road" pathway is shorter and faster.*
 
 The "high road" is much slower. Thoughts are processed more slowly, on the scale of seconds. It has to go all the way through the "outer brain" (cortex), which is a much longer path. The cortex is the part of the brain humans actually think in - your conscious mind. Humans have the largest cortex relative to brain size - much larger than animals. Some people like to oversimplify and claim that animals can’t "think" - that they don’t use their cortex in the same way humans do.
 
 ![outer brain  - thought path](/assets/brain%20thought%20path.png)
-*The "outer brain" pathway is very long.*
+*The "outer brain" or "high road" pathway is longer and slower.*
 
 
 | "low road" | "high road" |
