@@ -34,14 +34,14 @@ Here are three examples of situations where cognitive restructuring may help. Ea
 Let's say you're at work and you have an idea, and your coworker has a different idea. You don't agree. You're having an argument, and it gets heated. You both believe very strongly that your idea is the best one for the situation. Hopefully your team will end up making the choice that's best for the situation. This topic will likely come up again - what can you do better next time?
 
 ### Leaving The Door Open
-Imagine you're a parent, and your kids forgot to shut the front door - again! You might snap at them. You later feel guilty for snapping. It wasn't the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
+Imagine you're a parent, and your kids forgot to shut the front door - again! You snap at them. You later feel guilty for snapping. It wasn't the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
 
 ### Hangry Meetup
 Once I (Casey) was headed to a meet-up. I hadn't eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst". All of a sudden I couldn't imagine going to the Meetup anymore - and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I'm glad I did!
 
 ## Inner vs Outer Brain
 
-You might mentally think of the brain as two halves - the left hemisphere, and the right hemisphere. That's not such a useful dichotomy. A lot of the generalizations we make about left vs right aren't true, and it exaggerates the differences between the two halves.
+You might like to think of the brain as two halves - the left hemisphere, and the right hemisphere. That's not such a useful dichotomy. A lot of the generalizations we make about left vs right aren't true, and it exaggerates the differences between the two halves.
 
 A much more useful dichotomy is the inner brain versus the outer brain. Let's illustrate the difference between these two halves.
 
