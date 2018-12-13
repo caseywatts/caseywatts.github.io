@@ -14,21 +14,21 @@ I assign "homework" at the end of some sections -- you'll learn the most if you 
 
 Who's writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a [few neurobiology papers](https://caseywatts.com/mindmanipulation).
 
-## Cognitive Restructuring
+## Goals
 
 Do you want to be a happier and more effective person? Of course you do!
 
-These "Cognitive Restructuring" techniques will help you choose the best response in a given situation, to get the most effective outcome. One of the worst (least adaptive) outcomes is ending up in a "downward spiral". The following techniques are especially important in high-stakes or emotional situations where you might a "downward spiral".
+The following "brain debugging" techniques will help you choose the best response in a given situation, to get the most effective outcome. One of the worst (least adaptive) outcomes is ending up in a "downward spiral". The following techniques are especially important in high-stakes or emotional situations where you might a "downward spiral".
 
 These will help you understand yourself better, they will help you communicate your mental state more clearly, and they will help you understand other people better as well. It can even help you understand other people's perspectives more readily and quickly.
 
 When you are on autopilot in a stressful situation, you may end up with an undesirable outcome. You might not convey your ideas clearly, and you might damage your relationship with the people involved.
 
-When can you try using cognitive restructuring? Either in the moment it's happening, if you catch yourself, or after the fact when you can reflect back on the situation. You might be able to change the outcome of the current situation, or you might at least set yourself up to have a more desirable outcome if a similar situation arises in the future.
+When can you apply these techniques? Either in the moment it's happening, if you catch yourself, or after the fact when you can reflect back on the situation. You might be able to change the outcome of the current situation, or you might at least set yourself up to have a more desirable outcome if a similar situation arises in the future.
 
 ## Opportunities
 
-Here are three examples of situations where cognitive restructuring may help. Each of these bad situations might end up with a desirable or undesirable outcome. Later we'll get into what you might do to make yourself more effective in each of these, getting a more desirable outcome.
+Here are three examples of situations where "brain debugging" may help. Each of these bad situations might end up with a desirable or undesirable outcome. Later we'll get into what you might do to make yourself more effective in each of these, getting a more desirable outcome.
 
 ### Work Disagreement
 Let's say you're at work and you have an idea, and your coworker has a different idea. You don't agree. You're having an argument, and it gets heated. You both believe very strongly that your idea is the best one for the situation. Hopefully your team will end up making the choice that's best for the situation. This topic will likely come up again -- what can you do better next time?
@@ -134,8 +134,6 @@ For example, that time when I stepped in a puddle on my way to a Meetup event. T
 A downward spiral like this is not usually so useful. It manages to both make you feel worse AND distract you from focusing on things that are important. We generally want to avoid downward spirals.
 
 If you effectively influence your mind, you can often control whether you let this happen to yourself or not. You will become more effective, think more clearly, and choose a better response more often.
-
-Let's say you find yourself in a downward spiral situation, and you want to stop it! How do you do it? Cognitive Restructuring! Read on, the following sections will help a lot.
 
 ## Homework
 
