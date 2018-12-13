@@ -6,13 +6,13 @@ tags:
 ---
 
 
-You are about to learn how to "debug your brain" - how to manipulate your own mind to make yourself happier and more effective. You'll end up with a systems-thinking way to view yourself. A mental model of your mind.
+You are about to learn how to "debug your brain", making yourself happier and more effective. You'll end up with a systems-thinking way to view yourself, a mental model of your mind.
 
 {% include debugging_your_brain_toc.md %}
 
-I assign "homework" at the end of some sections - you'll learn the most if you actually do these. I have also collected my favorite resources around this topic in a [published google doc](https://caseywatts.com/mindmanipulation).
+I assign "homework" at the end of some sections -- you'll learn the most if you actually do these. I have also collected my favorite resources around this topic in a [published google doc](https://caseywatts.com/mindmanipulation).
 
-Who's writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a [few neurobiology papers](https://caseywatts.com/mindmanipulation). These papers aren't directly relevant to this topic, they just illustrate my background some.
+Who's writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a [few neurobiology papers](https://caseywatts.com/mindmanipulation).
 
 ## Cognitive Restructuring
 
@@ -31,17 +31,17 @@ When can you try using cognitive restructuring? Either in the moment it's happen
 Here are three examples of situations where cognitive restructuring may help. Each of these bad situations might end up with a desirable or undesirable outcome. Later we'll get into what you might do to make yourself more effective in each of these, getting a more desirable outcome.
 
 ### Work Disagreement
-Let's say you're at work and you have an idea, and your coworker has a different idea. You don't agree. You're having an argument, and it gets heated. You both believe very strongly that your idea is the best one for the situation. Hopefully your team will end up making the choice that's best for the situation. This topic will likely come up again - what can you do better next time?
+Let's say you're at work and you have an idea, and your coworker has a different idea. You don't agree. You're having an argument, and it gets heated. You both believe very strongly that your idea is the best one for the situation. Hopefully your team will end up making the choice that's best for the situation. This topic will likely come up again -- what can you do better next time?
 
 ### Leaving The Door Open
-Imagine you're a parent, and your kids forgot to shut the front door - again! You snap at them. You later feel guilty for snapping. It wasn't the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
+Imagine you're a parent, and your kids forgot to shut the front door -- again! You snap at them. You later feel guilty for snapping. It wasn't the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
 
 ### Hangry Meetup
-Once I (Casey) was headed to a meet-up. I hadn't eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst". All of a sudden I couldn't imagine going to the Meetup anymore - and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I'm glad I did!
+Once I (Casey) was headed to a meet-up. I hadn't eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst". All of a sudden I couldn't imagine going to the Meetup anymore -- and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I'm glad I did!
 
 ## Inner vs Outer Brain
 
-You might like to think of the brain as two halves - the left hemisphere, and the right hemisphere. That's not such a useful dichotomy. A lot of the generalizations we make about left vs right aren't true, and it exaggerates the differences between the two halves.
+Some believe that "left-brained" people are more inclined to be creative, and "right-brained" people are more inclined to be analytical. Analytical vs creative may be a useful dichotomy, but these traits don't seem to stem from the two hemispheres of the brain. The difference between these two halves of the brain is often exaggerated. Here is [one study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275) that goes into this in some depth.
 
 A much more useful dichotomy is the inner brain versus the outer brain. Let's illustrate the difference between these two halves.
 
@@ -56,12 +56,12 @@ This illustrates the "Dual Pathway Model of Fear" (LeDoux). I'm using fear here 
 
 The "low road" path is much faster than the "high road" one. The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the "inner brain" (Limbic System), which is a much shorter path. Humans and animals both have this part of the brain. It is older than the "outer brain" in evolutionary terms. The inner brain is where fear is experienced.
 
-![inner brain - emotion path](/assets/brain%20emotion%20path.png)
+![inner brain -- emotion path](/assets/brain%20emotion%20path.png)
 *The "inner brain" or "low road" pathway is shorter and faster.*
 
-The "high road" is much slower. Thoughts are processed more slowly, on the scale of seconds. It has to go all the way through the "outer brain" (cortex), which is a much longer path. The cortex is the part of the brain humans actually think in - your conscious mind. Humans have the largest cortex relative to brain size - much larger than animals. Some people like to oversimplify and claim that animals can't "think" - that they don't use their cortex in the same way humans do.
+The "high road" is much slower. Thoughts are processed more slowly, on the scale of seconds. It has to go all the way through the "outer brain" (cortex), which is a much longer path. The cortex is the part of the brain humans actually think in -- your conscious mind. Humans have the largest cortex relative to brain size -- much larger than animals. Some people like to oversimplify and claim that animals can't "think" -- that they don't use their cortex in the same way humans do.
 
-![outer brain  - thought path](/assets/brain%20thought%20path.png)
+![outer brain  -- thought path](/assets/brain%20thought%20path.png)
 *The "outer brain" or "high road" pathway is longer and slower.*
 
 
@@ -89,17 +89,17 @@ A textbook example of the IPO Model is the thermostat in your home. The thermost
 
 I learned about this model in a middle school "engineering" class, and it was my first exposure to systems thinking. I nicknamed this simple model "The Engineer's System Diagram" at the time, and only later learned to call it the IPO Model.
 
-You can apply the IPO model to software development - it maps pretty cleanly to a function.  A function accepts arguments (the input) and returns a return value (the output). Some code happens inside the body of the function (the process). Calling the function also affects other things in the software, which sometimes calls the function again (the feedback loop).
+You can apply the IPO model to software development -- it maps pretty cleanly to a function.  A function accepts arguments (the input) and returns a return value (the output). Some code happens inside the body of the function (the process). Calling the function also affects other things in the software, which sometimes calls the function again (the feedback loop).
 
 
 ### Systems Thinking & Conscious Thought
 We can use the IPO model to model brains, too!
 
-The simplest form of this diagram is just input and output. Imagine a simple model of an animal that says they don't really "think" - they just respond to their environment.
+The simplest form of this diagram is just input and output. Imagine a simple model of an animal that says they don't really "think" -- they just respond to their environment.
 
-The classic "Pavlov's Dog" idea uses this model. The dog is trained to associate a bell being rung with being fed. After this conditioning, every time the bell rings, the dog salivates - even if there is no food around. The dog doesn't have to decide whether to salivate. Salivation just an automatic reaction it has to external stimuli. This phenomenon can be referred to as "Pavlovian conditioning" or "classical conditioning".
+The classic "Pavlov's Dog" idea uses this model. The dog is trained to associate a bell being rung with being fed. After this conditioning, every time the bell rings, the dog salivates -- even if there is no food around. The dog doesn't have to decide whether to salivate. Salivation just an automatic reaction it has to external stimuli. This phenomenon can be referred to as "Pavlovian conditioning" or "classical conditioning".
 
-In an oversimplification, we can imagine that there is no conscious "process" going on inside the animal. In contrast, we believe we humans always have conscious thought - we think thoughts and feel feelings in a conscious way.
+In an oversimplification, we can imagine that there is no conscious "process" going on inside the animal. In contrast, we believe we humans always have conscious thought -- we think thoughts and feel feelings in a conscious way.
 
 ![animal vs human](/assets/animal%20vs%20human.png)
 *Model of an animal: input leads to output. Model of a human: input leads to process leads to output.*
@@ -111,9 +111,9 @@ But we humans aren't always so aware of what's going on inside our heads. When w
 
 ### Automatic vs Deliberate Thoughts and Feelings
 
-You experience both "automatic thoughts" and "automatic feelings" - they both just happen "to" you. From the perspective of your consciousness, they're inputs that you can't control.
+You experience both "automatic thoughts" and "automatic feelings" -- they both just happen "to" you. From the perspective of your consciousness, they're inputs that you can't control.
 
-When you are being "mindful" you can then actively choose to have "deliberate thoughts" and influence your feelings. You can probably imagine how to have a "deliberate thought" - you just think it!
+When you are being "mindful" you can then actively choose to have "deliberate thoughts" and influence your feelings. You can probably imagine how to have a "deliberate thought" -- you just think it!
 
 As for feelings, you  can't will yourself to experience a specific feeling directly. You can, however influence your feelings based on the deliberate thoughts you think. This influenced-feeling is partially deliberate. This is partially within your influence, but not within your (direct) control.
 
@@ -124,7 +124,7 @@ As for feelings, you  can't will yourself to experience a specific feeling direc
 
 
 ### Downward Spiral
-Sometimes these automatic or deliberate thoughts and feelings can cause a troublesome feedback loop - a "downward spiral". A downward spiral is a feedback loop of negative thoughts, leading to negative feelings, leading to more negative thoughts, etc.
+Sometimes these automatic or deliberate thoughts and feelings can cause a troublesome feedback loop -- a "downward spiral". A downward spiral is a feedback loop of negative thoughts, leading to negative feelings, leading to more negative thoughts, etc.
 
 ![downward spiral 2](/assets/downward%20spiral%202.png)
 *A downward spiral. Negative thoughts leading to negative feelings leading back to more negative thoughts.*
