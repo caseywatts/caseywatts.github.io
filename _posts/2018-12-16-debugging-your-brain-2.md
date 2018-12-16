@@ -69,6 +69,8 @@ This wasn’t the first or last time this sort of thing would happen. My mom wan
 
 My mom asked us to help her next time she got frustrated or upset like this. We brainstormed, and decided that next time we could loudly yell "WHOOP!”. After the whoop, she could try processing the experience or she could say “not now” and we would move on. She whoops herself, I whoop myself, my brother whoops himself. We all whoop!
 
+![Whoop](/assets/Whoop.png)
+
 Hopefully this story makes the whoop technique memorable for you. Yelling whoop is both helpful and hilarious. A whoop surprises you out of your current mindset. If you were about to downward spiral, it halts that for a moment. It puts you into a different mental state where you can be ready to think about what made you so frustrated in the first place. For my mom, it wasn't really what my brother was doing — she figured out it was more about her hunger. We’ll cover more things that might affect your mood later in this chapter.
 
 This technique is most useful for whooping yourself: either out loud, or quietly in your head. If you want to recruit friends or family to support you that’s great, but definitely optional.
@@ -78,14 +80,6 @@ In programming terms, a “whoop” is like hitting the “debugger breakpoint�
 ### Whoop Practice
 
 It takes a lot of practice to get good at noticing when introspection will help. Just being able to notice opportunities is a huge step forward. Whenever you get into this "whoop state" I want you to congratulate yourself. You'll get better and better the more you do this. Be patient with yourself in the meantime.
-
-### Post-hoc Rationalization
-
-When my brother didn’t close the door, my mom stopped to introspect for a moment. If she hadn’t, she might have might have explained her behavior in an unsatisfying, inaccurate way called a "post-hoc rationalization". Some blatant examples: “he always does that!” (even if he hasn’t done it much) or “he’s going to let all the heat out!” (even if the heat wasn’t on). Post-hoc rationalization can happen during stressful or non-stressful situations -- anytime.
-
-Post-hoc means “after the fact”. We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
-
-Just because the explanation is inaccurate doesn’t mean the gut reaction isn't based on something real. By spending time processing you may be able to come up with a fuller, more satisfying explanation for yourself and for others. When you find yourself experiencing this, consider taking a moment to introspect. Whoop!
 
 ### When not to control your thoughts?
 
@@ -103,13 +97,20 @@ You can get very skilled at introspection and still allow yourself to get worked
 
 Let's imagine that you’re now an expert at getting into the whoop state. What's next?
 
-## CBT and the IPO Model
+## Post-hoc Rationalization
 
-We'll go through our the Input-Process-Output (IPO) model of the brain in chunks. The first section will be about inputs in general, the next section will go in-depth about processing feelings, and the final section will go in-depth about processing thoughts. Once you process everything, you’ll be well-equipped to choose the most adaptive response.
+When my brother didn’t close the door, my mom stopped to introspect for a moment. If she hadn’t, she might have might have explained her behavior in an unsatisfying, inaccurate way called a "post-hoc rationalization". Some blatant examples: “he always does that!” (even if he hasn’t done it much) or “he’s going to let all the heat out!” (even if the heat wasn’t on). Post-hoc rationalization can happen during stressful or non-stressful situations -- anytime.
+
+Post-hoc means “after the fact”. We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
+
+When you find yourself experiencing this, consider taking a moment to introspect. Just because the explanation is inaccurate doesn’t mean the gut reaction isn't based on something real. By spending time processing you may be able to come up with a fuller, more satisfying explanation for yourself and for others. Whoop!
 
 ## Identifying Inputs
+We'll go through our the Input-Process-Output (IPO) model of the brain in chunks. The first section will be about inputs in general, the next section will go in-depth about processing feelings, and the final section will go in-depth about processing thoughts. Once you process everything, you’ll be well-equipped to choose the most adaptive response.
 
 Let's talk about the inputs to your system. I break this into four categories: automatic feelings, automatic thoughts, external stimuli, and your current bodily state.
+
+![IPO Inputs](/assets/IPO%20Inputs.png)
 
 ### Automatic Feelings
 
