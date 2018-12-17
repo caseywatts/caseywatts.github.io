@@ -67,7 +67,7 @@ One day, my mother snapped at my younger brother for leaving the door open. Imme
 
 This wasn’t the first or last time this sort of thing would happen. My mom wanted to get better at this — better at noticing things like how her hunger, thoughts, and emotions can affect her mood. Once she got into that introspective state she could figure it out well enough, but she had trouble getting into that introspective state in the first place. In programming terms, she had trouble hitting a “debugger breakpoint”.
 
-My mom asked us to help her next time she got frustrated or upset like this. We brainstormed, and decided that next time we could loudly yell "WHOOP!”. After the whoop, she could try processing the experience or she could say “not now” and we would move on. She whoops herself, I whoop myself, my brother whoops himself. We all whoop!
+My mom asked us to help her next time she got frustrated or upset like this. We brainstormed, and decided that next time we could loudly yell "WHOOP!”. After the whoop, she might enter an introspective state (the "whoop state") and try processing the experience. Or, she could say “not now” and we would move on. She whoops herself, I whoop myself, my brother whoops himself. We all whoop!
 
 ![Whoop](/assets/Whoop.png)
 
@@ -79,7 +79,7 @@ In programming terms, a “whoop” is like hitting the “debugger breakpoint�
 
 ### Whoop Practice
 
-It takes a lot of practice to get good at noticing when introspection will help. Just being able to notice opportunities is a huge step forward. Whenever you get into this "whoop state" I want you to congratulate yourself. You'll get better and better the more you do this. Be patient with yourself in the meantime.
+It takes a lot of practice to get good at noticing when introspection will help. Just being able to notice opportunities is a huge step forward. Whenever you get into this introspective state ("whoop state") I want you to congratulate yourself. You'll get better and better the more you do this. Be patient with yourself in the meantime.
 
 ### When not to control your thoughts?
 
@@ -87,7 +87,7 @@ It does cost time and energy to introspect. If you don’t have the time or ener
 
 You probably want to prevent most downward spirals. Any that are a waste of your time and energy, or if you think you'll regret your actions. But sometimes it might be worth it to let yourself get worked up -- you might be driven to focus on something you wouldn’t otherwise.
 
-I got really upset once. I was eating in a food court, charging my phone, and a security officer rudely told me I couldn’t use the power outlet. I felt myself getting worked up, and I entered the whoop state. I considered — should I control my thoughts and feelings and prevent myself from being worked up? In this case, I decided to allow this to motivate me to act.
+I got really upset once. I was eating in a food court, charging my phone, and a security officer rudely told me I couldn’t use the power outlet. I felt myself getting worked up, I whooped internally, and I entered an introspective state. I considered — should I control my thoughts and feelings and prevent myself from being worked up? In this case, I decided to allow this to motivate me to act.
 
 I was energized enough to talk to the manager later and make my thoughts known. I explained: it cost virtually nothing to the company (literally <$0.001 for a full phone charge). I wasn't in the way of anything. I wasn’t taking up needed space (the food court was empty). There was no sign up about this rule anywhere. And the person asking me to unplug was rude about it.
 
@@ -95,7 +95,7 @@ If you wouldn’t have acted the same way as me, that’s okay. I believe it was
 
 You can get very skilled at introspection and still allow yourself to get worked up sometimes. You don’t need to always mechanically control your thoughts.
 
-Let's imagine that you’re now an expert at getting into the whoop state. What's next?
+Let's imagine that you’re now an expert at using the whoop technique to get into an introspective state. What's next?
 
 ## Post-hoc Rationalization
 
@@ -137,7 +137,7 @@ Those are four types of input: automatic feelings, automatic thoughts, stimuli f
 ## Homework
 
 - What are the four major types of inputs to your consciousness?
-- Practice the “whoop” — whoop yourself 3 times today. While in the whoop state, notice your inputs. Identify inputs from each of the four major types of inputs.
+- Practice the “whoop” — whoop yourself 3 times today. While in this introspective state, notice your inputs. Identify inputs from each of the four major types of inputs.
 - Explain CBT (at a high level) to a friend. Do a bit of independent research (googling!) if you want to be able to speak about it more accurately.
 - Use the term “post-hoc rationalization” in a conversation this week.
 
