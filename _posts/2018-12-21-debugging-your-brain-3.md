@@ -43,17 +43,7 @@ There is a recent “loneliness epidemic” in the US. [source](https://www.cign
 
 Ideally your emotionally supportive relationships are reciprocal. You should also offer to talk friends through issues they’re having as well. Assuming this discussion all goes well, being vulnerable like this with each other can dramatically improve your relationship. It can deepen feelings of trust with each other.
 
-### Communicating Validation
-If you want others to help emotionally support you by listening, you should work on this yourself, too. My favorite tool for validating others is Dr. Linehan’s “Six Levels of Validation”. Just to give you a teaser, these are her six levels of validation, in order of increasing impact:
-
-1. Be present
-2. Accurate reflection
-3. Guessing about unstated feelings
-4. Validate in terms of past history
-5. Validate in terms of present events and the way most people would react
-6. Radical genuineness
-
-I recommend reading more about this and trying this out. It’s not a strict scale of what you should use, but it’s a really helpful tool when considering how to respond to a friend who is being vulnerable with you. My favorite high-level overview of this is [this article](https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance) by Karyn Hall. If you want a more thorough overview right from the source, you might consider reading [this chapter](https://www.researchgate.net/publication/232561580_Validation_and_psychotherapy) from “Validation and Psychotherapy” by Marsha Linehan, 1997.
+My favorite technique for making your friends supportive is to communicate validation and acceptance explicitly. There will be an entire section about this later.
 
 ### Too Much?
 
@@ -104,7 +94,8 @@ The only way the author is able to convey these thoughts and feelings is to desc
 Studies often use “narrative transportation theory” when discussing this. The term “high emotional transportation” means a stories where the reader imagines they are immersed in the world, empathizing with the characters more deeply. Some [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559433/) show that people who have recently read “high emotional transportation” books have greater empathy than those who read something without high emotional transportation.
 
 Try reading some fiction! You don’t need to read from a high school English class curriculum; popular fiction totally counts. The last book series I got totally immersed in was The Hunger Games. If you need an idea, maybe start with something from the top 10 bestsellers list for this year. You probably even know a person or two who has read one of those, and you can bond over that.
-Meditation
+
+## Meditation
 
 Some people describe meditation as the art of sitting with your thoughts and feelings, not judging them or holding on to them too strongly. Practicing meditation can help you become more aware of your thoughts and emotions. Unlike many of the other techniques here, meditation isn’t a great time to actively think about and process these automatic feelings - but it is useful for helping you become aware of them.
 
@@ -113,6 +104,18 @@ Rumination is a risk with meditation just as it is with journaling, and perhaps 
 The risk of becoming stressed from meditating is especially high for beginners. With practice, you will get better at not judging your thoughts and feelings. This sort of stress sometimes happens to experts too, although less often. Stress is more likely to happen when in a particularly challenging situation, or when mentally (or bodily) fatigued.
 
 If you'd like to try getting into meditation, there are a lot of resources to help you get started in a gentle and gradual way. My favorite introduction to meditation lately is a mobile app "Headspace". It introduces meditation concepts one at a time, using voice guidance and cute little videos and animations. I learned a lot from the intro series on Headspace (10 sessions), which were free when I did it at least.
+
+## Communicating Validation
+If you want others to help emotionally support you by listening, you should work on this yourself, too. My favorite tool for validating others is Dr. Linehan’s “Six Levels of Validation”. Just to give you a teaser, these are her six levels of validation, in order of increasing impact:
+
+1. Be present
+2. Accurate reflection
+3. Guessing about unstated feelings
+4. Validate in terms of past history
+5. Validate in terms of present events and the way most people would react
+6. Radical genuineness
+
+I recommend reading more about this and trying this out. It’s not a strict scale of what you should use, but it’s a really helpful tool when considering how to respond to a friend who is being vulnerable with you. My favorite high-level overview of this is [this article](https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance) by Karyn Hall. If you want a more thorough overview right from the source, you might consider reading [this chapter](https://www.researchgate.net/publication/232561580_Validation_and_psychotherapy) from “Validation and Psychotherapy” by Marsha Linehan, 1997.
 
 ## Homework
 * Print out the emotional vocabulary chart [from this article](https://hbr.org/2016/11/3-ways-to-better-understand-your-emotions), to have it handy next time you need it. If you can’t print it, make it accessible somehow: save it to your desktop or email it to yourself and star it.
