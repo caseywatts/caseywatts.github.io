@@ -6,6 +6,12 @@ group: navigation
 
 ## Projects
 
+### Folk Tune Transposer
+<https://caseywatts.com/folktunetransposer>
+
+This tool reads in a folk tune in ABC notation and transposes it into another key. Fiddles and pianos are in the key of C, but other instruments aren't. The Clarinet is in Bb, and the French Horn is in F. This tool makes it possible to transpose ABC-notated tunes on the fly for non-C instruments.
+
+
 ### DC Metro Map
 <https://caseywatts.com/dcmetromap>
 
