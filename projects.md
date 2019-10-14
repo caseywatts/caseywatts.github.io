@@ -9,7 +9,7 @@ group: navigation
 ### Folk Tune Transposer
 <https://caseywatts.com/folktunetransposer>
 
-This tool reads in a folk tune transposes it into another key. Fiddles and pianos are in the key of C, but other instruments aren't. The Clarinet is in Bb, and the French Horn is in F. This tool makes it possible to transpose ABC-notated tunes on the fly to be playable by non-C instruments. You can find ABC-notated folk tunes on sites like <http://folktunefinder.com>
+A ton folk music is written for instruments in the key of C, like fiddles and pianos.  So many instruments are in other keys - like Clarinet and Trumpet are in the key of Bb, and French Horn is in the key of F. This tool I made makes it possible to transpose folk tunes on the fly to be playable by non-C instruments. It reads in music via "ABC" notation, which you can find on folk tune sites like <http://folktunefinder.com>.
 
 
 ### DC Metro Map
