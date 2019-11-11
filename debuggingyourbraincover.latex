@@ -3,8 +3,7 @@ title: Debugging Your Brain
 author: Casey Watts
 documentclass: book
 classoption:
-- a5paper
-- twoside
+- letterpaper
 - openany
 linestretch: 2
 ---
