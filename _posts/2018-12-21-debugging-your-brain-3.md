@@ -25,7 +25,9 @@ matrix: self, other, imagined-other vs writing, talking, thinking
 ## Experience Processing
 In this section "Experience Processing", you will learn specific techniques to help you process experiences by putting them into words. Verbalizing an experience can help reduce the stress you feel about a given situation. It can help you feel more in control and at ease. It can help you express your experiences to others. It can help you choose the best response for the situation. You also get the opportunity influence your future thoughts and feelings, through deliberate thought.
 
-Words give us "handles" that we can use to inspect experiences. We can use these to investigate and figure out what's really going on. We can process experiences a lot more deeply and effectively by using accurate language than we can by using abstract wordless thoughts alone. There are many different ways you might verbalize an experience, and each will have a similar effect. You might verbalize an experience by thinking to yourself, by talking to a friend, or by writing.
+Putting the experience into words can be a huge relief, especially when the experience is complex or troublesome.
+
+Words give us "handles" that we can use to inspect experiences. We can use these to investigate and figure out what's really going on. By using accurate language, we can process experiences a lot more deeply and effectively than we can by using abstract wordless thoughts alone. You might verbalize an experience by thinking to yourself, by talking to a friend, or by writing.
 
 We'll cover seven concrete techniques to help you better process experiences. Four of them involve processing your own experiences. Three others involve processing others' experiences, which also help you with the skills involved in processing your own.
 
@@ -37,17 +39,23 @@ It can take a lot of practice and training to accept emotions as input. It will 
 ## Processing Your Own Experiences
 ### Talk with a friend
 
-One of the most powerful techniques for processing an experience is to talk with a close friend. This is also my personal favorite. Not only is it helpful for processing the experience, but it is also a bonding opportunity for the relationship.
+Talking through an experienc with a close friend is one of the most powerful processing techniques. This is also my personal favorite. Not only is it helpful for processing the experience, but it is also a bonding opportunity for the relationship.
 
-Talking through an issue with a friend helps you more fully understand an experience by getting you to put it all into concrete words. If your actively listening friend can accurately reflect back to you what you're saying, that helps solidify the thoughts, helping your process it even further. Sometimes a friend will describe something in a different way than you, you may end up adopting some of their phrasing. When you have trouble putting certain ideas into words, a friend can help you explore those. They might brainstorm different ways of describing it until something feels accurate and correct.
+You have to put your thoughts and feelings into concrete words in order to communicate them to another person. If your friend can accurately reflect back to you what you're saying, that helps you be more confident that you are understandable. This confidence can help you feel more settled about that part of the experience. This can help you move on to processing other parts of the experience.
 
-Here's an example of me talking with a friend. I start by asking the friend if they can help talk me through something, so they're ready for my unprocessed thoughts. Sometimes I end up rambling a bit, trying to figure out the right word, and my friend will offer help. For example, I might try: "I feel good about it. Excited maybe? Not quite excited. I do think it’ll go my way, and that’s a comforting feeling."  My actively listening friend might suggest "are you feeling confident?" and in this case, they're correct! Or if not, we'll continue on until a description feels right.
+Sometimes a friend will describe something in a different way than you. If you like their phrasing, you might adopt it yourself. When you sometimes have trouble putting an idea into words, a friend can help you explore those. They might brainstorm different ways of describing it until something feels accurate and correct.
 
-Often you can find a single word for something. If not, you can at least find a phrase or sentence-long explanation of the feeling. Once you and your friend have a shared understanding, that really validates the experience. This shared understanding can help you feel like the emotion has been processed, and it can feel like a huge relief.
+Here's an example of how I process experiences with a friend.
 
-Talking with a friend can help you put an experience into words, and it can also help you feel better while doing so, too. Putting the experience into words can be a huge relief, especially when the experience is complex or troublesome. If they reflect back to you accurately, that can make you feel understood by another person, and that can be very comforting. Being vulnerable is also a powerful way to deepen the relationship.
+1. I ask the friend if they can help talk me through something. This makes sure they're available to help me process my unprocessed thoughts before diving in.
+2. When sharing unprocessed thoughts, sometimes I end up rambling a bit. It can take a few tries to figure out the right word. For example, I might try: "I feel good about it. Excited maybe? Not quite excited. I do think it’ll go my way, and that’s a comforting feeling."
+3. When I'm having trouble, my actively listening friend might suggest "are you feeling confident?". If they're right, we've named this feeling! If not, we can continue on until same description feels right. Often you can find a single word for something. If not, you can at least find a phrase or sentence-long explanation of the feeling.
 
-Talking with a friend is often the most powerful method of processing an experience. However, talking with an unsupportive friend could make you feel worse. The friend might inadvertently invalidate your experiences, making you feel more uncertain and shut-down. Later in this book there is an entire chapter dedicated to communicating in a validating way. Learning these validation skills can help you support your friends. Your modeling of effective validation and support might even help your friends learn how to support you in a helpful way.
+If they can reflect back to you accurately how you're feeling, that can make you feel understood by another person. It can be very comforting, validating your experience as understandable. This can help you feel like you can move on, now that the experience has been processed.
+
+ Being vulnerable is also a powerful way to deepen the relationship.
+
+Talking with a friend is often the most powerful method of processing an experience, but talking with an unsupportive friend could make you feel worse. A friend might inadvertently invalidate your experiences, making you feel more uncertain about the experience. There are many tactics you can use to make your friends feel validated when listening to them, and we'll cover those later in the book. If you can be a good model of active listening and effective validation, it may help your friends learn how to support you in a helpful way.
 
 ### Rubber duck
 Don't have a friend around? Try talking to a rubber duck!
