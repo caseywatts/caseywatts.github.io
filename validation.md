@@ -1,20 +1,42 @@
 #### Communicating Validation
-If you want to help support others emotionally by listening, you should communicate validation yourself. My favorite tool for thinking about validating is Dr. Linehan’s "Six Levels of Validation". These are her six levels of validation, in order of increasing impact:
 
-1. Be present
-  - Just being present in the moment with your friend can be validating on its own. This could be active listening, or even as little as just being physically present if nobody is talking.
-2. Accurate reflection
-  - You might sometimes ask "how do you feel about ____?". Your friend will describe their thoughts and feelings. If you can communicate it back to them accurately, that can be very validating. Sometimes you may even describe it back in a way that inspires a change in the way they think about it. Be careful to leave plenty of room for them to correct you, or it could backfire and make them feel invalidated instead.
-3. Guessing about unstated feelings
-  - If your friend is not able to communicate something clearly or fully enough, you may be able to help them out. You can ask "are you feeling ____? or ____?" to help them refine the way they think about the situation. Doing this well is generally more validating than levels 1 or 2. Be careful though, because if they aren't comfortable correcting your guess this could backfire and make them feel invalidated.
-4. Validate in terms of past history
-  -  You can communicate to your friend that their current response makes sense, given their past. If a friend was bit by a large dog as a child, it makes sense that they might still be afraid of large dogs as an adult.
-5. Validate in terms of present events and the way most people would react
-  - You can communicate to your friend that their response makes sense given the situation. Talking through the details of the situation you might decide that anyone in this situation would have reacted in a similar way. If your friend is afraid of holding a snake, that is totally unsurprising - so many people are afraid of snakes.
-6. Radical genuineness
-  - READ LINEHAN AGAIN
+If you want to help support others emotionally by listening, you should communicate validation yourself. My favorite tool for thinking about validating is Dr. Linehan’s "Six Levels of Validation".
 
-I recommend reading more about this and trying this out. It’s not a strict scale of what you should use, but it’s a really helpful tool when considering how to respond to a friend who is being vulnerable with you. My favorite high-level overview of this is [this article](https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance) by Karyn Hall. If you want a more thorough overview right from the source, you might consider reading [this chapter](https://www.researchgate.net/publication/232561580_Validation_and_psychotherapy) from "Validation and Psychotherapy" by Marsha Linehan, 1997.
+This is not a strict scale of what you should use, but a framework to use when considering how to respond to a friend who is being vulnerable with you.
+
+For more reading on this, my favorite high-level overview of this is [this article](https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance) by Karyn Hall. If you want a more thorough overview right from the source, you might consider reading from [one of the original sources](https://www.researchgate.net/publication/232561580_Validation_and_psychotherapy).
+
+These are the six levels of validation, in order of increasing impact:
+
+## 1. Be present
+
+Just being present in the moment with your friend can be validating on its own. This could be as little as just being physically present next to the friend.
+
+## 2. Accurate reflection
+
+When you accurately describe your friend's thoughts and feelings back to them, it shows you are actively listening.
+
+If you can even echo their words back to them, that shows you are listening at least.
+
+If you can put it in your own words, that can show that you have understood them more deeply. When your friend feels understood, that is very validating.
+
+## 3. Guessing about unstated feelings
+
+Sometimes you may even describe things in a way that inspires a change in the way they think about it. Be careful to leave plenty of room for them to correct you, or it could backfire and make them feel invalidated instead.
+
+If your friend is not able to communicate something clearly or fully enough, you may be able to help them out. You can ask "are you feeling ____? or ____?" to help them refine the way they think about the situation. Doing this well is generally more validating than levels 1 or 2. Be careful though, because if they aren't comfortable correcting your guess this could backfire and make them feel invalidated.
+
+## 4. Validate in terms of past history
+
+You can communicate to your friend that their current response makes sense, given their past. If a friend was bit by a large dog as a child, it makes sense that they might still be afraid of large dogs as an adult.
+
+## 5. Validate in terms of present events and the way most people would react
+
+You can communicate to your friend that their response makes sense given the situation. Talking through the details of the situation you might decide that anyone in this situation would have reacted in a similar way. If your friend is afraid of holding a snake, that is totally unsurprising - so many people are afraid of snakes.
+  
+## 6. Radical genuineness
+READ LINEHAN AGAIN
+
 
 
 #### Close Relationships
