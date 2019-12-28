@@ -5,8 +5,6 @@ tagline: Cognitive Restructuring for Systems Thinkers
 tags:
 ---
 
-# Validation and Close Relationships
-
 ## Close Relationships
 
 There is a recent ["loneliness epidemic" in the US](https://www.cigna.com/newsroom/news-releases/2018/new-cigna-study-reveals-loneliness-at-epidemic-levels-in-america). Many people do not have many close relationships with people they can have intimate discussions with. If this sounds familiar to you, consider making it a priority to cultivate deeper relationships. It can be difficult, but it is well worth the effort.
