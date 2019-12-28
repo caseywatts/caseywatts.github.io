@@ -53,46 +53,41 @@ Here's an example of how I process experiences with a friend.
 
 If they can reflect back to you accurately how you're feeling, that can make you feel understood by another person. It can be very comforting, validating your experience as understandable. This can help you feel like you can move on, now that the experience has been processed.
 
- Being vulnerable is also a powerful way to deepen the relationship.
-
 Talking with a friend is often the most powerful method of processing an experience, but talking with an unsupportive friend could make you feel worse. A friend might inadvertently invalidate your experiences, making you feel more uncertain about the experience. There are many tactics you can use to make your friends feel validated when listening to them, and we'll cover those later in the book. If you can be a good model of active listening and effective validation, it may help your friends learn how to support you in a helpful way.
 
 ### Rubber duck
-Don't have a friend around? Try talking to a rubber duck!
+Not ready to talk to a friend? Try a rubber duck!
 
-The "rubber duck debugging" technique is a common trick among software developers. You can gain a lot of insight into the problem by attempting to explain the situation to a rubber duck on your desk. Imagine the duck is sentient, and have a full conversation with it in your head. Especially imagine what questions it would ask, and what information it would need to know to be able to help. You can imagine the duck has the same context a coworker would have, or no context at all. You can end up with a lot of the benefit you would get from talking with another person, without taking up their time.
+The "rubber duck debugging" technique is a common software development trick. Put a rubber duck on your desk, or imagine one. Pretend the duck is sentient and explain the situation to it. Imagine what questions it would ask, and what information it would need to know to be able to help. You could imagine the duck has the same context a coworker would have, or no context at all.
 
-Talking with the duck helps you notice assumptions you're making and enunciate them. Often the root of the issue can be found within these assumptions.
+You can have a full-on conversation with this duck out loud, in your head, or in writing. By explaining the situation with words, you will understand it more clearly yourself, too. You may realize some assumptions you're making, and be able to enunciate them. Often the root of the issue can be found within assumptions.
 
-You can always fall back to actually asking the coworker or friend for help, and at that point you'll be able to explain the situation more accurately, clearly, and succinctly given the processing you already did.
-
-Talking to a duck can "pre-process" your thoughts - partially process them before having a friend help you process them the rest of the way.
-
-Before I talk with a coworker, I try and think of what questions they would ask me to get enough context on the issue to be able to help. Before I take up their time, I'll often try to predict what questions they would ask, and what assumptions they would need to know about. Often just by thinking through these I end up discovering exactly what I needed to know to figure out the situation, and I don't even end up needing to talk with them! Even though I use this technique so often, I'm still so surprised every time it helps. It really does.
-
-Rubber duck debugging is often a tool used in work environments, but you can apply the same idea to personal experiences too. You can change the imagined-audience to be your best friend, a family member, or someone else as appropriate to the situation. And if you can't think of an existing person who would be particularly appropriate, you can even imagine up someone new.
-
-### Journaling
-Talking with someone (real or imagined) is a poweful technique, but sometimes an issue requires even more. Writing can help you go even deeper on an issue. Writing encourages you to use only the most accurate terms. Writing also enables you to go back and edit things until it feels correct. When re-reading what you've written you can often tell what feels right and what feels off.
-
-Journaling is the third tool in your toolbelt. You can journal to yourself, future-you, past-you, or even to the journal itself. In some ways it's like writing the rubber duck we described earlier.
-
-You don't need a physical journal to practice "journaling". Some people prefer physical journals, but others like to journal using a computer. My favorite place to journal is in an email draft message. It is quick to load, and doesn't have any frills to get in the way.
-
-EMAIL
-
-Often I'll start an email draft by addressing it to myself, but imagining I would send it to a coworker.
-
-[EMAIL TECHNIQUE?]
-
-You can do this all out loud (if you dare), quietly in your head, or even in writing. I accidentally use this technique a lot. Often I'll start an email draft or instant message to a coworker explaining the situation and asking for their input, and then I end up not needing to send it at all!
-
-You can use the rubber duck when you have a specific issue to process.
-Journaling I mean WRITING and also DOING IT REGULARLY
+You can choose the identity of this imagined-audience to meet your needs - they could have similar context to a coworker, or someone else like your manager, your best friend, a family member, etc. And if you can't think of an existing person who would be particularly appropriate, you can even imagine up someone new.
 
 
+#### Duck vs Friend
 
-You can also talk with yourself. Writing is more effective than thinking alone - it activates a different part of the brain, and makes you really nail down thoughts and feelings.
+Sometimes you may want to talk to a duck before a friend. The duck can help you think of what questions the friend would ask to get context, and what assumptions you're making that would be helpful to make explicit.
+
+The duck can help you "pre-process" your thoughts, putting it into words as much as you can on your own. By putting the experience into words, that helps you explain it more accurately, clearly, and succinctly. The more you can enunciate on your own, the smoother and deeper a discussion with a friend will go.
+
+Often just by thinking through with a duck, I end up discovering exactly what I needed to know to figure out the situation. Often, I end up not even needing to talk with a friend at all. You can get a lot of the benefits of talking with a friend by talking with a duck, and without taking up another person's time.
+
+Even though I use this technique so often, I'm still so surprised every time it helps. It really does.
+
+
+### Writing
+
+Writing can help you go even deeper on an issue than just talking or thinking. Writing encourages you to use the most accurate terms. Writing activates a different part of the brain, and makes you really nail down thoughts and feelings.
+
+Writing enables you to go back and edit until it feels correct. When re-reading what you've written, some parts will feel very accurate. Other parts may feel "off", and you might want to iterate on the wording of these some more.
+
+This is the third tool in your toolbelt. You can write to yourself, future-you, past-you, or even to the journal itself. In some ways it's like writing to the rubber duck, an imagined-person.
+
+I use the term "journaling" to mean "writing out thoughts and feelings", wherever and whenever that is. This is useful even if you don't write those thoughts and feelings in a notebook every day before bed.
+
+You don't need a physical journal to practice journaling. Some people prefer digital journaling using a computer or phone. My favorite place to journal is in an email draft message. It is quick to load and doesn't have any frills to get in the way. Often I'll start an email draft imagining I would send it to a coworker (but with my name in the "to:" to be safe).
+
 
 Sometimes I imagine writing to future-Casey or past-Casey. Sometimes I imagine writing a friend, like I mentioned above. I write out all my thoughts and all my emotions in stream of consciousness, putting it all to words. I try to use really specific emotional words so I can really deeply understand it. I also try and identify maladaptive thought patterns, which we’ll cover in the next section.
 
