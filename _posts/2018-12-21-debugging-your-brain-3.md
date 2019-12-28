@@ -31,6 +31,15 @@ Words give us "handles" that we can use to inspect experiences. We can use these
 
 We'll cover seven concrete techniques to help you better process experiences. Four of them involve processing your own experiences. Three others involve processing others' experiences, which also help you with the skills involved in processing your own.
 
+## Rumination
+When procesing thoughts and feelings, there is a risk of accidentally ruminating instead of effectively processing them.
+
+Rumination is when you focus on the causes and consequences of something, instead of solutions.
+If you are too fixated on the negative, it may cause a downward spiral and make you feel even worse. If you notice yourself ruminating, you may want to take a break and try again later. If you're not careful, you could accidentally reinforce maladaptive thought pattens.
+
+With practice, you can develop techniques to effectively process experiences instead of ruminating on them. One technique is accepting inputs as things you cannot change. Another is identifying maladaptive thought patterns, and we'll cover those in the next section.
+
+
 ## Automatic Inputs as Data
 All of these techniques have one main overarching theme: "accept automatic thoughts and automatic emotions as inputs". In the moment in which you experience an emotion, that emotion is already outside of your control and influence. In the systems model we described earlier (input, process, output), "you" are your conscious mind processing the experience, and these "automatic emotions" are inputs to your system. If you can accept automatic inputs as data, that will help you process them more fully. If you accidentally fixate on and judge these automatic inputs, that can be very counterproductive.
 
@@ -78,58 +87,52 @@ Even though I use this technique so often, I'm still so surprised every time it 
 
 ### Writing
 
-Writing can help you go even deeper on an issue than just talking or thinking. Writing encourages you to use the most accurate terms. Writing activates a different part of the brain, and makes you really nail down thoughts and feelings.
+Writing is the third tool in your toolbelt. Writing can help you go even deeper on an issue than just talking or thinking. Writing encourages you to use the most accurate terms. Writing activates a different part of the brain, and makes you really nail down thoughts and feelings.
 
-Writing enables you to go back and edit until it feels correct. When re-reading what you've written, some parts will feel very accurate. Other parts may feel "off", and you might want to iterate on the wording of these some more.
-
-This is the third tool in your toolbelt. You can write to yourself, future-you, past-you, or even to the journal itself. In some ways it's like writing to the rubber duck, an imagined-person.
+You might start by writing out everything in a stream-of-consciousness way, "brainstorming" what thoughts and feelings you have going on. You can then re-read and edit it until it feels accurate. Some parts may feel "off", and you can iterate on the wording of these parts. Try to use the most specific words you can, especially for emotions.
 
 I use the term "journaling" to mean "writing out thoughts and feelings", wherever and whenever that is. This is useful even if you don't write those thoughts and feelings in a notebook every day before bed.
 
 You don't need a physical journal to practice journaling. Some people prefer digital journaling using a computer or phone. My favorite place to journal is in an email draft message. It is quick to load and doesn't have any frills to get in the way. Often I'll start an email draft imagining I would send it to a coworker (but with my name in the "to:" to be safe).
 
-
-Sometimes I imagine writing to future-Casey or past-Casey. Sometimes I imagine writing a friend, like I mentioned above. I write out all my thoughts and all my emotions in stream of consciousness, putting it all to words. I try to use really specific emotional words so I can really deeply understand it. I also try and identify maladaptive thought patterns, which we’ll cover in the next section.
-
-My biggest tip is to make it easy for yourself to journal. Many people keep a paper journal handy at home. My favorite way is journaling into a gmail draft message. Somehow that loads faster than Google Docs or Microsoft Word, and it also feels more temporary.
-
-Every time I journal I feel surprised how much it helps. You might imagine that thinking to yourself is similar, but somehow writing is a very different experience. When writing, you can pin more things down, and get a lot deeper and farther along with processing.
-
-There is a major risk with journaling, and that’s rumination. Rumination is when you focus on the causes and consequences of something, instead of solutions. If you are too fixated on the negative, it can cause a downward spiral and make you feel even worse. Ideally you will develop techniques to be able to journal more effectively. Accepting inputs as things you cannot change, and identifying maladaptive thought patterns like we’ll do in the next section. You could accidentally reinforce maladaptive thought patterns if you’re not careful, or if you’re not in the right mindset to deal with them. If that’s the case, you may want to try another technique, or try again later.
+You can write to yourself, future-you, past-you, or to the journal itself. You could write to your rubber duck, your best friend, or anyone.
 
 
 ### Meditation
 
-Some people describe meditation as the art of sitting with your thoughts and feelings, not judging them or holding on to them too strongly. Practicing meditation can help you become more aware of your thoughts and emotions. Unlike many of the other techniques here, meditation isn’t a great time to actively think about and process these automatic feelings - but it is useful for helping you become aware of them.
+Practicing meditation can help you become more aware of your thoughts and emotions. Unlike many of the other techniques, meditation is not great for actively thinking about and processing experiences. It is useful for becoming aware of thoughts and feelings in the first place and accepting them as inputs, so that you can process them later.
 
-Rumination is a risk with meditation just as it is with journaling, and perhaps even more so. Sitting with these normally-unseen thoughts and feelings can be stressful in the first place. It's also easy to judge these and accidentally kick off a downward spiral, making yourself feel worse.
+If you'd like to try getting into meditation, there are a lot of resources to help you get started in a gentle and gradual way. My favorite introduction to meditation is a mobile app "Headspace". It introduces meditation concepts one at a time, using voice guidance and cute little video animations.
 
-The risk of becoming stressed from meditating is especially high for beginners. With practice, you will get better at not judging your thoughts and feelings. This sort of stress sometimes happens to experts too, although less often. Stress is more likely to happen when in a particularly challenging situation, or when mentally (or bodily) fatigued.
-
-If you'd like to try getting into meditation, there are a lot of resources to help you get started in a gentle and gradual way. My favorite introduction to meditation lately is a mobile app "Headspace". It introduces meditation concepts one at a time, using voice guidance and cute little videos and animations. I learned a lot from the intro series on Headspace (10 sessions), which were free when I did it at least.
+Rumination is a risk with meditation. Sitting with these normally-unseen thoughts and feelings can be stressful. Stress is more likely to happen when in a particularly challenging situation, or when mentally or bodily fatigued. It is easy to judge these and accidentally kick off a downward spiral, making yourself feel worse. This risk is especially high for beginners. With practice, you will get better at not judging your thoughts and feelings. 
 
 ## Processing Others' Experiences
 
 ### Reading fiction
 
-Most people agree that reading nonfiction can be "useful". Nonfiction teaches us facts. People are more divided about how useful fiction is. Fiction may not teach as many facts, but it is often "useful" for social and emotional learning!
+Some people believe that nonfiction reading is more useful than fiction reading. Nonfiction books teach us facts. But both are useful in their own way. Nonfiction books may teach facts, but fiction books are useful for social and emotional development.
 
-Fiction books give us the opportunity to peer inside another person's mind. We get to see the results of interactions they have with others. These characters often act in ways or in situations we wouldn’t experience ourselves. Their thoughts and feelings are often quite different from how we would react in that situation. Reading fiction helps you think about ways in which others might think differently from you.
+Fiction books give you the opportunity to peer inside another person's mind. You get to see how the characters interact with others and the results of those interactions. The characters often act in ways we wouldn't ourselves, in situations we could never find ourselves in. Even in similar situtaions, characters' thoughts and feelings are often quite different from how you yourself would react in that situation. Reading fiction helps you imagine ways other people think.
 
-The only way the author is able to convey these thoughts and feelings is to describe them using words. If you pick up on any of the vocabulary or wording, that could help you put your own thoughts and feelings into words.
+The only way an author is able to convey these thoughts and feelings is to use words. If you can pick up on their wording or vocabulary that can help with your own wording and vocabulary.
 
-Studies often use "narrative transportation theory" when discussing this. The term "high emotional transportation" means a stories where the reader imagines they are immersed in the world, empathizing with the characters more deeply. Some [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559433/) show that people who have recently read "high emotional transportation" books have greater empathy than those who read something without high emotional transportation.
+Some research has been done on this phenomenon, using the "narrative transportation theory". The term "high emotional transportation" means a story where the reader imagines they are immersed in the world, empathizing with the characters more deeply. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559433/) show that people who have recently read "high emotional transportation" books have greater empathy than those who read something without high emotional transportation.
 
-Try reading some fiction! You don’t need to read from a high school English class curriculum; popular fiction totally counts. The last book series I got totally immersed in was The Hunger Games. If you need an idea, maybe start with something from the top 10 bestsellers list for this year. You probably even know a person or two who has read one of those, and you can bond over that.
+Try reading some fiction! You don’t need to read from a high school English class curriculum; today's popular fiction totally counts. If you need an idea, maybe start with something from the top 10 bestsellers list for this year. You probably even know some people who have read one of those, and you can bond over that.
 
 ### Emotional vocabulary
-Expanding your emotional vocabulary can help deepen this effect a lot. Children are usually taught the most simple emotions first -- like happy, sad, angry, tired -- and later they learn how to describe more complex emotions. Generally people understand a huge number more words than they regularly use, and this applies to emotional vocabulary as well. With some practice, you can learn to use a much richer emotional vocabulary.
 
-The more often you deliberately use more specific terms, the more often your mind will automatically use them as well. Nudging your automatic thoughts in this direction can substantially change the way you process experiences. The line between automatic and deliberate thoughts can feel blurry when you're working on this, and that's okay - it's a gradual process.
+Children are usually taught the most simple emotions first -- like happy, sad, angry, tired -- and later they learn how to describe more complex emotions. You understand many more words than you regularly use, and this applies to emotional vocabulary as well. With practice, you can learn to wield a much richer emotional vocabulary.
 
-One tool you can use to expand your emotional vocabulary is a emotion thesaurus chart. Keep a reference like this one somewhere handy; print this one out, or save it to your desktop. There are many more resources like this online - some in circular graphs, some with more colors.
+Automatic vs deliberate thoughts and feelings.
 
-The next time you are trying to describe your emotions (whether to yourself or to someone else!), try out the reference. It might have just the right word to describe something, or it at least might help you get closer to the right word. If the chart doesn't help enough directly, you might try a traditional thesaurus, or ask a friend or two how they would describe it.
+The more you deliberately think using richer vocabulary, the more your automatic thoughts will use them as well. Nudging your automatic thoughts in this direction can substantially change the way you process experiences. 
+
+The line between automatic and deliberate thoughts can feel blurry when you're working on this, and that's okay - it's a gradual process.
+
+You can use an emotion thesaurus chart to expand your emotional vocabulary. Keep a reference like this one somewhere handy; print this one out, or save it to your desktop. There are many more resources like this online - some in circular graphs, some with more colors.
+
+The next time you are trying to describe your emotions, whether to yourself or to someone else, try using the reference. You may find a word a little more accurate than what you would think of naturally. You might also try a traditional thesaurus, or ask a friend how they would describe it.
 
 ## Homework
 * Print out the emotional vocabulary chart [from this article](https://hbr.org/2016/11/3-ways-to-better-understand-your-emotions), to have it handy next time you need it. If you can’t print it, make it accessible somehow: save it to your desktop or email it to yourself and star it.
@@ -143,41 +146,6 @@ The next time you are trying to describe your emotions (whether to yourself or t
   * This [high-level overview article](https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance)
   * Or [this original source (download pdf)](https://www.researchgate.net/publication/232561580_Validation_and_psychotherapy) from "Validation and Psychotherapy" by Marsha Linehan, 1997.
 * (optional) Choose a fiction book to read after this one. An audiobook counts, if you prefer.
-
-
-#### Communicating Validation
-If you want to help support others emotionally by listening, you should communicate validation yourself. My favorite tool for thinking about validating is Dr. Linehan’s "Six Levels of Validation". These are her six levels of validation, in order of increasing impact:
-
-1. Be present
-  - Just being present in the moment with your friend can be validating on its own. This could be active listening, or even as little as just being physically present if nobody is talking.
-2. Accurate reflection
-  - You might sometimes ask "how do you feel about ____?". Your friend will describe their thoughts and feelings. If you can communicate it back to them accurately, that can be very validating. Sometimes you may even describe it back in a way that inspires a change in the way they think about it. Be careful to leave plenty of room for them to correct you, or it could backfire and make them feel invalidated instead.
-3. Guessing about unstated feelings
-  - If your friend is not able to communicate something clearly or fully enough, you may be able to help them out. You can ask "are you feeling ____? or ____?" to help them refine the way they think about the situation. Doing this well is generally more validating than levels 1 or 2. Be careful though, because if they aren't comfortable correcting your guess this could backfire and make them feel invalidated.
-4. Validate in terms of past history
-  -  You can communicate to your friend that their current response makes sense, given their past. If a friend was bit by a large dog as a child, it makes sense that they might still be afraid of large dogs as an adult.
-5. Validate in terms of present events and the way most people would react
-  - You can communicate to your friend that their response makes sense given the situation. Talking through the details of the situation you might decide that anyone in this situation would have reacted in a similar way. If your friend is afraid of holding a snake, that is totally unsurprising - so many people are afraid of snakes.
-6. Radical genuineness
-  - READ LINEHAN AGAIN
-
-I recommend reading more about this and trying this out. It’s not a strict scale of what you should use, but it’s a really helpful tool when considering how to respond to a friend who is being vulnerable with you. My favorite high-level overview of this is [this article](https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance) by Karyn Hall. If you want a more thorough overview right from the source, you might consider reading [this chapter](https://www.researchgate.net/publication/232561580_Validation_and_psychotherapy) from "Validation and Psychotherapy" by Marsha Linehan, 1997.
-
-
-#### Close Relationships
-Hopefully you have several close friends you can readily talk to about your thoughts and feelings. Studies show that the more close connections you have, the healthier you are, the longer you live, and the more resilient you are in the face of stress. The list of positive benefits of social connectedness goes on and on.
-
-There is a recent "loneliness epidemic" in the US. [source](https://www.cigna.com/newsroom/news-releases/2018/new-cigna-study-reveals-loneliness-at-epidemic-levels-in-america). You may feel like you have many (or any?) close friends you can have intimate discussions with. If so, consider making it a priority to have more, deeper relationships. This can be difficult, but it is well worth the effort.
-
-Ideally your emotionally supportive relationships are reciprocal. You should also offer to talk friends through issues they’re having as well. Assuming this discussion all goes well, being vulnerable like this with each other can dramatically improve your relationship. It can deepen feelings of trust with each other.
-
-My favorite technique for making your friends supportive is to communicate validation and acceptance explicitly. There will be an entire section about this later.
-
-#### Too Much?
-
-Sharing your emotions with others is often really good for you, and it can bring you closer together. There is an extreme though, which could be a problem. It is possible to impose too much, expecting your friend to do "emotional labor" for you in a way that they could resent. If the support is one-way (they support you more than you support them), that makes it much more likely your friend would feel frustrated. If there’s an imbalance in how much each of you need in the first place, that could be an issue too. Prioritize communicating with your close friends about these concerns to set healthy boundaries.
-
-A friend’s support can go a long way, but for deeper issues or trauma friends may not be enough. Therapists are trained to help with this. Think about whether this support is enough, or if a therapist might help more. If you haven’t tried therapy, you should seriously consider at least being screened.
 
 
 ## Read More
