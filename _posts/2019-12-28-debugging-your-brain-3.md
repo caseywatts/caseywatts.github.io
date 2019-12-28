@@ -5,33 +5,25 @@ tagline: Cognitive Restructuring for Systems Thinkers
 tags:
 ---
 
-## Chapter 3 - Experience Processing
+## Overview
 
-* Themes
-  * Goals and Benefits
-  * Emotions as Inputs
-  * Rumination
-* Processing Your Own Experiences
-  * Friend
-  * Rubber Duck
-  * Writing
-  * Meditation
-* Learning from Others' Experiences
-  * Reading Fiction
-  * Emotional vocabulary
-  * Listening to Friends
+### Experience Processing
 
-## Experience Processing
-
-In this section "Experience Processing", you will learn specific techniques to help you process experiences by putting them into words. Verbalizing an experience can help reduce the stress you feel about a given situation. It can help you feel more in control and at ease. It can help you express your experiences to others. It can help you choose the best response for the situation. You also get the opportunity to influence your future thoughts and feelings, through deliberate thought.
+In this chapter "Experience Processing", you will learn specific techniques to help you process experiences by putting them into words. Verbalizing an experience can help reduce the stress you feel about a given situation. It can help you feel more in control and at ease. It can help you express your experiences to others. It can help you choose the best response for the situation. You also get the opportunity to influence your future thoughts and feelings, through deliberate thought.
 
 Putting the experience into words can be a huge relief, especially when the experience is complex or troublesome.
 
 Words give us "handles" that we can use to inspect experiences. We can use these to investigate and figure out what's really going on. By using accurate language, we can process experiences a lot more deeply and effectively than we can by using abstract wordless thoughts alone. You might verbalize an experience by thinking to yourself, by talking to a friend, or by writing.
 
-We'll cover seven concrete techniques to help you better process experiences. Four of them involve processing your own experiences. Three others involve processing others' experiences, which also help you with the skills involved in processing your own.
+We'll cover six concrete techniques to help you process experiences more fully and effectively.
 
-## Rumination
+### Automatic Inputs as Data
+
+All of these techniques have one main overarching theme: "accept automatic thoughts and automatic emotions as inputs". In the moment in which you experience an emotion, that emotion is already outside of your control and influence. In the systems model we described earlier (input, process, output), "you" are your conscious mind processing the experience, and these "automatic emotions" are inputs to your system. If you can accept automatic inputs as data, that will help you process them more fully. If you accidentally fixate on and judge these automatic inputs, that can be very counterproductive.
+
+It can take a lot of practice and training to accept emotions as input. It will get easier with time and repetition. If you want to practice this deliberately, you might consider a meditation practice. Many meditation practices actively focus on observing thoughts and emotions non-judgmentally.
+
+### Avoiding Rumination
 
 When processing thoughts and feelings, there is a risk of accidentally ruminating instead of effectively processing them.
 
@@ -40,13 +32,7 @@ If you are too fixated on the negative, it may cause a downward spiral and make 
 
 With practice, you can develop techniques to effectively process experiences instead of ruminating on them. One technique is accepting inputs as things you cannot change. Another is identifying maladaptive thought patterns, and we'll cover those in the next section.
 
-## Automatic Inputs as Data
-
-All of these techniques have one main overarching theme: "accept automatic thoughts and automatic emotions as inputs". In the moment in which you experience an emotion, that emotion is already outside of your control and influence. In the systems model we described earlier (input, process, output), "you" are your conscious mind processing the experience, and these "automatic emotions" are inputs to your system. If you can accept automatic inputs as data, that will help you process them more fully. If you accidentally fixate on and judge these automatic inputs, that can be very counterproductive.
-
-It can take a lot of practice and training to accept emotions as input. It will get easier with time and repetition. If you want to practice this deliberately, you might consider a meditation practice. Many meditation practices actively focus on observing thoughts and emotions non-judgmentally.
-
-## Processing Your Own Experiences
+## Processing Experiences
 
 ### Talk with a friend
 
@@ -105,8 +91,6 @@ Practicing meditation can help you become more aware of your thoughts and emotio
 If you'd like to try getting into meditation, there are a lot of resources to help you get started in a gentle and gradual way. My favorite introduction to meditation is a mobile app "Headspace". It introduces meditation concepts one at a time, using voice guidance and cute little video animations.
 
 Rumination is a risk with meditation. Sitting with these normally-unseen thoughts and feelings can be stressful. Stress is more likely to happen when in a particularly challenging situation, or when mentally or bodily fatigued. It is easy to judge these and accidentally kick off a downward spiral, making yourself feel worse. This risk is especially high for beginners. With practice, you will get better at not judging your thoughts and feelings.
-
-## Processing Others' Experiences
 
 ### Reading fiction
 
