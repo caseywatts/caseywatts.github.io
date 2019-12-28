@@ -112,7 +112,8 @@ Enriching your vocabulary can help you with both automatic and deliberate though
 
 You can use an emotion thesaurus chart to expand your emotional vocabulary. Keep a reference like this one somewhere handy; print this one out, or save it to your desktop. There are many more resources like this online - some in circular graphs, some with more colors.
 
-INSERT EMOTION CHART
+![Emotions Wheel by Dr. Gloria Wilcox]({{site.url}}/assets/feelings-wheel.jpg)
+*Feelings Wheel by Dr. Gloria Wilcox*
 
 The next time you are trying to describe your emotions, whether to yourself or to someone else, try using the reference. You may find a word a little more accurate than what you would think of naturally. You might also try a traditional thesaurus, or ask a friend how they would describe it.
 
