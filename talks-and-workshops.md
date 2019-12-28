@@ -16,6 +16,11 @@ I've given this ~3-hour workshop quite a few times. It's approachable even for s
 - Node.js, browser Javascript
 - the Electron APIs
 
+### [Graphviz Workshop](https://github.com/caseywatts/graphviz-tutorial)
+
+Graphviz is like markdown, for diagrams. It's a tool that can transform text input into a "directed graph" output, which is nodes pointing to other nodes. You can use it for architecture diagrams, DB diagrams, documentation for users, etc.
+
+
 ### [Chrome Extension Workshop](http://caseywatts.com/chromeextensionworkshop)
 I've given this ~3-hour workshop quite a few times. It's written to be do-able on your own at home, too! It's approachable even for someone with very little javascript experience. It covers:
 
