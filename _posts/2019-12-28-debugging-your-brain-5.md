@@ -17,9 +17,21 @@ A core idea of CBT is cognitive restructuring.
 
 ## Cognitive Restructuring
 
-Cognitive Restructuring is the process of identifying and countering "maladaptive thought patterns". "Maladaptive" means it is unhelpful; it gets in your way. Maladaptive thought patterns tend to be irrational or exaggerated. These unhelpful thoughts lead to negative emotions and downward spirals. They make you feel worse in an unproductive, unhelpful way. Some examples of these are all-or-nothing thinking, over-generalization, and magnification. These are also known as "cognitive distortions", because they are a distorted view of reality.
+Cognitive Restructuring is the process of identifying and countering "maladaptive thought patterns". "Maladaptive" means it is unhelpful; it gets in your way. Maladaptive thought patterns tend to be irrational or exaggerated. These unhelpful thoughts lead to negative emotions and downwardd spirals. They make you feel worse in an unproductive, unhelpful way. Some examples of these are all-or-nothing thinking, over-generalization, and magnification. These are also known as "cognitive distortions", because they are a distorted view of reality.
+
+ZERO: WHEN YOU HAVE BAD TIME SPIRAL?
 
 The first step to productively dealing with these unhelpful thoughts is to identify them. Once you identify them, you can counter or replace them with more realistic and helpful thoughts.
+
+### Example Scenario
+
+One day I was excited to attend a particular tech event. It was raining, and I was wet and cold. On my way to the event, I stepped in a puddle! I heard several automatic thoughts go off in my head.
+
+* "Ugh! Wet shoes are the worst!".
+* “I’m running late, so I shouldn’t even go! It'll look really bad.”
+* “Today sucks.”
+
+These thoughts made me feel worse, and I really considered not going. I identified what cognitive distortions these representend, and thought of more adaptive and realistic alternative thoughts. I ended up going to the event after all, and being very glad I did.
 
 ## Identifying Cognitive Distortions
 
@@ -28,8 +40,6 @@ Here are the top 10 most common “maladaptive thought patterns”.
 TOP 10 DIAGRAM
 
 When you are processing an experience and feel yourself getting frustrated or potentially downward spiraling, take a moment to get into a mindful state. Whoop! Once you are in a mindful state, listen to and describe your automatic thoughts and feelings. Consider whether any of these automatic thoughts are in this set of common maladaptive thought patterns:
-
-
 
 When processing your “automatic thoughts”, consider which ones may be “maladaptive thought patterns”. I recommend starting with the top 10 most common ones. Later you can learn more of them. Remembering the idea of it enouh to identify them is the most important part. If you can also remember the name for it, that can be useful too. Labeling the thought pattern gives you some additional influence over it.
 
@@ -44,13 +54,10 @@ TWO COLUMN TECHNIQUE EXAMPLE
 Knowing these
 This also prompts you to replace it with a more helpful "adaptive thought" instead.
 
-We’ll go through some examples!
 
 ### Example
 
-We'll go through an example scenario, and talk about the automatic thoughts I had. Once I was headed to a Meetup event. I was already hangry and wet, and I stepped in a puddle.
 
-I automatically thought "ugh. wet shoes are the worst!". I thought “If I’m running late, I just shouldn’t go! They’ll all think worse of me.”. I also flatly thought “Today sucks.” All three of these automatic thoughts are maladaptive in some way.
 
 We’ll go through each one and discuss what makes them maladaptive, label them, and consider an alternative “deliberate thought” to think to ourselves instead.
 
@@ -79,7 +86,6 @@ A “code smell” is something you notice about a piece of code that suggests t
 
 To fix a code smell, you can often use a particular “refactoring technique”. This might be breaking a long function down into several smaller functions, or renaming a variable name to be more descriptive.
 
-
 NAMED CODE SMELLS AND REFACTORING TECHNIQUES
 If you can name the code smell, that's even more helpful because you can talk about it with other folks and google it. You can give more concrete feedback during code review. Naming it is powerful, because it can help you counter it as well.
 
@@ -97,9 +103,7 @@ A similar dichotomy applies to feelings as well. Automatic feelings happen to yo
 | thought | automatic thought | deliberate thought |
 | feeling | automatic feeling | influenced feeling |
 
-
-
-## When to let it through?
+## When to let it through
 
 There is some utility in declaring your unhappy state to others (and to yourself?) - conveying your current emotional state. It might be cathartic to express it, especially if there's nothing that can be done about it.
 
@@ -133,6 +137,7 @@ There are some studies that suggest getting therapy through this book is as effe
 Link to Book
 
 ### Meditation App
+
 I described this in more detail above; I'm including it here as another resource:
 
 Headspace
@@ -146,8 +151,8 @@ It's great for social anxiety. I haven't yet found an app that helps with CBT mo
 Joyable
 
 ### Practice / training
-Well, that's all almost true ^. What's really true is that you're aware of the existence of these tools you can use, and it's up to you to practice these.
 
+Well, that's all almost true ^. What's really true is that you're aware of the existence of these tools you can use, and it's up to you to practice these.
 
 You might pick one maladaptive thought pattern per week to look out for and work on.
 
@@ -156,7 +161,7 @@ Check in with yourself about these ideas regularly.
 One tip I have is to make a weekly 15-minute calendar event (or something like that). Maybe attach it to something else you do reliably, so they trigger each other to happen? Habit forming could be its own entire post/chapter.
 Make some small, achievable goals, and track them?
 
-## Why doesn't everybody already do CBT?
+## Why doesn't everybody already do CBT
 
 CBT takes time, energy, and skill.
 
@@ -175,4 +180,3 @@ Now you know how to get into the Whoop State. Once you're in there, you know wha
 With all these put together, you can choose as a response that's more effective than what you might have done otherwise. You'll be more productive and happier. Any time you're about to hit a downward spiral, you can stop yourself and take control of your mind.
 
 You are now a Mind Manipulator, of your own mind! You've finally figured out how to use the debugger for your brain. Now you can debug this "software" that's been running nonstop your whole life. You have so much potential, and so much power :)
-
