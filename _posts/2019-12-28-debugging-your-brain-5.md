@@ -17,31 +17,47 @@ A core idea of CBT is cognitive restructuring.
 
 ## Cognitive Restructuring
 
-Cognitive Restructuring is the process of identifying and countering "maladaptive thought patterns". "Maladaptive" means it is unhelpful; it gets in your way. Maladaptive thought patterns tend to be irrational or exaggerated. These unhelpful thoughts lead to negative emotions and downwardd spirals. They make you feel worse in an unproductive, unhelpful way. Some examples of these are all-or-nothing thinking, over-generalization, and magnification. These are also known as "cognitive distortions", because they are a distorted view of reality.
+Cognitive Restructuring is the process of identifying and countering "maladaptive thought patterns". "Maladaptive" means it is unhelpful; it gets in your way. Maladaptive thought patterns tend to be irrational or exaggerated. These unhelpful thoughts lead to negative emotions and downward spirals. They make you feel worse in an unproductive, unhelpful way. Some examples of these: all-or-nothing thinking, over-generalization, and magnification. These are also known as "cognitive distortions", because they are a distorted view of reality.
 
-ZERO: WHEN YOU HAVE BAD TIME SPIRAL?
+When you are processing an experience and feel yourself getting frustrated or potentially downward spiraling, take a moment to get into a mindful state. Whoop! Once you are in a mindful state, listen to and describe your automatic thoughts and feelings.
 
-The first step to productively dealing with these unhelpful thoughts is to identify them. Once you identify them, you can counter or replace them with more realistic and helpful thoughts.
+When you're processing these unhelpful thoughts, the first step is to identfy them as unproductive, and name the thought pattern. Then you can think of alternative thoughts that are more realistic and helpful.
 
 ### Example Scenario
 
-One day I was excited to attend a particular tech event. It was raining, and I was wet and cold. On my way to the event, I stepped in a puddle! I heard several automatic thoughts go off in my head.
+One day I was excited to attend a particular tech event. It was raining and I was wet and cold. On my way to the event I stepped in a puddle! I heard several automatic thoughts go off in my head.
 
 * "Ugh! Wet shoes are the worst!".
 * “I’m running late, so I shouldn’t even go! It'll look really bad.”
 * “Today sucks.”
 
-These thoughts made me feel worse, and I really considered not going. I identified what cognitive distortions these representend, and thought of more adaptive and realistic alternative thoughts. I ended up going to the event after all, and being very glad I did.
+These thoughts made me feel worse, and I really considered not going. I took a moment and identified what cognitive distortions these were, and then I thought of more adaptive and realistic alternative thoughts. I ended up going to the event after all, and I was very glad I did.
 
 ## Identifying Cognitive Distortions
 
-Here are the top 10 most common “maladaptive thought patterns”.
+Here are some of the most common “maladaptive thought patterns”.
 
-TOP 10 DIAGRAM
+### Feelings Based
 
-When you are processing an experience and feel yourself getting frustrated or potentially downward spiraling, take a moment to get into a mindful state. Whoop! Once you are in a mindful state, listen to and describe your automatic thoughts and feelings. Consider whether any of these automatic thoughts are in this set of common maladaptive thought patterns:
+* Emotional Reasoning - believing something based on a feeling, as opposed to thinking about it and basing it on facts.
+* Mind reading - believing you know what another person is thinking or feeling, often negative.
+* Personalization - believing you have more control or influence over a situation than you actually do.
 
-When processing your “automatic thoughts”, consider which ones may be “maladaptive thought patterns”. I recommend starting with the top 10 most common ones. Later you can learn more of them. Remembering the idea of it enouh to identify them is the most important part. If you can also remember the name for it, that can be useful too. Labeling the thought pattern gives you some additional influence over it.
+### Generalizing
+
+* Overgeneralization - applying a small amount of information to explain a whole situation, inaccurately. Not incorporating enough nuance.
+* Labeling - a subset of overgeneralization. Labeling someone or something and using that to make inaccurate predictions.
+* All or nothing thinking - 
+
+### Positive versus Negative
+
+* Magnification and minimization - focusing disproportionately on the negatives versus the positives.
+* Disqualifying the positive - discounting positive things, like saying "...but that doesn't count".
+
+### Outcome Prediction
+
+* Fortune-telling - believing you know how something will turn out, usually for the worse.
+* Catastrophization - focusing on the worst possible outcome of a situation, when it is a less likely outcome.
 
 ## Countering Cognitive Distortions
 
