@@ -44,30 +44,30 @@ These thoughts made me feel worse, and I really considered not going.
 
 Here are some of the most common “maladaptive thought patterns”. Being able to name these patterns are helpful for you to identify them in the first place, it makes it easier for you to think about them and manipulate them in your mind, and it also makes it easier to describe them to other people. The groups they are in aren't strict, just helpful to make these more memorable.
 
-### Feelings
+### Feelings vs Facts
 
-* Emotional Reasoning is when you believe something based on a feeling, as opposed to thinking about it and basing it on facts.
+* **Emotional Reasoning** is when you believe something based on a feeling, as opposed to thinking about it and basing it on facts.
 
 ### Generalizing: Needs nuance
 
-* Overgeneralization is applying a small amount of information to explain a whole situation, inaccurately. Not incorporating enough nuance.
-* Labeling is a subset of overgeneralization. This could be labeling someone or something and using that to make inaccurate predictions.
-* All or nothing thinking is when you think in a binary yes/no or good/bad kind of way. Truth often lies in a gray area between the two extremes.
+* **Overgeneralization** is applying a small amount of information to explain a whole situation, inaccurately. Not incorporating enough nuance.
+* **Labeling** is a subset of overgeneralization. This could be labeling someone or something and using that to make inaccurate predictions.
+* **All or nothing thinking** is when you think in a binary yes/no or good/bad kind of way. Truth often lies in a gray area between the two extremes.
 
-### Focusing: Positive versus Negative
+### Focusing: Positive versus negative
 
-* Magnification is focusing disproportionately on something, and minimization is focusing too little on something. This term is used to describe magnifying/minimizing something that makes you unhappy.
-* "Disqualifying the positive" is when you acknowledge something positive, but convince yourself that it doesn't count.
+* **Magnification** is focusing too much on something (often negative), and **minimization** is focusing too little on something (often positive).
+* **Disqualifying the positive** is when you acknowledge something positive, but convince yourself that it doesn't count.
 
-### Who
+### People
 
-* Personalization is believing you have more control or influence over a situation than you actually do, often by not taking into account external forces.
-* Mind reading is believing you know what another person is thinking or feeling, often negative.
+* **Personalization** is believing you have more control or influence over a situation than you actually do, often by not taking into account external forces.
+* **Mind reading** is believing you know what another person is thinking or feeling without any evidence, often negative.
 
 ### Outcome Prediction
 
-* Fortune-telling is believing you know how something will turn out, usually for the worse.
-* Catastrophization is focusing on the worst possible outcome of a situation, especially when it is a less likely outcome.
+* **Fortune-telling** is believing you know how something will turn out, usually for the worse.
+* **Catastrophization** is focusing on the worst possible outcome of a situation, especially when it is a less likely outcome.
 
 ### Scenario Continued
 
