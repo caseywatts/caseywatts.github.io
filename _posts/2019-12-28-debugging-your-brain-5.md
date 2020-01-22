@@ -5,75 +5,81 @@ tagline: Cognitive Restructuring for Systems Thinkers
 tags:
 ---
 
-## Cognitive Behavioral Training
 
-DID I COVER THIS ALREADY EARLIER?
+Outline
 
-CBT is...
+* main
+  * what are unhelpful thought patterns generally?
+  * examples of unhelpful thoughts
+  * what are some named unhelpful thought patterns?
+  * examples of naming unhelpful thought patterns
+  * how to counter them?
+  * examples of countering them
+* debugging metaphor for everything
+* summary
+* other resources
+* homework
 
-CBT is helpful for [mental illness list].
+## Overview
 
-A core idea of CBT is cognitive restructuring.
+So far you have read about when to use the techniques in this book, how to enter an introspective state (whoop!), how to process experiences by putting them into words, and how to validate those experiences to non-judgmentally accept them as inputs. In this chapter, you will learn how to identify unhelpful thought patterns to turn them into helpful ones. This is also known as "cognitive restructuring".
 
 ## Cognitive Restructuring
 
-Cognitive Restructuring is the process of identifying and countering "maladaptive thought patterns". "Maladaptive" means it is unhelpful; it gets in your way. Maladaptive thought patterns tend to be irrational or exaggerated. These unhelpful thoughts lead to negative emotions and downward spirals. They make you feel worse in an unproductive, unhelpful way. Some examples of these: all-or-nothing thinking, over-generalization, and magnification. These are also known as "cognitive distortions", because they are a distorted view of reality.
+Cognitive Restructuring is the process of identifying and countering unhelpful thought patterns. Unchecked, these lead to downward spirals of negative emotion. They make you feel worse in an unproductive, unhelpful way. They tend to be irrational or exaggerated. Some examples include: all-or-nothing thinking, over-generalization, and magnification.
 
-When you are processing an experience and feel yourself getting frustrated or potentially downward spiraling, take a moment to get into a mindful state. Whoop! Once you are in a mindful state, listen to and describe your automatic thoughts and feelings.
-
-When you're processing these unhelpful thoughts, the first step is to identfy them as unproductive, and name the thought pattern. Then you can think of alternative thoughts that are more realistic and helpful.
+These unhelpful thought patterns are also known as "maladaptive thought patterns". Maladaptive means it is unhelpful; it gets in your way. Maladaptive thought patterns are doing a bad job of being adaptive ("mal" = bad, "adaptive" = helpful). Another term for these unhelpful thought patterns is "cognitive distortions", because they give you a distorted view of reality.
 
 ### Example Scenario
 
-One day I was excited to attend a particular tech event. It was raining and I was wet and cold. On my way to the event I stepped in a puddle! I heard several automatic thoughts go off in my head.
+One evening I was excited to attend a tech meetup. It was raining and I was wet and cold. On my way to the event I stepped in a puddle! I heard several thoughts go off in my head.
 
 * "Ugh! Wet shoes are the worst!".
-* “I’m running late, so I shouldn’t even go! It'll look really bad.”
+* “If I’m running late, I shouldn’t even go!”
 * “Today sucks.”
 
-These thoughts made me feel worse, and I really considered not going. I took a moment and identified what cognitive distortions these were, and then I thought of more adaptive and realistic alternative thoughts. I ended up going to the event after all, and I was very glad I did.
+These thoughts made me feel worse, and I really considered not going.
 
 ## Identifying Cognitive Distortions
 
-Here are some of the most common “maladaptive thought patterns”.
+Here are some of the most common “maladaptive thought patterns”. Being able to name these patterns are helpful for you to identify them in the first place, it makes it easier for you to think about them and manipulate them in your mind, and it also makes it easier to describe them to other people. The groups they are in aren't strict, just helpful to make these more memorable.
 
-### Feelings Based
+### Feelings
 
-* Emotional Reasoning - believing something based on a feeling, as opposed to thinking about it and basing it on facts.
-* Mind reading - believing you know what another person is thinking or feeling, often negative.
-* Personalization - believing you have more control or influence over a situation than you actually do.
+* Emotional Reasoning is when you believe something based on a feeling, as opposed to thinking about it and basing it on facts.
 
-### Generalizing
+### Generalizing: Needs nuance
 
-* Overgeneralization - applying a small amount of information to explain a whole situation, inaccurately. Not incorporating enough nuance.
-* Labeling - a subset of overgeneralization. Labeling someone or something and using that to make inaccurate predictions.
-* All or nothing thinking - 
+* Overgeneralization is applying a small amount of information to explain a whole situation, inaccurately. Not incorporating enough nuance.
+* Labeling is a subset of overgeneralization. This could be labeling someone or something and using that to make inaccurate predictions.
+* All or nothing thinking is when you think in a binary yes/no or good/bad kind of way. Truth often lies in a gray area between the two extremes.
 
-### Positive versus Negative
+### Focusing: Positive versus Negative
 
-* Magnification and minimization - focusing disproportionately on the negatives versus the positives.
-* Disqualifying the positive - discounting positive things, like saying "...but that doesn't count".
+* Magnification is focusing disproportionately on something, and minimization is focusing too little on something. This term is used to describe magnifying/minimizing something that makes you unhappy.
+* "Disqualifying the positive" is when you acknowledge something positive, but convince yourself that it doesn't count.
+
+### Who
+
+* Personalization is believing you have more control or influence over a situation than you actually do, often by not taking into account external forces.
+* Mind reading is believing you know what another person is thinking or feeling, often negative.
 
 ### Outcome Prediction
 
-* Fortune-telling - believing you know how something will turn out, usually for the worse.
-* Catastrophization - focusing on the worst possible outcome of a situation, when it is a less likely outcome.
+* Fortune-telling is believing you know how something will turn out, usually for the worse.
+* Catastrophization is focusing on the worst possible outcome of a situation, especially when it is a less likely outcome.
 
-## Countering Cognitive Distortions
+### Scenario Continued
 
-Once you have identified the maladaptive thought pattern, you can start brainstorming ways to make it more adaptive. You can consider how to make it more accurate, true, or rational.
+I gave myself a "whoop!" which made me smile a little despite my mood. I took a moment to take stock of the automatic thoughts I just experienced, and the automatic feelings I was having.
 
-You might like the “two column” technique. The left column is for the “automatic thought” and the right column is for any “deliberate thoughts” you can think of to counter that maladaptive automatic thought. You can also note the specific maladaptive thought pattern by name to help you focus on the problematic parts of it.
+I identified what cognitive distortions these were by name
 
-TWO COLUMN TECHNIQUE EXAMPLE
+EXAMPLES
 
-Knowing these
-This also prompts you to replace it with a more helpful "adaptive thought" instead.
+...and then I thought of more adaptive and realistic alternative thoughts. I ended up going to the event after all, and I was very glad I did.
 
-
-### Example
-
-
+### Example Continued
 
 We’ll go through each one and discuss what makes them maladaptive, label them, and consider an alternative “deliberate thought” to think to ourselves instead.
 
@@ -88,6 +94,19 @@ I might automatically think "If I'm running late, I just shouldn't go!". If I ca
 TODAY SUCKS -> OVERGENERALIZING, DISQUALIFYING THE POSITIVE, JUMPING TO CONCLUSIONS
 
 I might automatically think "Today sucks!". Hoo boy, this has several maladaptive thought patterns! "Overgeneralizing" the entire day, "disqualifying the positive" things that happened earlier in the day, and "fortune telling" that the rest of the day is also going to be bad. Dwelling on this isn't going to be helpful (rumination!) - we want to defuse the feeling now that we're aware of it.
+
+## Countering Cognitive Distortions
+
+Once you have identified the maladaptive thought pattern, you can start brainstorming ways to make it more adaptive. You can consider how to make it more accurate, true, or rational.
+
+You might like the “two column” technique. The left column is for the “automatic thought” and the right column is for any “deliberate thoughts” you can think of to counter that maladaptive automatic thought. You can also note the specific maladaptive thought pattern by name to help you focus on the problematic parts of it.
+
+Start by writing down the unhelpful thoughts on the left column. If you can name any, you can add what maladaptive thought pattern it is. Once you have identified these unhelpful thoughts, you can brainstorm more helpful thoughts in the right column.
+
+TWO COLUMN TECHNIQUE EXAMPLE
+
+Knowing these
+This also prompts you to replace it with a more helpful "adaptive thought" instead.
 
 ## Debugging Metaphor
 
@@ -106,6 +125,30 @@ NAMED CODE SMELLS AND REFACTORING TECHNIQUES
 If you can name the code smell, that's even more helpful because you can talk about it with other folks and google it. You can give more concrete feedback during code review. Naming it is powerful, because it can help you counter it as well.
 
 To read more about these named code smells and refactoring techniques, you might like the book [“Refactoring”](https://martinfowler.com/books/refactoring.html) by Martin Fowler, or the website [Sourcemaking](https://sourcemaking.com/refactoring).
+
+### Review
+
+Two debugging steps from earlier chapters:
+
+1. When you feel yourself potentially downward spiraling, get into a mindful state. Whoop!
+2. In a mindful state, listen to and describe your inputs: your automatic thoughts and feelings.
+
+In this chapter we will cover two more steps:
+
+1. Identfy any thoughts that are unrealistic or unproductive, and name them.
+2. For each unhelpful thought, think of an alternative thought that is more  realistic and helpful.
+
+### Another Review
+
+In the previous chapters, you learned how to CHAPTER1 then CHAPTER2 then CHAPTER3
+
+Processing overview. You've covered 1 and 2 in the previous chapters, and we'll do 3 and 4 in this one.
+
+1. Notice an opportunity to introspect. Whoop!
+2. Describe your automatic thoughts and feelings.
+3. Identify which thoughts are unhelpful.
+4. Respond to the unhelpful thoughts with more helpful ones.
+
 
 ## Automatic vs Deliberate Recap
 
