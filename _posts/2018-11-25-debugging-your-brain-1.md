@@ -5,6 +5,7 @@ tagline: Cognitive Restructuring for Systems Thinkers
 tags:
 ---
 
+# Modeling The Brain
 
 You are about to learn how to "debug your brain", making yourself happier and more effective. You'll end up with a systems-thinking way to view yourself, a mental model of your mind.
 
