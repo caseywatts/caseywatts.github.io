@@ -7,44 +7,11 @@ tags:
 
 # Cognitive Restructuring
 
-Outline
-
-- [Cognitive Restructuring](#cognitive-restructuring)
-  - [Overview](#overview)
-  - [Cognitive Restructuring](#cognitive-restructuring-1)
-    - [Example Scenario](#example-scenario)
-  - [Identifying Cognitive Distortions](#identifying-cognitive-distortions)
-    - [Common Cognitive Distortions](#common-cognitive-distortions)
-      - [Feelings vs Facts](#feelings-vs-facts)
-      - [Generalizing: Needs nuance](#generalizing-needs-nuance)
-      - [Focusing: Positive versus negative](#focusing-positive-versus-negative)
-      - [People](#people)
-      - [Outcome Prediction](#outcome-prediction)
-      - [More](#more)
-    - [Identifying Cognitive Distortions - Example](#identifying-cognitive-distortions---example)
-  - [Countering Cognitive Distortions](#countering-cognitive-distortions)
-    - [Countering Cognitive Distortions - Example](#countering-cognitive-distortions---example)
-  - [Debugging Metaphor](#debugging-metaphor)
-  - [FAQ / Other Points](#faq--other-points)
-    - [When to let it through](#when-to-let-it-through)
-    - [Why doesn't everybody already do CBT](#why-doesnt-everybody-already-do-cbt)
-  - [More Resources](#more-resources)
-    - [CBT Book](#cbt-book)
-    - [Therapy](#therapy)
-    - [CBT App](#cbt-app)
-    - [Meditation App](#meditation-app)
-    - [Regular Practice](#regular-practice)
-  - [Homework](#homework)
-- [Book Summary](#book-summary)
-  - [Review One](#review-one)
-  - [Another Review](#another-review)
-  - [Third Review](#third-review)
-
 ## Overview
 
 You have read about how to enter an introspective state (whoop!), about how to process experiences by putting them into words, and about how to validate those experiences to non-judgmentally accept them as inputs. In this chapter, you will learn how to identify unhelpful thought patterns and how turn them into helpful ones. This is known as "cognitive restructuring".
 
-## Cognitive Restructuring
+## Cognitive Restructuring Definition
 
 Cognitive Restructuring is the process of identifying and countering "unhelpful thought patterns". Unchecked, these lead to downward spirals of negative emotion. They make you feel worse in an unproductive, unhelpful way. They tend to be irrational or exaggerated. Some examples include: all-or-nothing thinking, over-generalization, and magnification.
 
@@ -147,47 +114,53 @@ Here is the two-column chart I drew up in my head in the moment I was considerin
 | "if I'm running late, I just shouldn't go" | **all or nothing thinking**, mind reading, fortune telling, disqualifying the positive | "going late is still valuable, and it won't actually look that bad" |
 | "today sucks" | **disqualifying the positive**, overgeneralizing, fortune telling | "I'm glad I get to go to a meetup at all" |
 
-## Debugging Metaphor
+## Parallels to Programming
 
-This whole process may feel similar to you if you have worked with "code smells" and/or "refactoring techniques" in the past.
+This brain debugging process may feel familiar to you if you have worked with "code smells" and "refactoring techniques" in the past.
 
-In software development,  “code smell” is something you notice about a piece of code that suggests there may be an issue with it. You might not be able to identify or name what exactly "smells" about the code right away, sometimes you just have a sense something is off. The code smell can cause issues - things like "brittle code" where a small change to the code can dramatically break functionality.  With practice, you can get good at identifying and naming code smells.
+In software development, a “code smell” is something you notice about a piece of code that suggests there may be an issue with it. You might not be able to identify what exactly "smells" about the code right away, sometimes you just have a sense something is off. The code smell can cause issues if not addressed. One consequence is "brittle code" where a small change to the code can dramatically break functionality. Another common consequence is hard to read code, for others or for your future self. With practice, you can get good at identifying and naming code smells.
 
-For each code smell, there is usually a specific "refactoring technique" associated. A refactoring technique is a way you can edit the code to keep how it works, while getting rid of the code smell. This improves the quality of the code base, and avoids the issues code smells bring. As you get better at the refactoring techniques you get better at knowing when to use them, quicker at implementing them, and may even be able to name them. There are many possible refactoring techniques for a given code smell, it's up to you to choose an appropriate one.
+If you can name the code smell that will help you talk about it with other people. You can use the smell names to give more concrete feedback during code review. Naming the code smell also helps you look up how other people have dealt with the smell in other contexts, and give you ideas about what refactoring techniques to use on it.
 
-For an example, imagine a function that is 30 lines long - you might notice this as a code smell called "long function". You might break this long function down into several smaller functions, using the refactoring technique "extract function". If this improves readability, that's a positive change!
+For an example, imagine a function that is 30 lines long - you might notice this as a code smell called "long function". You might break this long function down into several smaller functions, using the refactoring technique "extract function". If this improves readability, that's a positive change! You might even use the technique "extract class" if there is a class-appropriate concept inside the long function.
 
-Or imagine a function with a name that doesn't tell you what it is like "fmt()", that code smell "unclear variable name". You might use the refactoring technique "rename function" to give it a clearer name, like "formatName()" instead of "fmt()".
+For a second example, imagine a function with a name that doesn't tell you what it is, like "fmt()", and there is (fortunately) a comment above it explaining what it does. Often code comments are a code smell of their own, compensating for poorly-named functions.
 
-TIE BACK TO CBT
-Code smells are a lot like cognitive distortions - you may get a sense that something is a cognitive distortion even if you have trouble naming it.
+Here is my finished three-column table for these two examples:
 
+| Code | Code Smell | Refactoring Technique |
+| - | - | - |
+| [30 line long function] | long function |  |  
+| [comment above a function] | code comment |  |
 
-NAMED CODE SMELLS AND REFACTORING TECHNIQUES
-If you can name the code smell, that's even more helpful because you can talk about it with other folks and google it. You can give more concrete feedback during code review. Naming it is powerful, because it can help you counter it as well.
+Even being able to identify the code smells is a step worth celebrating. It is the first step to making it better. For each code smell, there is usually a specific "refactoring technique" associated. A refactoring technique is a way you can edit the code to keep how it works, while getting rid of the code smell. This improves the quality of the code base, and avoids the issues code smells bring. There are many possible refactoring techniques for a given code smell, it's up to you to choose an appropriate one.
 
-To read more about these named code smells and refactoring techniques, you might like the book [“Refactoring”](https://martinfowler.com/books/refactoring.html) by Martin Fowler, or the website [Sourcemaking](https://sourcemaking.com/refactoring).
+For the "30 line long function" example, you may be able to extract several smaller functions out of the big one, reducing its length, using the "extract function" technique. It might even be appropriate to do an "extract class" refactor if there is a class-like concept in it.
+
+For the "comment above a function" example, you may be able to get rid of the comment by renaming the function to be more self-explanatory, using the technique "rename function" to enable you to remove the comment.
+
+Here is my finished three-column table for these two examples:
+
+| Code | Code Smell | Refactoring Technique |
+| - | - | - |
+| [30 line long function] | long function | extract function, extract class |
+| [comment above a function] | code comment | rename function, remove comment |
+
+Code smells are a lot like cognitive distortions - you may get a sense that something is a cognitive distortion even if you have trouble naming it. Refactoring techniques are a lot like the more-adaptive thoughts you think of to counter cognitive distortions.
+
+To read more about these named code smells and refactoring techniques in the software context, you might like the book [“Refactoring”](https://martinfowler.com/books/refactoring.html) by Martin Fowler, or the website [Sourcemaking](https://sourcemaking.com/refactoring). To read more about cognitive distortions in the human brain, I recommend "Feeling Good" by David Burns.
 
 ## FAQ / Other Points
 
 ### When to let it through
 
-There is some utility in declaring your unhappy state to others (and to yourself?) - conveying your current emotional state. It might be cathartic to express it, especially if there's nothing that can be done about it.
-
-The goal here is not to ruminate. Let's look at the definition of rumination:
-> Dwelling on the causes and consequences as opposed to the solutions
-
-I could remind myself to angriness will go away when I eat, or that when I get there I can I can take my shoes off and dry my socks off. I'll feel awesome once my feet are dry. I'm literally soaked, everybody would understand. I probably wouldn't be the only one so wet!
-
-This chapter covers the number one most useful thing I learned in “Intro to Psychology” - how to diffuse rumination by identifying and countering these maladaptive thought patterns.
+The goal of debugging your brain is to respond to situations in a helpful, adaptive way. These "Debugging Your Brain" techinques are tools you can use to redirect your mental energy where you see fit. Often the most adaptive thing you can do is to focus on a positive, accurate view of a situation. Sometimes, however, it may be more adaptive to lean into an unhappy emotional state to either share it with others or to incite action in yourself. It is up to you to determine what "adaptive" means to you in a given situation.
 
 ### Why doesn't everybody already do CBT
 
-CBT takes time, energy, and skill.
+CBT takes time, energy, and skill. Most people aren't aware of these skills you can work on. Many people who do know about these skills probably aren't sure how to develop them.
 
-Most people aren't aware this is a skill you can work on. Many people who are aware probably aren't sure how to develop it. Thankfully, you do now.
-
-You'll be able to work on this gradually, but the rate at which you can work on this is limited. You don't have infinite time or energy. Try and celebrate each step in the right direction. It's a long journey.
+You'll be able to work on these skills gradually, but the rate at which you can work on them is limited. You don't have infinite time or energy. Try to celebrate each step in the right direction. It's a long journey.
 
 ## More Resources
 
@@ -197,13 +170,9 @@ The book "Feeling Good: The New Mood Therapy" covers Cognitive Behavioral Therap
 
 You can consider this "bibliotherapy", therapy via reading. The more motivated you are, the more likely bibliotherapy is to help. If you can also see a therapist, that support can make it significantly more likely you'll see improvements. If you have a therapist, they may even assign this book as supplemental homework.
 
-LINK TO BOOK
-
 ### Therapy
 
-You can think of Cognitive Behavioral Therapy as "Training". Therapists happen to be skilled personal trainers for CBT. Seeing a therapist regularly is the best option for working on these skills, it is the approach most likely to succeed.
-
-A therapist will determine how they can best help you, whether they make a formal diagnosis or not.
+You can think of Cognitive Behavioral Therapy as "Training". Therapists happen to be skilled personal trainers for CBT. Seeing a therapist regularly is the best option for working on these skills, it is the approach most likely to succeed. A therapist will determine how they can best help you, whether they make a formal diagnosis or not.
 
 Many health insurance plans only cover a limited number of therapists that are frequently overbooked. If you can see one of these it may be the most cost effective approach. If not, many other places offer a sliding scale and there are other assistance programs available. If you believe therapy would help you, there's a way to get it.
 
@@ -211,57 +180,25 @@ Two of the most frequent diagnoses are depression and anxiety. Many folks have u
 
 ### CBT App
 
-The web application Joyable helps with one particular issue, social anxiety. It is a great tool to help make sure you regularly work on your CBT homework, and give you some structure around it. It is cheaper than seeing a therapist, but just like the book approach seeing a therapist as well is more effective.
+The web application "Joyable" helps with one particular issue, social anxiety. It is a great tool to help make sure you regularly work on your CBT homework, and give you some structure around it. It is cheaper than seeing a therapist, but just like the book approach seeing a therapist as well is more effective.
 
 Joyable is great tool for social anxiety. I haven't yet found an app that helps with CBT more generally, but I really hope to see more things like this!
 
-LINK TO JOYABLE
+### Meditation
 
-### Meditation App
+Meditation has a lot of health benefits. There are many studies showing that it decreases stress, anxiety, and depression. Some doctors even "prescribe" meditation to their patients. 
 
-Meditation can help you... BENEFITS
-
-There are many ways to get started with meditation - apps, videos, books, classes. For one concrete way to get started, I recommed the app Headspace. Headspace is DESCRIBE HEADSPACE
-
-LINK TO HEADSPACE
+There are many ways to get started with meditation - apps, videos, books, classes. For one specific way to get started, I recommed the app "Headspace". It breaks down the main concepts of meditation into short sessions with cute videos.
 
 ### Regular Practice
 
 Regardless of your approach, you'll have to regularly practice these skills to see progress. Brainstorm with yourself how to get yourself to regularly work on these skills. You might come up with some prompts (calendar event reminders? do it before/after something else?). You might pick one maladaptive thought pattern per week to look out for and work on, or you might set a goal of "whooping" yourself one per day. There are entire books on the psychology of habit formation. Make CBT skills a habit for yourself, however you are able.
 
-## Homework
-
-ASSIGN HOMEWORK?
-
 # Book Summary
 
-## Review One
+When you feel yourself potentially downward spiraling, get yourself into a mindful state. You can use the **"whoop!"** technique. Once you're in the mindful state, think about what your **"inputs"** are. Automatic thoughts, automatic feelings, bodily state, external stimuli. Put these into words. Identify any **cognitive distortions** you have within these automatic thoughts, and consider what **more-adaptive thoughts** you can come up with. With these skills together, you'll be able to choose a response that's more effective than what you might have originally done.
 
-Two debugging steps from earlier chapters:
-
-1. When you feel yourself potentially downward spiraling, get into a mindful state. Whoop!
-2. In a mindful state, listen to and describe your inputs: your automatic thoughts and feelings.
-
-In this chapter we will cover two more steps:
-
-1. Identfy any thoughts that are unrealistic or unproductive, and name them.
-2. For each unhelpful thought, think of an alternative thought that is more  realistic and helpful.
-
-## Another Review
-
-In the previous chapters, you learned how to CHAPTER1 then CHAPTER2 then CHAPTER3
-
-Processing overview. You've covered 1 and 2 in the previous chapters, and we'll do 3 and 4 in this one.
-
-1. Notice an opportunity to introspect. Whoop!
-2. Describe your automatic thoughts and feelings.
-3. Identify which thoughts are unhelpful.
-4. Respond to the unhelpful thoughts with more helpful ones.
-
-## Third Review
-
-Now you know how to get into the Whoop State. Once you're in there, you know what types of inputs to your system to think about. You know how to process your emotions better, and you can identify maladaptive thought patterns, replacing them with more adaptive ones.
-
-With all these put together, you can choose as a response that's more effective than what you might have done otherwise. You'll be more productive and happier. Any time you're about to hit a downward spiral, you can stop yourself and take control of your mind.
-
-You are now a Mind Manipulator, of your own mind! You've finally figured out how to use the debugger for your brain. Now you can debug this "software" that's been running nonstop your whole life. You have so much potential, and so much power :)
+1. **Whoop!** - When you feel yourself potentially downward spiraling, get into a mindful state.
+2. **Inputs** - In a mindful state, listen to and describe your inputs, especially your automatic thoughts and feelings.
+3. **Cognitive Distortions** - Identfy any thoughts that are unrealistic or unproductive, and name them.
+4. **More Adaptive Thoughts** - For each unhelpful thought, think of an alternative thought that is more realistic and helpful.
