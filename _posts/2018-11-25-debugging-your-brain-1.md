@@ -48,7 +48,7 @@ A much more useful dichotomy is the inner brain versus the outer brain. Let's il
 
 ![inner vs outer brain](/assets/inner%20vs%20outer%20brain.png)
 
-You can see the difference in the two paths by watching this cat gif:
+You can see the difference in the two paths with this example with cats:
 
 ![cucumber cat](/assets/cucumber%20cat.gif)
 *A cat by its cat-food bowl turns around, sees a cucumber on the ground, and then jumps in fear. The cat likely realizes it's just a cucumber moments later*
