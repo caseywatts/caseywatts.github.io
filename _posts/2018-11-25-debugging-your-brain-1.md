@@ -11,9 +11,9 @@ You are about to learn how to "debug your brain", making yourself happier and mo
 
 {% include debugging_your_brain_toc.md %}
 
-I assign "homework" at the end of some sections -- you'll learn the most if you actually do these. I have also collected my favorite resources around this topic in a [published google doc](https://caseywatts.com/mindmanipulation).
+I assign "homework" at the end of some sections -- you'll learn the most if you actually do these.
 
-Who's writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a [few neurobiology papers](https://caseywatts.com/mindmanipulation).
+Who's writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a [few neurobiology papers](https://caseywatts.com/mindmanipulation). I have also worked in software development for 10 years.
 
 ## Goals
 
