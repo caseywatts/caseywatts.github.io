@@ -392,7 +392,7 @@ You can use an emotion thesaurus chart to expand your emotional vocabulary. Keep
 ![Emotions Wheel by Dr. Gloria Wilcox](assets/feelings-wheel.jpg)
 *Feelings Wheel by Dr. Gloria Wilcox*
 
-The next time you are trying to describe your emotions, whether to yourself or to someone else, try using the reference. You may find a word a little more accurate than what you would think of naturally. You might also try a traditional thesaurus, or ask a friend how they would describe it.
+The next time you are trying to describe your emotions, whether to yourself or to someone else, try using the reference. You may find a word a little more accurate than what you would think of naturally. You might also try a traditional thesaurus, or ask a friend how they would describe it. 
 
 ## Homework
 
