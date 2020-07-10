@@ -92,6 +92,8 @@ I got really upset once. I was eating in a food court, charging my phone, and a 
 
 I was energized enough to talk to the manager later and make my thoughts known. I explained: it cost virtually nothing to the company (literally <$0.001 for a full phone charge). I wasn't in the way of anything. I wasn’t taking up needed space (the food court was empty). There was no sign up about this rule anywhere. And the person asking me to unplug was rude about it.
 
+<!-- #content how did the story end? did anything happen? -->
+
 If you wouldn’t have acted the same way as me, that’s okay. I believe it was worth it communicating this to the manager, both for the situation and for myself. I felt better because the information (my frustration/rationale) made it to the right person who could potentially change things. I was ready to accept it if they chose not to act on this — but not sharing this information would have bothered me.
 
 You can get very skilled at introspection and still allow yourself to get worked up sometimes. You don’t need to always mechanically control your thoughts.
@@ -100,9 +102,9 @@ Let's imagine that you’re now an expert at using the whoop technique to get in
 
 ## Post-hoc Rationalization
 
-When my brother didn’t close the door, my mom stopped to introspect for a moment. If she hadn’t, she might have might have explained her behavior in an unsatisfying, inaccurate way called a "post-hoc rationalization". Some blatant examples: “he always does that!” (even if he hasn’t done it much) or “he’s going to let all the heat out!” (even if the heat wasn’t on). Post-hoc rationalization can happen during stressful or non-stressful situations -- anytime.
+When my brother didn’t close the door, my mom stopped to introspect for a moment. If she hadn’t, she might have might have explained her behavior in an unsatisfying, inaccurate way called a "post-hoc rationalization". Post-hoc means “after the fact”. We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
 
-Post-hoc means “after the fact”. We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
+Some blatant examples: “he always does that!” (even if he hasn’t done it much) or “he’s going to let all the heat out!” (even if the heat wasn’t on). Post-hoc rationalization can happen during stressful or non-stressful situations -- anytime.
 
 When you find yourself experiencing this, consider taking a moment to introspect. Just because the explanation is inaccurate doesn’t mean the gut reaction isn't based on something real. By spending time processing you may be able to come up with a fuller, more satisfying explanation for yourself and for others. Whoop!
 
@@ -139,7 +141,7 @@ Those are four types of input: automatic feelings, automatic thoughts, stimuli f
 
 - What are the four major types of inputs to your consciousness?
 - Practice the “whoop” — whoop yourself 3 times today. While in this introspective state, notice your inputs. Identify inputs from each of the four major types of inputs.
-- Explain CBT (at a high level) to a friend. Do a bit of independent research (googling!) if you want to be able to speak about it more accurately.
+- Explain CBT (at a high level) to a friend. Do a bit of independent research (Googling!) if you want to be able to speak about it more accurately.
 - Use the term “post-hoc rationalization” in a conversation this week.
 
 ## Read More

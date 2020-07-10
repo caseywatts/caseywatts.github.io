@@ -7,9 +7,7 @@ tags:
 
 # Modeling The Brain
 
-You are about to learn how to "debug your brain", making yourself happier and more effective. You'll end up with a systems-thinking way to view yourself, a mental model of your mind.
-
-{% include debugging_your_brain_toc.md %}
+You are about to learn how to "debug your brain", making yourself happier and more effective. You'll end up with a systems-thinking way to view yourself, a mental model of your mind. <!-- #todo: define systems thinking. I do later, should I pull it forward, or punt using this term right away? -->
 
 I assign "homework" at the end of some sections -- you'll learn the most if you actually do these.
 
@@ -19,7 +17,7 @@ Who's writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I 
 
 Do you want to be a happier and more effective person? Of course you do!
 
-The following "brain debugging" techniques will help you choose the best response in a given situation, to get the most effective outcome. One of the worst (least adaptive) outcomes is ending up in a "downward spiral". The following techniques are especially important in high-stakes or emotional situations where you might a "downward spiral".
+The following "brain debugging" techniques will help you choose the best response in a given situation, to get the most effective outcome. One of the worst (least adaptive) <!-- #todo define adaptive / least adaptive --> outcomes is ending up in a "downward spiral". The following techniques are especially important in high-stakes or emotional situations where you might a "downward spiral".
 
 These will help you understand yourself better, they will help you communicate your mental state more clearly, and they will help you understand other people better as well. It can even help you understand other people's perspectives more readily and quickly.
 
@@ -37,16 +35,18 @@ Let's say you're at work and you have an idea, and your coworker has a different
 ### Leaving The Door Open
 Imagine you're a parent, and your kids forgot to shut the front door -- again! You snap at them. You later feel guilty for snapping. It wasn't the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
 
-### Hangry Meetup
-Once I (Casey) was headed to a meet-up. I hadn't eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst". All of a sudden I couldn't imagine going to the Meetup anymore -- and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I'm glad I did!
+### Hangry Meet-up
+Once I (Casey) was headed to a meet-up. I hadn't eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst". All of a sudden I couldn't imagine going to the meet-up anymore -- and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I'm glad I did!
 
 ## Inner vs Outer Brain
 
-Some believe that "left-brained" people are more inclined to be creative, and "right-brained" people are more inclined to be analytical. Analytical vs creative may be a useful dichotomy, but these traits don't seem to stem from the two hemispheres of the brain. The difference between these two halves of the brain is often exaggerated. Here is [one study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275) that goes into this in some depth.
+Some believe that "left-brained" people are more inclined to be creative, and "right-brained" people are more inclined to be analytical. Analytical vs creative may be a useful dichotomy, but these traits don't seem to stem from the two hemispheres of the brain. The difference between these two halves of the brain is often exaggerated. Here is <!-- add this in a citation format; move to bottom of this section if I don't go into it --> [one study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275) that goes into this in some depth.
 
 A much more useful dichotomy is the inner brain versus the outer brain. Let's illustrate the difference between these two halves.
 
 ![inner vs outer brain](assets/inner%20vs%20outer%20brain.png)
+
+<!-- #content update the example, maybe use snake/stick one since the gif won't work here? can still point to "cats and cucumbers" they can google it lol -->
 
 You can see the difference in the two paths with this example with cats:
 
@@ -65,13 +65,14 @@ The "high road" is much slower. Thoughts are processed more slowly, on the scale
 ![outer brain  -- thought path](assets/brain%20thought%20path.png)
 *The "outer brain" or "high road" pathway is longer and slower.*
 
+<!-- #formatting: table formatting -->
 
-| "low road" | "high road" |
-| -- | -- |
+| "low road"    | "high road"   |
+|:-------------:|---------------|
 | "inner brain" | "outer brain" |
-| Limbic System | Cortex |
-| faster (~ms) | slower (~s) |
-| Feelings | Thoughts |
+| Limbic System | Cortex        |
+| faster (~ms)  | slower (~s)   |
+| Feelings      | Thoughts      |
 
 To summarize, "inner brain" feelings are processed much more quickly than "outer brain" thoughts are. We tend to "feel first, think second."
 
@@ -111,7 +112,7 @@ But we humans aren't always so aware of what's going on inside our heads. When w
 *Model of autopilot: input leads to output. Model of mindfulness: input leads to process leads to output.*
 
 ### Automatic vs Deliberate Thoughts and Feelings
-
+<!-- #formatting quotes to italics -->
 You experience both "automatic thoughts" and "automatic feelings" -- they both just happen "to" you. From the perspective of your consciousness, they're inputs that you can't control.
 
 When you are being "mindful" you can then actively choose to have "deliberate thoughts" and influence your feelings. You can probably imagine how to have a "deliberate thought" -- you just think it!
@@ -130,7 +131,7 @@ Sometimes these automatic or deliberate thoughts and feelings can cause a troubl
 ![downward spiral 2](assets/downward%20spiral%202.png)
 *A downward spiral. Negative thoughts leading to negative feelings leading back to more negative thoughts.*
 
-For example, that time when I stepped in a puddle on my way to a Meetup event. That made my already-bad mood even worse. I heard myself automatically think something like "I am stupid," and that kicked off a downward spiral for me.
+For example, that time when I stepped in a puddle on my way to a meet-up event. That made my already-bad mood even worse. I heard myself automatically think something like "I am stupid," and that kicked off a downward spiral for me.
 
 A downward spiral like this is not usually so useful. It manages to both make you feel worse AND distract you from focusing on things that are important. We generally want to avoid downward spirals.
 

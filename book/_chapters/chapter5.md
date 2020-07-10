@@ -19,7 +19,8 @@ These unhelpful thought patterns are also known as "maladaptive thought patterns
 
 ### Example Scenario
 
-One evening I was excited to attend a tech meetup. It was raining and I was wet and cold. On my way to the event I stepped in a puddle! I heard several thoughts go off in my head.  These thoughts made me feel worse, and I really considered not going. I gave myself a "whoop! to introspect a bit, and took stock of my automatic thoughts:
+<!-- #todo: remove duplicate example from earlier or from here -->
+One evening I was excited to attend a tech meet-up. It was raining and I was wet and cold. On my way to the event I stepped in a puddle! I heard several thoughts go off in my head.  These thoughts made me feel worse, and I really considered not going. I gave myself a "whoop! to introspect a bit, and took stock of my automatic thoughts:
 
 * "Ugh! Wet shoes are the worst!".
 * “If I’m running late, I shouldn’t even go!”
@@ -71,7 +72,7 @@ After I stepped in the puddle on the way to the meetup, I noticed several automa
 * “If I’m running late, I shouldn’t even go!”
 * “Today sucks.”
 
-Each of these thoughts contain cognitive distortions. They make me feel worse in an unhelpful, unproductive way. Dwelling on these thoughts is not going to be helpful (rumination!). Which cognitive distortions apply to these?
+Each of these thoughts contain cognitive distortions. They make me feel worse in an unhelpful, unproductive way. Dwelling on these thoughts is not going to be helpful (rumination!). Which cognitive distortions apply to these automatic thoughts?
 
 My thought “wet shoes are the worst” is an example of **magnification**. It blows the problem out of proportion - not only are wet shoes bad, but they’re the WORST. This is **emotional reasoning** since I am coming up with this based on my mood, and not based on facts. I would not consider this **post hoc rationalization** since I am not defending this thought with support.
 
@@ -79,12 +80,13 @@ My thought "If I'm running late, I just shouldn't go!" is an example of **all or
 
 My thought "today sucks" has a lot going on. This is an example of **overgeneralizing** the entire day, **disqualifying the positive** things that happened earlier in the day, and **fortune telling** that the rest of the day is also going to be bad.
 
-Once you identify what cognitive distortions you are experiencing, take a moment to be proud. Identifying these is no a challenging skill to learn! Even if you don't know what to do with some of them next, it is worth celebrating that you took a moment to be introspective, that you took stock of automatic thoughts and feelings, and even identified some as cognitive distortions.
+Once you identify what cognitive distortions you are experiencing, take a moment to be proud. Identifying these is a challenging skill to learn! Even if you don't know what to do with some of them next, it is worth celebrating that you took a moment to be introspective, that you took stock of automatic thoughts and feelings, and even identified some as cognitive distortions.
 
 ## Countering Cognitive Distortions
 
-Once you know which cognitive distortions you are experiencing, you can deal with them one at a time. This "three column technique" can help with this (adapted from "Feeling Good: The New Mood Therapy" by David Burns). The left column is for describing your unhelpful "automatic thoughts" and the middle is for brainstorming some "deliberate thoughts". I bolded the cognitive distortion I think is the most applicable and helpful to counter. Later the right column will be for writing out more adaptive thoughts to counter the automatic thoughts.
+Once you know which cognitive distortions you are experiencing, you can deal with them one at a time. This "three column technique" can help with this (adapted from "Feeling Good: The New Mood Therapy" by David Burns). The left column is for describing your unhelpful "automatic thoughts", and the middle column is for identifying the cognitive distortions. I bolded the cognitive distortion I think is the most applicable and helpful to counter. Later the right column will be for writing out more adaptive deliberate thoughts to counter the automatic thoughts.
 
+<!-- #formatting table formatting -->
 
 | Automatic Thought | Cognitive Distortion | More Adaptive Thought |
 | - | - | - |
@@ -108,6 +110,8 @@ My thought "today sucks" contains **disqualifying the positive** things that hap
 
 Here is the two-column chart I drew up in my head in the moment I was considering not going:
 
+<!-- #formatting table formatting -->
+
 | Automatic Thought | Cognitive Distortion | More Adaptive Thought |
 | - | - | - |
 | "wet shoes are the worst" | **magnification**, emotional reasoning | "I am uncomfortable and cold, and that is unfortunate" |
@@ -121,6 +125,8 @@ This brain debugging process may feel familiar to you if you have worked with "c
 In software development, a “code smell” is something you notice about a piece of code that suggests there may be an issue with it. You might not be able to identify what exactly "smells" about the code right away, sometimes you just have a sense something is off. The code smell can cause issues if not addressed. One consequence is "brittle code" where a small change to the code can dramatically break functionality. Another common consequence is hard to read code, for others or for your future self. With practice, you can get good at identifying and naming code smells.
 
 If you can name the code smell that will help you talk about it with other people. You can use the smell names to give more concrete feedback during code review. Naming the code smell also helps you look up how other people have dealt with the smell in other contexts, and give you ideas about what refactoring techniques to use on it.
+
+<!-- #content: add a refactoring example? -->
 
 For an example, imagine a function that is 30 lines long - you might notice this as a code smell called "long function". You might break this long function down into several smaller functions, using the refactoring technique "extract function". If this improves readability, that's a positive change! You might even use the technique "extract class" if there is a class-appropriate concept inside the long function.
 
