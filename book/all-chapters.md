@@ -10,7 +10,7 @@ Who's writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I 
 
 Do you want to be a happier and more effective person? Of course you do!
 
-The following "brain debugging" techniques will help you choose the best response in a given situation, to get the most effective outcome. One of the worst (least adaptive) <!-- #todo define adaptive / least adaptive --> outcomes is ending up in a "downward spiral". The following techniques are especially important in high-stakes or emotional situations where you might a "downward spiral".
+The following brain debugging techniques will help you choose the best response in a given situation, to get the most effective outcome. One of the worst (least adaptive) <!-- #todo define adaptive / least adaptive --> outcomes is ending up in a "downward spiral". The following techniques are especially important in high-stakes or emotional situations where you might experience a _downward spiral_.
 
 These will help you understand yourself better, they will help you communicate your mental state more clearly, and they will help you understand other people better as well. It can even help you understand other people's perspectives more readily and quickly.
 
@@ -20,69 +20,69 @@ When can you apply these techniques? Either in the moment it's happening, if you
 
 ## Opportunities
 
-Here are three examples of situations where "brain debugging" may help. Each of these bad situations might end up with a desirable or undesirable outcome. Later we'll get into what you might do to make yourself more effective in each of these, getting a more desirable outcome.
+Here are three examples of situations where brain debugging may help. Each of these bad situations might end up with a desirable or undesirable outcome. Later we'll get into what you might do to make yourself more effective in each of these, getting a more desirable outcome.
 
 ### Work Disagreement
-Let's say you're at work and you have an idea, and your coworker has a different idea. You don't agree. You're having an argument, and it gets heated. You both believe very strongly that your idea is the best one for the situation. Hopefully your team will end up making the choice that's best for the situation. This topic will likely come up again -- what can you do better next time?
+Let's say you're at work and you have an idea, and your coworker has a different idea. You do not agree. You're having an argument, and it gets heated. You both believe very strongly that your idea is the best one for the situation. Hopefully your team will end up making the choice that's best for the situation. This topic will likely come up again -- what can you do better next time?
 
 ### Leaving The Door Open
-Imagine you're a parent, and your kids forgot to shut the front door -- again! You snap at them. You later feel guilty for snapping. It wasn't the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
+Imagine you're a parent, and your kids forgot to shut the front door -- again! You snap at them. You later feel guilty for snapping. It was not the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
 
 ### Hangry Meet-up
-Once I (Casey) was headed to a meet-up. I hadn't eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst". All of a sudden I couldn't imagine going to the meet-up anymore -- and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I'm glad I did!
+Once I (Casey) was headed to a meet-up. I had not eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst". All of a sudden I could not imagine going to the meet-up anymore -- and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I'm glad I did!
 
 ## Inner vs Outer Brain
 
-Some believe that "left-brained" people are more inclined to be creative, and "right-brained" people are more inclined to be analytical. Analytical vs creative may be a useful dichotomy, but these traits don't seem to stem from the two hemispheres of the brain. The difference between these two halves of the brain is often exaggerated. Here is <!-- add this in a citation format; move to bottom of this section if I don't go into it --> [one study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275) that goes into this in some depth.
+Some believe that left-brained people are more inclined to be creative, and right-brained people are more inclined to be analytical. Analytical vs creative may be a useful dichotomy, but these traits do not seem to stem from the two hemispheres of the brain. The difference between these two halves of the brain is often exaggerated. Here is <!-- add this in a citation format; move to bottom of this section if I do not go into it --> [one study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275) that goes into this in some depth.
 
 A much more useful dichotomy is the inner brain versus the outer brain. Let's illustrate the difference between these two halves.
 
 ![inner vs outer brain](assets/inner%20vs%20outer%20brain.png)
 
-<!-- #content update the example, maybe use snake/stick one since the gif won't work here? can still point to "cats and cucumbers" they can google it lol -->
+<!-- #content update the example, maybe use snake/stick one since the gif will not work here? can still point to "cats and cucumbers" they can google it lol -->
 
 You can see the difference in the two paths with this example with cats:
 
 ![cucumber cat](assets/cucumber%20cat.gif)
 *A cat by its cat-food bowl turns around, sees a cucumber on the ground, and then jumps in fear. The cat likely realizes it's just a cucumber moments later*
 
-This illustrates the "Dual Pathway Model of Fear" (LeDoux). I'm using fear here as a vivid example, but the core idea applies to non-fear emotions as well.
+This illustrates the _Dual Pathway Model of Fear_ (LeDoux). I'm using fear here as a vivid example, but the core idea applies to non-fear emotions as well.
 
-The "low road" path is much faster than the "high road" one. The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the "inner brain" (Limbic System), which is a much shorter path. Humans and animals both have this part of the brain. It is older than the "outer brain" in evolutionary terms. The inner brain is where fear is experienced.
+The _low road_ path is much faster than the _high road_ one. The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the _inner brain_ (Limbic System), which is a much shorter path. Humans and animals both have this part of the brain. It is older than the _outer brain_ in evolutionary terms. The inner brain is where fear is experienced.
 
 ![inner brain -- emotion path](assets/brain%20emotion%20path.png)
 *The "inner brain" or "low road" pathway is shorter and faster.*
 
-The "high road" is much slower. Thoughts are processed more slowly, on the scale of seconds. It has to go all the way through the "outer brain" (cortex), which is a much longer path. The cortex is the part of the brain humans actually think in -- your conscious mind. Humans have the largest cortex relative to brain size -- much larger than animals. Some people like to oversimplify and claim that animals can't "think" -- that they don't use their cortex in the same way humans do.
+The "high road" is much slower. Thoughts are processed more slowly, on the scale of seconds. It has to go all the way through the "outer brain" (cortex), which is a much longer path. The cortex is the part of the brain humans actually think in -- your conscious mind. Humans have the largest cortex relative to brain size -- much larger than animals. Some people like to oversimplify and claim that animals cannot "think" -- that they do not use their cortex in the same way humans do.
 
 ![outer brain  -- thought path](assets/brain%20thought%20path.png)
 *The "outer brain" or "high road" pathway is longer and slower.*
 
 <!-- #formatting: table formatting -->
 
-| "low road"    | "high road"   |
-|:-------------:|---------------|
-| "inner brain" | "outer brain" |
-| Limbic System | Cortex        |
-| faster (~ms)  | slower (~s)   |
-| Feelings      | Thoughts      |
+| low road      | high road   |
+|:-------------:|-------------|
+| inner brain   | outer brain |
+| limbic system | cortex      |
+| faster (~ms)  | slower (~s) |
+| feelings      | thoughts    |
 
-To summarize, "inner brain" feelings are processed much more quickly than "outer brain" thoughts are. We tend to "feel first, think second."
+To summarize, _inner brain_ feelings are processed much more quickly than _outer brain_ thoughts are. We tend to feel first and think second.
 
 ## Systems Thinking
 
 ### IPO Model
 
-Developers, engineers, and scientists are great systems thinkers. Whether or not you identify with any of these, you can be a systems thinker too! Let's break down one of the most common and simplest systems models, the "IPO" Model.
+Developers, engineers, and scientists are great systems thinkers. Whether or not you identify with any of these, you can be a systems thinker too! Let's break down one of the most common and simplest systems models, the IPO Model.
 
 ![engineer system](assets/engineer%20system.png)
 *The IPO Model*
 
-IPO stands for "Input, Process, Output". The IPO Model has input, output, process in the middle, and sometimes it includes a feedback loop.
+IPO stands for Input, Process, and Output. The IPO Model has input, output, process in the middle, and sometimes it includes a feedback loop.
 
 A textbook example of the IPO Model is the thermostat in your home. The thermostat measures the temperature of the room (input). It then compares that temperature to the set temperature, determining if it's above or below the temperature you set (process). It then toggles the heater on or off accordingly (output). The temperature of the room changes, and eventually the cycle repeats (feedback loop).
 
-I learned about this model in a middle school "engineering" class, and it was my first exposure to systems thinking. I nicknamed this simple model "The Engineer's System Diagram" at the time, and only later learned to call it the IPO Model.
+I learned about this model in a middle school engineering class, and it was my first exposure to systems thinking. I nicknamed this simple model "The Engineer's System Diagram" at the time, and only later learned to call it the IPO Model.
 
 You can apply the IPO model to software development -- it maps pretty cleanly to a function.  A function accepts arguments (the input) and returns a return value (the output). Some code happens inside the body of the function (the process). Calling the function also affects other things in the software, which sometimes calls the function again (the feedback loop).
 
@@ -90,27 +90,27 @@ You can apply the IPO model to software development -- it maps pretty cleanly to
 ### Systems Thinking & Conscious Thought
 We can use the IPO model to model brains, too!
 
-The simplest form of this diagram is just input and output. Imagine a simple model of an animal that says they don't really "think" -- they just respond to their environment.
+The simplest form of this diagram is just input and output. Imagine a simple model of an animal that says they do not really _think_ -- they just respond to their environment.
 
-The classic "Pavlov's Dog" idea uses this model. The dog is trained to associate a bell being rung with being fed. After this conditioning, every time the bell rings, the dog salivates -- even if there is no food around. The dog doesn't have to decide whether to salivate. Salivation just an automatic reaction it has to external stimuli. This phenomenon can be referred to as "Pavlovian conditioning" or "classical conditioning".
+The classic "Pavlov's Dog" idea uses this model. The dog is trained to associate a bell being rung with being fed. After this conditioning, every time the bell rings, the dog salivates -- even if there is no food around. The dog does not have to decide whether to salivate. Salivation just an automatic reaction it has to external stimuli. This phenomenon can be referred to as _Pavlovian conditioning_ or _classical conditioning_.
 
-In an oversimplification, we can imagine that there is no conscious "process" going on inside the animal. In contrast, we believe we humans always have conscious thought -- we think thoughts and feel feelings in a conscious way.
+In an oversimplification, we can imagine that there is no conscious _process_ going on inside the animal. In contrast, we believe we humans always have conscious thought -- we think thoughts and feel feelings in a conscious way.
 
 ![animal vs human](assets/animal%20vs%20human.png)
 *Model of an animal: input leads to output. Model of a human: input leads to process leads to output.*
 
-But we humans aren't always so aware of what's going on inside our heads. When we're on autopilot, the "animal" model we just discussed (no process step) seems more appropriate. On the other hand, when we're more mindful that's when we're consciously aware of our thoughts and feelings. When mindful, we have more control/influence over the "process" part of this system.
+But we humans are not always so aware of what's going on inside our heads. When we're on autopilot, the animal model we just discussed (with no process step) seems more appropriate. On the other hand, when we're more mindful that's when we're consciously aware of our thoughts and feelings. When mindful, we have more influence over the _process_ part of this system.
 
 ![autopilot vs mindful](assets/autopilot%20vs%20mindful.png)
 *Model of autopilot: input leads to output. Model of mindfulness: input leads to process leads to output.*
 
 ### Automatic vs Deliberate Thoughts and Feelings
 <!-- #formatting quotes to italics -->
-You experience both "automatic thoughts" and "automatic feelings" -- they both just happen "to" you. From the perspective of your consciousness, they're inputs that you can't control.
+You experience both _automatic thoughts_ and _automatic feelings_ -- they both just happen "to" you. From the perspective of your consciousness, they're inputs that you cannot control.
 
-When you are being "mindful" you can then actively choose to have "deliberate thoughts" and influence your feelings. You can probably imagine how to have a "deliberate thought" -- you just think it!
+When you are being mindful you can then actively choose to have _deliberate thoughts_ and influence your feelings. You can probably imagine how to have a _deliberate thought_ -- you just think it!
 
-As for feelings, you  can't will yourself to experience a specific feeling directly. You can, however influence your feelings based on the deliberate thoughts you think. This influenced-feeling is partially deliberate. This is partially within your influence, but not within your (direct) control.
+As for feelings, you  cannot will yourself to experience a specific feeling directly. You can, however influence your feelings based on the deliberate thoughts you think. This influenced-feeling is partially deliberate. This is partially within your influence, but not within your (direct) control.
 
 |  | automatic | deliberate |
 | -- | -- | -- |
@@ -119,7 +119,7 @@ As for feelings, you  can't will yourself to experience a specific feeling direc
 
 
 ### Downward Spiral
-Sometimes these automatic or deliberate thoughts and feelings can cause a troublesome feedback loop -- a "downward spiral". A downward spiral is a feedback loop of negative thoughts, leading to negative feelings, leading to more negative thoughts, etc.
+Sometimes these automatic or deliberate thoughts and feelings can cause a troublesome feedback loop -- a _downward spiral_. A downward spiral is a feedback loop of negative thoughts, leading to negative feelings, leading to more negative thoughts, etc.
 
 ![downward spiral 2](assets/downward%20spiral%202.png)
 *A downward spiral. Negative thoughts leading to negative feelings leading back to more negative thoughts.*
@@ -132,8 +132,8 @@ If you effectively influence your mind, you can often control whether you let th
 
 ## Homework
 
-- Think about times you wish you had behaved differently. Look out for opportunities where "debugging" could help you end up with a better outcome.
-- Draw out the "IPO Model" from memory.
+- Think about times you wish you had behaved differently. Look out for opportunities where debugging could help you end up with a better outcome.
+- Draw out the IPO Model from memory.
 - Try explaining "inner vs outer brain" to a friend or coworker.
 
 
@@ -146,44 +146,44 @@ If you effectively influence your mind, you can often control whether you let th
 
 Do you want to be a happier and more effective person? Let's try Cognitive Behavioral Therapy!
 
-Cognitive Behavioral Therapy (CBT) is a specific and common form of “talk therapy”. CBT is effective for depression, anxiety, general stress from work, and much more!
+Cognitive Behavioral Therapy (CBT) is a specific and common form of "talk therapy". CBT is effective for depression, anxiety, general stress from work, and much more!
 
-The core idea is that certain thought patterns contribute to emotional distress and behavioral issues. These “cognitive distortions” offer an inaccurate view of the world and/or yourself, and they can be changed and improved with practice and effort. The term “cognitive distortions” is usually used interchangeably with “maladaptive thought patterns” and “maladaptive cognitions”.
+The core idea is that certain thought patterns contribute to emotional distress and behavioral issues. These "cognitive distortions" offer an inaccurate view of the world and/or yourself, and they can be changed and improved with practice and effort. The term "cognitive distortions" is usually used interchangeably with "maladaptive thought patterns" and "maladaptive cognitions".
 
-The full list of mental problems CBT can help with is quite long - more than fifteen! Here's one source that lists a bunch of them: [Hofmann, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584580/). I’m not suggesting CBT is necessarily the best or only therapy for every single one of these mental problems. It is, however, one of the top most frequently used techniques, and it’s often very effective.
+The full list of mental problems CBT can help with is quite long - more than fifteen! Here's one source that lists a bunch of them: [Hofmann, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584580/). I'm not suggesting CBT is necessarily the best or only therapy for every single one of these mental problems. It is, however, one of the top most frequently used techniques, and it's often very effective.
 
-You may be wondering “Do I need to have a mental illness for CBT to help me?” Nope! The use of the word “therapy” might lead you to believe that CBT only helps if you have a mental illness, but really it’s useful for anybody.
+You may be wondering "Do I need to have a mental illness for CBT to help me?" Nope! The use of the word "therapy" might lead you to believe that CBT only helps if you have a mental illness, but really it's useful for anybody.
 
 ### Therapy? Training!
-I think of CBT more like “brain training”. To reduce its association with therapy, I like to replace the word “therapy” with the word “training”. A lot of people I know like calling it “Cognitive Behavioral Training” because they find it more approachable. I’m glad the stigma around the word therapy seems to be reducing over time, but the stigma is certainly still around. Mental illness or not, it's definitely helpful to understand how to process your thoughts and feelings better.
+I think of CBT more like "brain training". To reduce its association with therapy, I like to replace the word "therapy" with the word "training". A lot of people I know like calling it "Cognitive Behavioral Training" because they find it more approachable. I'm glad the stigma around the word therapy seems to be reducing over time, but the stigma is certainly still around. Mental illness or not, it's definitely helpful to understand how to process your thoughts and feelings better.
 
-If you are at all unsure whether you would benefit from (“need”) actual therapy, I recommend you see someone to be screened. Please don’t treat this book as therapy — this is not a suitable replacement for the real thing.
+If you are at all unsure whether you would benefit from ("need") actual therapy, I recommend you see someone to be screened. Please do not treat this book as therapy — this is not a suitable replacement for the real thing.
 
 ### More about CBT
 
-This book applies “systems thinking” (like the IPO model) to Cognitive Behavioral Therapy. If you’re interested in digging deeper into CBT after reading this book, I suggest the book “Feeling Good” by David Burns. In one study, “Feeling Good” was the most commonly prescribed reading assignment from therapists doing CBT with their patients. In another study, it was found to be as effective as actual therapy for some people.
+This book applies "systems thinking" (like the IPO model) to Cognitive Behavioral Therapy. If you're interested in digging deeper into CBT after reading this book, I suggest the book "Feeling Good" by David Burns. In one study, "Feeling Good" was the most commonly prescribed reading assignment from therapists doing CBT with their patients. In another study, it was found to be as effective as actual therapy for some people.
 
 ### Positive Outcomes
 
-In my mind, there are two tangible positive outcomes from processing experiences: learning, and reducing involuntary and unwelcome thoughts (“intrusive thoughts”).
+In my mind, there are two tangible positive outcomes from processing experiences: learning, and reducing involuntary and unwelcome thoughts ("intrusive thoughts").
 
-If you can learn something from a situation, that might help you in a future similar situation. By “learn” I mean either something specific like “always make sure you have your keys when you leave the house”, or something abstract like “try slowing down and be more careful”.
+If you can learn something from a situation, that might help you in a future similar situation. By "learn" I mean either something specific like "always make sure you have your keys when you leave the house", or something abstract like "try slowing down and be more careful".
 
-Processing can also help reduce intrusive thoughts. Imagine a job interview. After the interview you’re not sure how it went, and you think about it a lot. You play back what everyone said and did, thinking about what you could have done differently. This is probably some amount helpful, and some amount unhelpful. If these thoughts continue happening to you at inappropriate times, you might consider them “intrusive thoughts”.
+Processing can also help reduce intrusive thoughts. Imagine a job interview. After the interview you're not sure how it went, and you think about it a lot. You play back what everyone said and did, thinking about what you could have done differently. This is probably some amount helpful, and some amount unhelpful. If these thoughts continue happening to you at inappropriate times, you might consider them "intrusive thoughts".
 
-How can you put unwanted thoughts to rest? For a particular experience, try to find value in it by learning something. If you’re not sure there’s anything further you can learn from it, it may help to try accepting it [Wells 2014](https://www.ncbi.nlm.nih.gov/pubmed/25243365). Finding value or finding acceptance can help reduce the frequency of the intrusive thoughts.
+How can you put unwanted thoughts to rest? For a particular experience, try to find value in it by learning something. If you're not sure there's anything further you can learn from it, it may help to try accepting it [Wells 2014](https://www.ncbi.nlm.nih.gov/pubmed/25243365). Finding value or finding acceptance can help reduce the frequency of the intrusive thoughts.
 
-In software terms, intrusive thoughts are a bit like metrics and alerting. The subconscious mind sets up these alerts for itself. It decides that some experiences are important to process, and alerts you of those until they are fully processed. Addressing the root issue can often make it so the alert isn’t fired off as often, or at all.
+In software terms, intrusive thoughts are a bit like metrics and alerting. The subconscious mind sets up these alerts for itself. It decides that some experiences are important to process, and alerts you of those until they are fully processed. Addressing the root issue can often make it so the alert is not fired off as often, or at all.
 
 ## Hitting Your Debugger
 
-When can you process an experience? It could be during, immediately after, hours after, weeks after, or even years after. How do we get into in introspective state to do this processing (debugging)? It depends on whether you’re debugging during or after the stressful situation. Each is valuable in its own way.
+When can you process an experience? It could be during, immediately after, hours after, weeks after, or even years after. How do we get into in introspective state to do this processing (debugging)? It depends on whether you're debugging during or after the stressful situation. Each is valuable in its own way.
 
 ### During
 
-If you’re able to debug your brain during a stressful situation, you may be able to change the outcome of that situation. You may also be able to make this current experience a less stressful one.
+If you're able to debug your brain during a stressful situation, you may be able to change the outcome of that situation. You may also be able to make this current experience a less stressful one.
 
-Many people find it difficult to realize when it’s a good opportunity to introspect in-moment. We’ll go through a technique in the next section to help with noticing opportunities for introspection and getting you into that introspective mindset.
+Many people find it difficult to realize when it's a good opportunity to introspect in-moment. We'll go through a technique in the next section to help with noticing opportunities for introspection and getting you into that introspective mindset.
 
 ### After
 
@@ -193,56 +193,56 @@ When you debug your brain after an experience, you may learn things that can hel
 
 ### A Ripe Situation
 
-To start up your debugger in the moment, I recommend the "whoop" technique.
+To start up your debugger in the moment, I recommend the _whoop technique_.
 
-One day, my mother snapped at my younger brother for leaving the door open. Immediately after, she felt bad and apologized. She told us she really didn't know why she yelled about “such a small thing”. After thinking about it for a bit, she realized that she hadn’t eaten yet that day and was pretty hungry. That hunger affected both her mood and her response to my brother. After she ate some food, she felt much less irritable. I’m really proud of her going through this whole thought process — great job, mom!
+One day, my mother snapped at my younger brother for leaving the door open. Immediately after, she felt bad and apologized. She told us she really did not know why she yelled about "such a small thing". After thinking about it for a bit, she realized that she had not eaten that day. She was pretty hungry. That hunger affected both her mood and her response to my brother. After she ate some food, she felt much less irritable. I'm really proud of her going through this whole thought process — great job, mom!
 
 ### Whoop!
 
-This wasn’t the first or last time this sort of thing would happen. My mom wanted to get better at this — better at noticing things like how her hunger, thoughts, and emotions can affect her mood. Once she got into that introspective state she could figure it out well enough, but she had trouble getting into that introspective state in the first place. In programming terms, she had trouble hitting a “debugger breakpoint”.
+This was not the first or last time this sort of thing would happen. My mom wanted to get better at this — better at noticing things like how her hunger, thoughts, and emotions can affect her mood. Once she got into that introspective state she could figure it out well enough, but she had trouble getting into that introspective state in the first place. In programming terms, she had trouble hitting a "debugger breakpoint".
 
-My mom asked us to help her next time she got frustrated or upset like this. We brainstormed, and decided that next time we could loudly yell "WHOOP!”. After the whoop, she might enter an introspective state (the "whoop state") and try processing the experience. Or, she could say “not now” and we would move on. She whoops herself, I whoop myself, my brother whoops himself. We all whoop!
+My mom asked us to help her next time she got frustrated or upset like this. We brainstormed, and decided that next time we could loudly yell "WHOOP!". After the whoop, she might enter an introspective state (the _whoop state_) and try processing the experience. Or, she could say "not now" and we would move on. She whoops herself, I whoop myself, my brother whoops himself. We all whoop!
 
 ![Whoop](assets/Whoop.png)
 
-Hopefully this story makes the whoop technique memorable for you. Yelling whoop is both helpful and hilarious. A whoop surprises you out of your current mindset. If you were about to downward spiral, it halts that for a moment. It puts you into a different mental state where you can be ready to think about what made you so frustrated in the first place. For my mom, it wasn't really what my brother was doing — she figured out it was more about her hunger. We’ll cover more things that might affect your mood later in this chapter.
+Hopefully this story makes the whoop technique memorable for you. Yelling whoop is both helpful and hilarious. A whoop surprises you out of your current mindset. If you were about to downward spiral, it halts that for a moment. It puts you into a different mental state where you can be ready to think about what made you so frustrated in the first place. For my mom, it was not really what my brother was doing — she figured out it was more about her hunger. We'll cover more things that might affect your mood later in this chapter.
 
-This technique is most useful for whooping yourself: either out loud, or quietly in your head. If you want to recruit friends or family to support you that’s great, but definitely optional.
+This technique is most useful for whooping yourself: either out loud, or quietly in your head. If you want to recruit friends or family to support you that's great, but definitely optional.
 
-In programming terms, a “whoop” is like hitting the “debugger breakpoint” where you can take a moment to “inspect” what’s going on. From here you can inspect local variables, global variables, the call stack, and even run some code that will affect the program even after you leave the breakpoint.
+In programming terms, a "whoop" is like hitting the "debugger breakpoint" where you can take a moment to "inspect" what's going on. From here you can inspect local variables, global variables, the call stack, and even run some code that will affect the program even after you leave the breakpoint.
 
 ### Whoop Practice
 
-It takes a lot of practice to get good at noticing when introspection will help. Just being able to notice opportunities is a huge step forward. Whenever you get into this introspective state ("whoop state") I want you to congratulate yourself. You'll get better and better the more you do this. Be patient with yourself in the meantime.
+It takes a lot of practice to get good at noticing when introspection will help. Just being able to notice opportunities is a huge step forward. Whenever you get into this introspective state (_whoop state_) I want you to congratulate yourself. You'll get better and better the more you do this. Be patient with yourself in the meantime.
 
 ### When not to control your thoughts?
 
-It does cost time and energy to introspect. If you don’t have the time or energy to do it as much as you’d like, that’s okay and normal. In fact, sometimes you may enter the “whoop” state briefly, decide it’s not worth introspecting right now, and leave before processing things. If that feels right, that’s totally okay.
+It does cost time and energy to introspect. If you do not have the time or energy to do it as much as you'd like, that's okay and normal. In fact, sometimes you may enter the "whoop" state briefly, decide it's not worth introspecting right now, and leave before processing things. If that feels right, that's totally okay.
 
-You probably want to prevent most downward spirals. Any that are a waste of your time and energy, or if you think you'll regret your actions. But sometimes it might be worth it to let yourself get worked up -- you might be driven to focus on something you wouldn’t otherwise.
+You probably want to prevent most downward spirals. Any that are a waste of your time and energy, or if you think you'll regret your actions. But sometimes it might be worth it to let yourself get worked up -- you might be driven to focus on something you would not otherwise.
 
-I got really upset once. I was eating in a food court, charging my phone, and a security officer rudely told me I couldn’t use the power outlet. I felt myself getting worked up, I whooped internally, and I entered an introspective state. I considered — should I control my thoughts and feelings and prevent myself from being worked up? In this case, I decided to allow this to motivate me to act.
+I got really upset once. I was eating in a food court, charging my phone, and a security officer rudely told me I could not use the power outlet. I felt myself getting worked up, I whooped internally, and I entered an introspective state. I considered — should I control my thoughts and feelings and prevent myself from being worked up? In this case, I decided to allow this to motivate me to act.
 
-I was energized enough to talk to the manager later and make my thoughts known. I explained: it cost virtually nothing to the company (literally <$0.001 for a full phone charge). I wasn't in the way of anything. I wasn’t taking up needed space (the food court was empty). There was no sign up about this rule anywhere. And the person asking me to unplug was rude about it.
+I was energized enough to talk to the manager later and make my thoughts known. I explained: it cost virtually nothing to the company (literally <$0.001 for a full phone charge). I was not in the way of anything. I was not taking up needed space (the food court was empty). There was no sign up about this rule anywhere. And the person asking me to unplug was rude about it.
 
 <!-- #content how did the story end? did anything happen? -->
 
-If you wouldn’t have acted the same way as me, that’s okay. I believe it was worth it communicating this to the manager, both for the situation and for myself. I felt better because the information (my frustration/rationale) made it to the right person who could potentially change things. I was ready to accept it if they chose not to act on this — but not sharing this information would have bothered me.
+If you would not have acted the same way as me, that's okay. I believe it was worth it communicating this to the manager, both for the situation and for myself. I felt better because the information (my frustration/rationale) made it to the right person who could potentially change things. I was ready to accept it if they chose not to act on this — but not sharing this information would have bothered me.
 
-You can get very skilled at introspection and still allow yourself to get worked up sometimes. You don’t need to always mechanically control your thoughts.
+You can get very skilled at introspection and still allow yourself to get worked up sometimes. You do not need to always mechanically control your thoughts.
 
-Let's imagine that you’re now an expert at using the whoop technique to get into an introspective state. What's next?
+Let's imagine that you're now an expert at using the whoop technique to get into an introspective state. What's next?
 
 ## Post-hoc Rationalization
 
-When my brother didn’t close the door, my mom stopped to introspect for a moment. If she hadn’t, she might have might have explained her behavior in an unsatisfying, inaccurate way called a "post-hoc rationalization". Post-hoc means “after the fact”. We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
+When my brother did not close the door, my mom stopped to introspect for a moment. If she had not, she might have might have explained her behavior in an unsatisfying, inaccurate way called a _post-hoc rationalization_. Post-hoc means "after the fact". We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
 
-Some blatant examples: “he always does that!” (even if he hasn’t done it much) or “he’s going to let all the heat out!” (even if the heat wasn’t on). Post-hoc rationalization can happen during stressful or non-stressful situations -- anytime.
+Some blatant examples: "he always does that!" (even if he has not done it much) or "he's going to let all the heat out!" (even if the heat was off). Post-hoc rationalization can happen during stressful or non-stressful situations. It can happen anytime.
 
-When you find yourself experiencing this, consider taking a moment to introspect. Just because the explanation is inaccurate doesn’t mean the gut reaction isn't based on something real. By spending time processing you may be able to come up with a fuller, more satisfying explanation for yourself and for others. Whoop!
+When you find yourself experiencing this, consider taking a moment to introspect. Just because the explanation is inaccurate does not mean the gut reaction is not based on something real. By spending time processing you may be able to come up with a fuller, more satisfying explanation for yourself and for others. Whoop!
 
 ## Identifying Inputs
-We'll go through our the Input-Process-Output (IPO) model of the brain in chunks. The first section will be about inputs in general, the next section will go in-depth about processing feelings, and the final section will go in-depth about processing thoughts. Once you process everything, you’ll be well-equipped to choose the most adaptive response.
+We'll go through our the Input-Process-Output (IPO) model of the brain in chunks. The first section will be about inputs in general, the next section will go in-depth about processing feelings, and the final section will go in-depth about processing thoughts. Once you process everything, you'll be well-equipped to choose the most adaptive response.
 
 Let's talk about the inputs to your system. I break this into four categories: automatic feelings, automatic thoughts, external stimuli, and your current bodily state.
 
@@ -250,32 +250,32 @@ Let's talk about the inputs to your system. I break this into four categories: a
 
 ### Automatic Feelings
 
-Any feelings you experience are a type of input. A feeling can be present whether you can accurately describe it in words or not. A feeling can sometimes come with automatic thoughts describing it, but sometimes it won’t.
+Any feelings you experience are a type of input. A feeling can be present whether you can accurately describe it in words or not. A feeling can sometimes come with automatic thoughts describing it, but sometimes it would not.
 
-This might encompass a feeling you get in a particular moment like a moment of fear, or a low-level background feeling like being anxious for a day. The specific distinction between these two isn’t super important — it’s more important that you scan yourself for both kinds.
+This might encompass a feeling you get in a particular moment like a moment of fear, or a low-level background feeling like being anxious for a day. The specific distinction between these two is not super important — it's more important that you scan yourself for both kinds.
 
 ### Automatic Thoughts
 
-An automatic thought is one you don’t actively choose to think. In your conscious mind you just “hear” yourself thinking them. My mom automatically thought the words "Oh Dalton, not again!!". This thought came to her around the same time as an “automatic feeling” of frustration. Both automatic feelings and automatic thoughts are inputs to the conscious part of your brain; these aren’t directly under your control.
+An automatic thought is one you do not actively choose to think. You just hear the thought as it appears in your head. My mom automatically thought the words "Oh, not again!!". This thought came to her around the same time as an _automatic feeling_ of frustration. Both automatic feelings and automatic thoughts are inputs to the conscious part of your brain. These are not directly under your control.
 
 ### External Stimuli
 
-External stimuli are anything that happens outside of your body or mind. Events that happen around you — like my younger brother not shutting the door. It could be some event from earlier in the day, like if you wake up late or miss a cup of coffee. It could be something someone said to you the day, month, or year before. These events happening to you are separate from any thoughts or feelings you have about these “stimuli”.
+External stimuli are anything that happens outside of your body or mind. Events that happen around you — like my younger brother not shutting the door. It could be some event from earlier in the day, like if you wake up late or miss a cup of coffee. It could be something someone said to you the day, month, or year before. These events happening to you are separate from any thoughts or feelings you have about these stimuli.
 
 ### Bodily State
 
-A fourth type of input is your current bodily state. My favorite example is the word "hangry" — short for hungry-angry (a portmanteau!). If you're hangry, that means your state of hunger is leading you to experience anger, and you may respond to the situation with anger. When my mom realized she hadn’t eaten, she apologized to my brother, moved on, and got some food.
+A fourth type of input is your current bodily state. My favorite example is the word _hangry_ — short for hungry-angry (a portmanteau!). If you're _hangry_, that means your state of hunger is leading you to experience anger, and you may respond to the situation with anger. When my mom realized she had not eaten, she apologized to my brother, moved on, and got some food.
 
-I am so glad “hangry” has become such a common term. I would love to have an even richer vocabulary like this. I haven’t come up with any mashup words that are quite as catchy as “hangry”, but hyphenation helps me a lot. Instead of pushing for “tiredrated” I just use tired-frustrated instead. Any combination [bodily-state]-[emotional-state] is a possibility. For myself, I distinguish between [many types of hungry](https://caseywatts.com/2017/12/18/types-of-hunger.html) (stomach-volume-hungry vs sugar-hungry vs thirsty-hungry and more). I distinguish between many types of tired (physically tired vs sleepy-tired vs socially drained vs focused-for-too-long drained).
+I am so glad _hangry_ has become such a common term. I would love to have an even richer vocabulary like this. I have not come up with any mashup words that are quite as catchy as _hangry_, but hyphenation helps me a lot. Instead of pushing for "tiredrated" I just use tired-frustrated instead. Any combination [bodily-state]-[emotional-state] is a possibility. For myself, I distinguish between [many types of hungry](https://caseywatts.com/2017/12/18/types-of-hunger.html) (stomach-volume-hungry vs sugar-hungry vs thirsty-hungry and more). I distinguish between many types of tired (physically tired vs sleepy-tired vs socially drained vs focused-for-too-long drained).
 
 Those are four types of input: automatic feelings, automatic thoughts, stimuli from the environment, and current bodily state. Now equipped with all this context, we're ready to start processing these emotions and thoughts.
 
 ## Homework
 
 - What are the four major types of inputs to your consciousness?
-- Practice the “whoop” — whoop yourself 3 times today. While in this introspective state, notice your inputs. Identify inputs from each of the four major types of inputs.
+- Practice the "whoop" — whoop yourself 3 times today. While in this introspective state, notice your inputs. Identify inputs from each of the four major types of inputs.
 - Explain CBT (at a high level) to a friend. Do a bit of independent research (Googling!) if you want to be able to speak about it more accurately.
-- Use the term “post-hoc rationalization” in a conversation this week.
+- Use the term "post-hoc rationalization" in a conversation this week.
 
 
 
@@ -322,7 +322,7 @@ Sometimes a friend will describe something in a different way than you. If you l
 Here's an example of how I process experiences with a friend.
 
 1. I ask the friend if they can help talk me through something. This makes sure they're available to help me process my unprocessed thoughts before diving in.
-2. When sharing unprocessed thoughts, sometimes I end up rambling a bit. It can take a few tries to figure out the right word. For example, I might try: "I feel good about it. Excited maybe? Not quite excited. I do think it’ll go my way, and that’s a comforting feeling."
+2. When sharing unprocessed thoughts, sometimes I end up rambling a bit. It can take a few tries to figure out the right word. For example, I might try: "I feel good about it. Excited maybe? Not quite excited. I do think it'll go my way, and that's a comforting feeling."
 3. When I'm having trouble, my actively listening friend might suggest "are you feeling confident?". If they're right, we've named this feeling! If not, we can continue on until same description feels right. Often you can find a single word for something. If not, you can at least find a phrase or sentence-long explanation of the feeling.
 
 If they can reflect back to you accurately how you're feeling, that can make you feel understood by another person. It can be very comforting, validating your experience as understandable. This can help you feel like you can move on, now that the experience has been processed.
@@ -337,7 +337,7 @@ The "rubber duck debugging" technique is a common software development trick. Pu
 
 You can have a full-on conversation with this duck out loud, in your head, or in writing. By explaining the situation with words, you will understand it more clearly yourself, too. You may realize some assumptions you're making, and be able to enunciate them. Often the root of the issue can be found within assumptions.
 
-You can choose the identity of this imagined-audience to meet your needs - they could have similar context to a coworker, or someone else like your manager, your best friend, a family member, etc. And if you can't think of an existing person who would be particularly appropriate, you can even imagine up someone new.
+You can choose the identity of this imagined-audience to meet your needs - they could have similar context to a coworker, or someone else like your manager, your best friend, a family member, etc. And if you cannot think of an existing person who would be particularly appropriate, you can even imagine up someone new.
 
 #### Duck vs Friend
 
@@ -355,9 +355,9 @@ Writing is the third tool in your toolbelt. Writing can help you go even deeper 
 
 You might start by writing out everything in a stream-of-consciousness way, "brainstorming" what thoughts and feelings you have going on. You can then re-read and edit it until it feels accurate. Some parts may feel "off", and you can iterate on the wording of these parts. Try to use the most specific words you can, especially for emotions.
 
-I use the term "journaling" to mean "writing out thoughts and feelings", wherever and whenever that is. This is useful even if you don't write those thoughts and feelings in a notebook every day before bed.
+I use the term "journaling" to mean "writing out thoughts and feelings", wherever and whenever that is. This is useful even if you do not write those thoughts and feelings in a notebook every day before bed.
 
-You don't need a physical journal to practice journaling. Some people prefer digital journaling using a computer or phone. My favorite place to journal is in an email draft message. It is quick to load and doesn't have any frills to get in the way. Often I'll start an email draft imagining I would send it to a coworker (but with my name in the "to:" to be safe).
+You do not need a physical journal to practice journaling. Some people prefer digital journaling using a computer or phone. My favorite place to journal is in an email draft message. It is quick to load and does not have any frills to get in the way. Often I'll start an email draft imagining I would send it to a coworker (but with my name in the "to:" to be safe).
 
 You can write to yourself, future-you, past-you, or to the journal itself. You could write to your rubber duck, your best friend, or anyone.
 
@@ -373,13 +373,13 @@ Rumination is a risk with meditation. Sitting with these normally-unseen thought
 
 Some people believe that nonfiction reading is more useful than fiction reading. Nonfiction books teach us facts. But both are useful in their own way. Nonfiction books may teach facts, but fiction books are useful for social and emotional development.
 
-Fiction books give you the opportunity to peer inside another person's mind. You get to see how the characters interact with others and the results of those interactions. The characters often act in ways we wouldn't ourselves, and in situations we could never find ourselves in. Even in similar situtaions, a character's thoughts and feelings are often quite different from how you yourself would react in that situation. Reading fiction helps you imagine ways other people think.
+Fiction books give you the opportunity to peer inside another person's mind. You get to see how the characters interact with others and the results of those interactions. The characters often act in ways we would not ourselves, and in situations we could never find ourselves in. Even in similar situtaions, a character's thoughts and feelings are often quite different from how you yourself would react in that situation. Reading fiction helps you imagine ways other people think.
 
 The only way an author is able to convey these thoughts and feelings is to use words. If you can pick up on their wording or vocabulary that can help with your own wording and vocabulary.
 
 Some research has been done on this phenomenon, using the "narrative transportation theory". The term "high emotional transportation" means a story where the reader imagines they are immersed in the world, empathizing with the characters more deeply. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559433/) show that people who have recently read "high emotional transportation" books have greater empathy than those who read something without high emotional transportation.
 
-Try reading some fiction! You don’t need to read from a high school English class curriculum; today's popular fiction totally counts. If you need an idea, maybe start with something from the top 10 bestsellers list for this year. You probably even know some people who have read one of those, and you can bond over that.
+Try reading some fiction! You do not need to read from a high school English class curriculum; today's popular fiction totally counts. If you need an idea, maybe start with something from the top 10 bestsellers list for this year. You probably even know some people who have read one of those, and you can bond over that.
 
 ### Emotional vocabulary
 
@@ -396,7 +396,7 @@ The next time you are trying to describe your emotions, whether to yourself or t
 
 ## Homework
 
-* Print out the emotional vocabulary chart [from this article](https://hbr.org/2016/11/3-ways-to-better-understand-your-emotions), to have it handy next time you need it. If you can’t print it, make it accessible somehow: save it to your desktop or email it to yourself and star it.
+* Print out the emotional vocabulary chart [from this article](https://hbr.org/2016/11/3-ways-to-better-understand-your-emotions), to have it handy next time you need it. If you cannot print it, make it accessible somehow: save it to your desktop or email it to yourself and star it.
   * Look for others to print, too - there are a lot of these available.
 * Try processing emotions a bit each day this week. Try a different tactic each day this week:
   * Schedule a time with a friend to talk about your feelings
@@ -420,7 +420,7 @@ Being safely vulnerable with each other like this can deepen feelings of trust a
 
 ## Communicating Validation
 
-If you want to help support others emotionally by listening, you should communicate validation. My favorite tool for thinking about validation is Dr. Marcia Linehan’s "Six Levels of Validation".
+If you want to help support others emotionally by listening, you should communicate validation. My favorite tool for thinking about validation is Dr. Marcia Linehan's "Six Levels of Validation".
 
 This is not a strict scale of what you should use, but a framework to use when considering how to respond to a friend who is being vulnerable with you.
 
@@ -444,7 +444,7 @@ If you can put it in your own words, that can show that you have understood them
 
 If your friend is not able to communicate something clearly or fully enough, you may be able to help them refine their wording. You can ask things like "are you feeling X? or Y? or something else?". Sometimes you may even describe things in a way that inspires a change in the way they think about it. Doing this well is generally more validating than levels 1 or 2.
 
-Be careful to leave plenty of room for them to correct you, or this could backfire. If they feel misunderstood by you, that can make them feel invalidated instead. This technique requires more trust than some of the others, that you are earnestly trying to understand them. If for whatever reason your friend isn't comfortable correcting your guesses, you may want to lean on other validation techniques instead.
+Be careful to leave plenty of room for them to correct you, or this could backfire. If they feel misunderstood by you, that can make them feel invalidated instead. This technique requires more trust than some of the others, that you are earnestly trying to understand them. If for whatever reason your friend is not comfortable correcting your guesses, you may want to lean on other validation techniques instead.
 
 ### 4. Validate in terms of past history
 
@@ -464,7 +464,7 @@ Sharing your emotions with others can be really beneficial for your relationship
 
 Asking for too much emotional support could be an issue, though. If you expect your friend to do "emotional labor" for you more than they are comfortable, they may resent it. This is a lot more likely in an imbalanced relationship, where one side supports the other disproportionately more. There may be an imbalance of the needs you each have, the important part is that you communicate about it, how much support you're each willing to give. Prioritize communicating these concerns with your close friends to set healthy boundaries.
 
-A friend’s support can go a long way, but for deeper issues or trauma friends alone may not be enough. Think about whether this support is enough, or if a professional therapist might help more. If you haven’t tried therapy before, you should consider at least being screened.
+A friend's support can go a long way, but for deeper issues or trauma friends alone may not be enough. Think about whether this support is enough, or if a professional therapist might help more. If you have not tried therapy before, you should consider at least being screened.
 
 
 # Cognitive Restructuring
@@ -485,8 +485,8 @@ These unhelpful thought patterns are also known as "maladaptive thought patterns
 One evening I was excited to attend a tech meet-up. It was raining and I was wet and cold. On my way to the event I stepped in a puddle! I heard several thoughts go off in my head.  These thoughts made me feel worse, and I really considered not going. I gave myself a "whoop! to introspect a bit, and took stock of my automatic thoughts:
 
 * "Ugh! Wet shoes are the worst!".
-* “If I’m running late, I shouldn’t even go!”
-* “Today sucks.”
+* "If I'm running late, I shouldn't even go!"
+* "Today sucks."
 
 These thoughts each have some underlying cognitive distortions.
 
@@ -510,7 +510,7 @@ There are many cognitive distortions, and this book covers the most common ones.
 #### Focusing: Positive versus negative
 
 * **Magnification** is focusing too much on something (often negative), and **minimization** is focusing too little on something (often positive).
-* **Disqualifying the positive** is when you convince yourself that certain positive things doesn't count. This could be completely discounting the positive or partially discounting it, reducing the relative weight of importance you give it.
+* **Disqualifying the positive** is when you convince yourself that certain positive things does not count. This could be completely discounting the positive or partially discounting it, reducing the relative weight of importance you give it.
 
 #### People
 
@@ -531,12 +531,12 @@ You can learn even more of these by searching online for "cognitive distortions"
 After I stepped in the puddle on the way to the meetup, I noticed several automatic thoughts:
 
 * "Ugh! Wet shoes are the worst!".
-* “If I’m running late, I shouldn’t even go!”
-* “Today sucks.”
+* "If I'm running late, I shouldn't even go!"
+* "Today sucks."
 
 Each of these thoughts contain cognitive distortions. They make me feel worse in an unhelpful, unproductive way. Dwelling on these thoughts is not going to be helpful (rumination!). Which cognitive distortions apply to these automatic thoughts?
 
-My thought “wet shoes are the worst” is an example of **magnification**. It blows the problem out of proportion - not only are wet shoes bad, but they’re the WORST. This is **emotional reasoning** since I am coming up with this based on my mood, and not based on facts. I would not consider this **post hoc rationalization** since I am not defending this thought with support.
+My thought "wet shoes are the worst" is an example of **magnification**. It blows the problem out of proportion - not only are wet shoes bad, but they're the WORST. This is **emotional reasoning** since I am coming up with this based on my mood, and not based on facts. I would not consider this **post hoc rationalization** since I am not defending this thought with support.
 
 My thought "If I'm running late, I just shouldn't go!" is an example of **all or nothing thinking**. By this perspective, going on time is an option and not going is an option, but anything between is not an option. Digging deeper, the implied reason in my mind is "because arriving late will look bad". That reasoning is an example of **mind reading** of others and **fortune telling** that the folks at the event would judge you when you arrive late. This is also **disqualifying the positive** things that may happen by attending, like learning things and making connections with people.
 
@@ -564,7 +564,7 @@ To start, you might write out the full chart to process a past experience thorou
 
 In the "wet shoes" example from earlier, I imagined the two column technique in my mind. I ended up thinking of several more-adaptive thoughts for each of my maladaptive ones. I ended up going to the event after all, and I was very glad I did.
 
-My thought "wet shoes are the worst" contains **magnification**. I can adjust this thought to be more accurate and rational by thinking something more adaptive, like "Wet shoes are not literally the worst, obviously. I am feeling really uncomfortable and cold right now, and these wet shoes are making it worse. It's really unfortunate this happened.". This may not be as satisfying to exclaim as “wet shoes are the worst!”, but that's the point - this defuses you, and prevents you from experiencing a downward spiral of more, even more negative automatic thoughts and emotions.
+My thought "wet shoes are the worst" contains **magnification**. I can adjust this thought to be more accurate and rational by thinking something more adaptive, like "Wet shoes are not literally the worst, obviously. I am feeling really uncomfortable and cold right now, and these wet shoes are making it worse. It's really unfortunate this happened.". This may not be as satisfying to exclaim as "wet shoes are the worst!", but that's the point - this defuses you, and prevents you from experiencing a downward spiral of more, even more negative automatic thoughts and emotions.
 
 My thought "If I'm running late, I just shouldn't go!" contains **all or nothing thinking**. I could defuse this with something like "The gray area answer is often pretty good, let's think about it more. Is it really that bad to be late? Will it make you look so bad that it's literally not worth attending? No! Hmm I thought going was worth it before, and it's probably still pretty worthwhile. Actually yeah, the topic is great and the people are great and..."
 
@@ -584,7 +584,7 @@ Here is the two-column chart I drew up in my head in the moment I was considerin
 
 This brain debugging process may feel familiar to you if you have worked with "code smells" and "refactoring techniques" in the past.
 
-In software development, a “code smell” is something you notice about a piece of code that suggests there may be an issue with it. You might not be able to identify what exactly "smells" about the code right away, sometimes you just have a sense something is off. The code smell can cause issues if not addressed. One consequence is "brittle code" where a small change to the code can dramatically break functionality. Another common consequence is hard to read code, for others or for your future self. With practice, you can get good at identifying and naming code smells.
+In software development, a "code smell" is something you notice about a piece of code that suggests there may be an issue with it. You might not be able to identify what exactly "smells" about the code right away, sometimes you just have a sense something is off. The code smell can cause issues if not addressed. One consequence is "brittle code" where a small change to the code can dramatically break functionality. Another common consequence is hard to read code, for others or for your future self. With practice, you can get good at identifying and naming code smells.
 
 If you can name the code smell that will help you talk about it with other people. You can use the smell names to give more concrete feedback during code review. Naming the code smell also helps you look up how other people have dealt with the smell in other contexts, and give you ideas about what refactoring techniques to use on it.
 
@@ -616,7 +616,7 @@ Here is my finished three-column table for these two examples:
 
 Code smells are a lot like cognitive distortions - you may get a sense that something is a cognitive distortion even if you have trouble naming it. Refactoring techniques are a lot like the more-adaptive thoughts you think of to counter cognitive distortions.
 
-To read more about these named code smells and refactoring techniques in the software context, you might like the book [“Refactoring”](https://martinfowler.com/books/refactoring.html) by Martin Fowler, or the website [Sourcemaking](https://sourcemaking.com/refactoring). To read more about cognitive distortions in the human brain, I recommend "Feeling Good" by David Burns.
+To read more about these named code smells and refactoring techniques in the software context, you might like the book [“Refactoring”](https://martinfowler.com/books/refactoring.html)"" by Martin Fowler, or the website [Sourcemaking](https://sourcemaking.com/refactoring). To read more about cognitive distortions in the human brain, I recommend "Feeling Good" by David Burns.
 
 ## FAQ / Other Points
 
