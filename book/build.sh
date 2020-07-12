@@ -1,11 +1,7 @@
 #!/bin/sh -x
 
-pandoc -o printed/debuggingyourbrain.epub \
--f markdown_github+yaml_metadata_block \
-debuggingyourbraincoverepub.txt \
-all-chapters.md
+pandoc -s -f markdown --filter pandoc-citeproc --bibliography MyLibrary.json debuggingyourbraincover.latex all-chapters.md \
+-t latex -o printed/debuggingyourbrain.pdf
 
-pandoc -o printed/debuggingyourbrain.pdf \
--f markdown_github+yaml_metadata_block \
--t latex debuggingyourbraincover.latex \
-all-chapters.md
+pandoc -s -f markdown --filter pandoc-citeproc --bibliography MyLibrary.json debuggingyourbraincover.latex all-chapters.md \
+-o printed/debuggingyourbrain.epub
