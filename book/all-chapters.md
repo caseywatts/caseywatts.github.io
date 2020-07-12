@@ -4,7 +4,11 @@ You are about to learn how to "debug your brain", making yourself happier and mo
 
 There are activities at the end of some sections -- you will learn the most if you actually do these.
 
-Who is writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a [few neurobiology papers](https://caseywatts.com/mindmanipulation). I have also worked in software development for 10 years.
+Who is writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a few neurobiology papers  [^caseypapers]. I have also worked in software development for 10 years.
+
+[^caseypapers]: @maddoxNaturallyoccurringHistoneAcetyltransferase2013; @maddoxP300CBPHistone2013; @maddoxDNAMethyltransferaseActivity2014
+
+
 
 ## Goals
 
@@ -250,11 +254,14 @@ Imagine that you are now an expert at using the whoop technique to get into an i
 
 When my brother did not close the door, my mom stopped to introspect for a moment. If she had not, she might have might have explained her behavior in an unsatisfying, inaccurate way called a _post-hoc rationalization_. Post-hoc means "after the fact". We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
 
-Some blatant examples: "he always does that!" (even if he has not done it much) or "he's going to let all the heat out!" (even if the heat was off). Post-hoc rationalization can happen during stressful or non-stressful situations. It can happen anytime.
+Some blatant examples: "he always does that!" (even if he has not done it much) or "he's going to let all the heat out!" (even if the heat was off). Post-hoc rationalization can happen during stressful or non-stressful situations. It can happen anytime. <!-- #content clarify that it happens after the emotion, but it can happen during the event "For clarification, if it is a post-hoc rationalization, it would not occur during the stressful or non-stressful situations - it would always occur after the fact.
+" -->
 
 When you find yourself experiencing this, consider taking a moment to introspect. Just because the explanation is inaccurate does not mean the gut reaction is not based on something real. By spending time processing you may be able to come up with a fuller, more satisfying explanation for yourself and for others. Whoop!
 
 ## Identifying Inputs
+<!-- #content "Truthfully, I would suggest a different sentence to start this section. It feels strange to mention the IPO model without some context. Even a little context beforehand may help the flow." -->
+
 We will go through our the Input-Process-Output (IPO) model of the brain in chunks. The first section will be about inputs in general, the next section will go in-depth about processing feelings, and the final section will go in-depth about processing thoughts. Once you process everything, you will be well-equipped to choose the most adaptive response.
 
 There are at least four categories of input to your system: automatic feelings, automatic thoughts, external stimuli, and your current bodily state.
@@ -262,6 +269,8 @@ There are at least four categories of input to your system: automatic feelings, 
 ![IPO Inputs](assets/IPO%20Inputs.png)
 
 ### Automatic Feelings
+<!-- #content feelings vs emotions? "I'm not certain if you mean feelings here or emotions. For reference check out https://counseling.online.wfu.edu/blog/difference-feelings-emotions/
+https://online.uwa.edu/news/emotional-psychology/" -->
 
 Any feelings you experience are a type of input. A feeling can be present whether you can accurately describe it in words or not. A feeling can sometimes come with automatic thoughts describing it, but sometimes it would not.
 
@@ -307,6 +316,12 @@ Words give us "handles" that we can use to inspect experiences. We can use these
 
 We will cover six concrete techniques to help you process experiences more fully and effectively.
 
+<!-- #content list the six here -->
+
+<!-- #content "What are the six concrete techniques? From reading this chapter it's hard for me to identify. I see 1. Avoiding Rumination 2. Processing Experiences 3. Rubber Duck 4. Writing 5. Meditation 6. Reading Fiction.
+
+I'm assuming that Emotional Vocabulary is not a part of the 6 techniques. If this is the case, you may want to have a section where you definitively mention before the start of that section that Reading Fiction is the last of the six techniques and to then have a transistion sentence to Emotion vocabulary. It would also help to identify what the six are in the beginning." -->
+
 ### Automatic Inputs as Data
 
 All of these techniques have one main overarching theme: "accept automatic thoughts and automatic emotions as inputs". In the moment in which you experience an emotion, that emotion is already outside of your control and influence. In the systems model we described earlier (input, process, output), "you" are your conscious mind processing the experience, and these "automatic emotions" are inputs to your system. If you can accept automatic inputs as data, that will help you process them more fully. If you accidentally fixate on and judge these automatic inputs, that can be very counterproductive.
@@ -323,6 +338,8 @@ If you are too fixated on the negative, it may cause a downward spiral and make 
 With practice, you can develop techniques to effectively process experiences instead of ruminating on them. One technique is accepting inputs as things you cannot change. Another is identifying maladaptive thought patterns, and we will cover those in the next section.
 
 ## Processing Experiences
+
+<!-- #content "As this is the start of a new sub-section broken into different parts. I would include some text instead of jumping right into Talk with a friend." -->
 
 ### Talk with a friend
 
@@ -427,6 +444,9 @@ The next time you are trying to describe your emotions, whether to yourself or t
 
 There is a recent ["loneliness epidemic" in the US](https://www.cigna.com/newsroom/news-releases/2018/new-cigna-study-reveals-loneliness-at-epidemic-levels-in-america). Many people do not have many close relationships with people they can have intimate discussions with. If this sounds familiar to you, consider making it a priority to cultivate deeper relationships. It can be difficult, but it is well worth the effort.
 
+<!-- #content I would give one or two studies as an example. You could start with "Studies such as XX and XX have shown..."
+ -->
+
 Studies show that the more close connections you have, the healthier you are, the longer you live, and the more resilient you are in the face of stress. The list of positive benefits of social connectedness goes on and on.
 
 Being safely vulnerable with each other like this can deepen feelings of trust and dramatically improve your relationship. Your friends can support you, and you should be willing to support your friends as well. One powerful technique for supporting your friends is to explicitly communicate validation and acceptance.
@@ -444,6 +464,11 @@ These are the six levels of validation, in order of increasing impact:
 ### 1. Be present
 
 Just being present in the moment with your friend can be validating on its own. This could be as little as just being physically present next to the friend.
+
+<!-- #content "I would include another example here as it may mislead the reader to thinkt hat physical closeness is all that's needed. Maye also include another example to help prevent someone misreading your example.
+" -->
+
+<!-- #content - what else does Linehan say? active listening kinda but that's the others too hmm -->
 
 ### 2. Accurate reflection
 
@@ -482,15 +507,11 @@ A friend's support can go a long way, but for deeper issues or trauma friends al
 
 # Cognitive Restructuring
 
-## Overview
+You have read about how to enter an introspective state (whoop!), about how to process experiences by putting them into words, and about how to validate those experiences to non-judgmentally accept them as inputs. In this chapter, you will learn how to identify unhelpful thought patterns and how turn them into helpful ones. This is known as _cognitive restructuring_.
 
-You have read about how to enter an introspective state (whoop!), about how to process experiences by putting them into words, and about how to validate those experiences to non-judgmentally accept them as inputs. In this chapter, you will learn how to identify unhelpful thought patterns and how turn them into helpful ones. This is known as "cognitive restructuring".
+Cognitive Restructuring is the process of identifying and countering _unhelpful thought patterns_. Unchecked, these lead to downward spirals of negative emotion. They make you feel worse in an unproductive, unhelpful way. They tend to be irrational or exaggerated. Some examples include: all-or-nothing thinking, over-generalization, and magnification.
 
-## Cognitive Restructuring Definition
-
-Cognitive Restructuring is the process of identifying and countering "unhelpful thought patterns". Unchecked, these lead to downward spirals of negative emotion. They make you feel worse in an unproductive, unhelpful way. They tend to be irrational or exaggerated. Some examples include: all-or-nothing thinking, over-generalization, and magnification.
-
-These unhelpful thought patterns are also known as "maladaptive thought patterns". Maladaptive means it is unhelpful; it gets in your way. Maladaptive thought patterns are doing a bad job of being adaptive ("mal" = bad, "adaptive" = helpful). A third term for these unhelpful thought patterns is "cognitive distortions", because they give you a distorted view of reality. In this book we will mostly use the term "cognitive distortion".
+These unhelpful thought patterns are also known as _maladaptive thought patterns_. Maladaptive means it is unhelpful; it gets in your way. Maladaptive thought patterns are doing a bad job of being adaptive ("mal" = bad, "adaptive" = helpful). A third term for these unhelpful thought patterns is _cognitive distortions_, because they give you a distorted view of reality. In this book we will mostly use the term cognitive distortion.
 
 ### Example Scenario
 
@@ -505,7 +526,10 @@ These thoughts each have some underlying cognitive distortions.
 
 ## Identifying Cognitive Distortions
 
-There are many cognitive distortions, and this book covers the most common ones. Knowing their names will help you get better at identifying these when they happen to you. Knowing their names makes it easier for you to manipulate them in your mind and also makes it easier for you to describe these to other people. They are grouped here to make them easier to remember but many of these could fit in the other groups as well.
+There are many cognitive distortions, and this book covers the most common ones. Knowing their names will help you get better at identifying these when they happen to you. Knowing their names makes it easier for you to manipulate them in your mind and also makes it easier for you to describe these to other people. They are grouped here to make them easier to remember but many of these could fit in the other groups as well. <!-- #content "In terms of persuasion, this sentence has not convinced me that knowing the names makes it easier for me to manipulate them. So far, from this book, it seems like knowing strategies is what will make it easier for how to change the way I debug my brain thus changing behaviors. You've done a good job of expressing that throughout the book, but the approach here seems abstract.
+" -->
+
+<!-- #content I've been straddling with this idea some too - I want people to know the terms and I think it's personally useful, but really if you can identify them even without the formal names that's okay. I guess I'm kinda asserting what I want to be true, and I can make this part more accurate -->
 
 ### Common Cognitive Distortions
 
@@ -535,7 +559,6 @@ There are many cognitive distortions, and this book covers the most common ones.
 * **Fortune-telling** is believing you know how something will turn out, usually for the worse.
 * **Catastrophization** is focusing on the worst possible outcome of a situation, especially when it is a less likely outcome.
 
-#### More
 
 You can learn even more of these by searching online for "cognitive distortions" or "maladaptive thought patterns". The Wikipedia article on Cognitive Distortions is a good place to start, and easy to share with friends, too.
 
@@ -569,7 +592,10 @@ Once you know which cognitive distortions you are experiencing, you can deal wit
 | "if I'm running late, I just shouldn't go" | **all or nothing thinking**, mind reading, fortune telling, disqualifying the positive |  |
 | "today sucks" | **disqualifying the positive**, overgeneralizing, fortune telling |  |
 
-In the left column, write an automatic thought and any maladaptive thoughts that apply. This is descriptive of what is happening. In the right column, write out any alternative more-adaptive thoughts you can think of.
+In the left column, write an automatic thought and any maladaptive thoughts that apply. This is descriptive of what is happening. In the right column, write out any alternative more-adaptive thoughts you can think of. <!-- #content "It sounds like you want the reader to create a table of their own. But it is not explicitly expressed. If this is correct I would suggest starting of by saying something along the lines of "try to create your own table following the outline earlier and write an automatic thought...." Alternatively, you could delete this paragraph. The following paragraph seems like a perfect fit.
+" -->
+
+<!-- #content I would make this more "please do" and not say "in theory you would do" as much here, good call -->
 
 To start, you might write out the full chart to process a past experience thorougly as you build the skill. This can help you prepare for the future if you have similar automatic thoughts, or it can help improve your general skill at identifying these. As identifying these becomes more automatic, you may visualize this chart in your mind or even skip right over it and identify the cognitive distortions directly.
 
@@ -631,13 +657,11 @@ Code smells are a lot like cognitive distortions - you may get a sense that some
 
 To read more about these named code smells and refactoring techniques in the software context, you might like the book [Refactoring](https://martinfowler.com/books/refactoring.html) by Martin Fowler, or the website [Sourcemaking](https://sourcemaking.com/refactoring). To read more about cognitive distortions in the human brain, I recommend "Feeling Good" by David Burns.
 
-## FAQ / Other Points
-
-### When to let it through
+## When to let it through
 
 The goal of debugging your brain is to respond to situations in a helpful, adaptive way. These Debugging Your Brain techniques are tools you can use to redirect your mental energy where you see fit. Often the most adaptive thing you can do is to focus on a positive, accurate view of a situation. Sometimes, however, it may be more adaptive to lean into an unhappy emotional state to either share it with others or to incite action in yourself. It is up to you to determine what adaptive means to you in a given situation.
 
-### Why doesn't everybody already do CBT
+## Why doesn't everybody already do CBT
 
 CBT takes time, energy, and skill. Most people aren't aware of these skills you can work on. Many people who do know about these skills probably aren't sure how to develop them.
 
@@ -655,7 +679,7 @@ You can consider this _bibliotherapy_, therapy via reading. The more motivated y
 
 You can think of Cognitive Behavioral Therapy as "Training". Therapists happen to be skilled personal trainers for CBT. Seeing a therapist regularly is the best option for working on these skills, it is the approach most likely to succeed. A therapist will determine how they can best help you, whether they make a formal diagnosis or not.
 
-Many health insurance plans only cover a limited number of therapists that are frequently overbooked. If you can see one of these it may be the most cost effective approach. If not, many other places offer a sliding scale and there are other assistance programs available. If you believe therapy would help you, there is a way to get it.
+A good place to start is through your health insurance plan, see which therapists are covered. If you can see one of these it may be the most cost effective approach. If you cannot find one through your health insurance, there are other options. Many places offer a sliding scale based on income, and there are other assistance programs available. If you believe therapy would help you, there is a way to get it.
 
 Two of the most frequent diagnoses are depression and anxiety. Many folks have undiagnosed mild depression and mild anxiety. Even these "mild" versions can still affect your life in very significant ways, and can benefit from developing skills like CBT.
 
@@ -684,3 +708,5 @@ When you feel yourself potentially downward spiraling, get yourself into a mindf
 2. **Inputs** - In a mindful state, listen to and describe your inputs, especially your automatic thoughts and feelings.
 3. **Cognitive Distortions** - Identfy any thoughts that are unrealistic or unproductive, and name them.
 4. **More Adaptive Thoughts** - For each unhelpful thought, think of an alternative thought that is more realistic and helpful.
+
+# References
