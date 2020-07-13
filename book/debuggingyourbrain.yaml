@@ -1,6 +1,7 @@
 ---
 title: Debugging Your Brain
 author: Casey Watts
+language: en-US
 documentclass: book
 classoption:
 - openany
@@ -11,4 +12,10 @@ fontsize: 14
 linestretch: 1.25
 toc: true
 fontfamily: palatino
+hyperrefoptions:
+- linktoc=all
+- pdfwindowui
+- pdfpagemode=FullScreen
+colorlinks: true
+links-as-notes: true
 ---
