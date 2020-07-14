@@ -1,20 +1,25 @@
-# Modeling The Brain
+# Introduction
+You are about to learn how to "debug your brain," making yourself happier and more effective. You will end up with a mental model of your mind, and techniques to help adjust how it works. <!-- #content: define systems thinking. I do later, should I pull it forward, or punt using this term right away? -->
 
-You are about to learn how to "debug your brain", making yourself happier and more effective. You will end up with a systems-thinking way to view yourself, a mental model of your mind. <!-- #content: define systems thinking. I do later, should I pull it forward, or punt using this term right away? -->
+Each chapter covers one major concept:
+1. "Modeling the Brain" introduces a discrete mental model of how your mind works, especially around thoughts and emotions.
+2. "Cognitive Behavioral Therapy" (CBT) introduces the principles of this most commonly used talk therapy, which are leveraged in this book.
+3. "Introspection and Inputs" covers how to become more aware of automatic thoughts and feelings, experiences and other inputs to your system.
+4. "Experience Processing," covers specific techniques you can use to put your experiences into words. This helps you understand them more deeply, and opens the way for you to think about your responses to them?
+5. "Validation" covers techniques you can use to help someone feel like their experiences are valid and understandable, which is critical to dealing with them effectively.
+6. "Cognitive Restructuring" covers the most common unhelpful thought patterns, and how to counter them. This is the core idea of CBT.
 
-There are activities at the end of some sections --- you will learn the most if you actually do these.
+This book is written to be read in order, with each section building on the last. Each chapter is also written such that you can return to one later as a reference for yourself. You will learn the most if you can integrate these lessons into your life early and often. Each chapter has activities at the end to help make this easier.
 
-Who is writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a few neurobiology papers  [^caseypapers]. I have also worked in software development for 10 years.
+Who is writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a few neurobiology papers[^caseypapers], and I have also worked in software development for 10 years. This book brings together two of my passions: psychology and software development.
 
 [^caseypapers]: @maddoxNaturallyoccurringHistoneAcetyltransferase2013; @maddoxP300CBPHistone2013; @maddoxDNAMethyltransferaseActivity2014
-
-
 
 ## Goals
 
 Do you want to be a happier and more effective person? Of course you do!
 
-The brain debugging techniques in this book will help you choose the best response for a given situation. This is especially difficult when you are experience a _downward spiral_, where you just feel worse and worse. Downward spirals often happen in high-stakes or emotional situations. <!-- #content define downward spiral here, earlier instead of later? "where you might enter a downward spiral?" -->
+The brain debugging techniques in this book will help you choose the best response for a given situation. This is especially difficult when you are experiencing a _downward spiral_, where you just feel worse and worse. Downward spirals often happen in high-stakes or emotional situations. <!-- #content define downward spiral here, earlier instead of later? "where you might enter a downward spiral?" -->
 
 These techniques will help you understand yourself better, will help you understand other people better, and will help you communicate your mental state more clearly as well. They can even help you understand other perspectives more readily and quickly.
 
@@ -25,7 +30,7 @@ When can you apply these techniques? Either in the moment it is happening, if yo
 
 ## Opportunities
 
-Here are three examples of situations where brain debugging would help. Each of these bad situations <!-- #content "what makes these situations bad?" --> might end up with a desirable or undesirable outcome. Later we will get into what you might do to make yourself more effective in each of these, getting a more desirable outcome.
+Here are three examples of situations where brain debugging would help. Each of these bad situations <!-- #content "what makes these situations bad?" --> might end up with a desirable or undesirable outcome. Later we will get into what you might do to make yourself more effective in each of these, leading to a more desirable outcome.
 
 ### Work Disagreement
 Imagine you are at work and you have an idea, and your coworker has a different idea. You do not agree. You are having an argument, and it gets heated. You both believe very strongly that your idea is the best one for the situation. Hopefully your team will end up making the choice that is best for the situation. This topic will likely come up again --- what can you do better next time?
@@ -34,15 +39,17 @@ Imagine you are at work and you have an idea, and your coworker has a different 
 Imagine you are a parent, and your kids forgot to shut the front door --- again! You snap at them. You later feel guilty for snapping. It was not the most effective way to change their behavior in the future, and they got upset right back at you. You know you could have done something differently, but it was hard to in the moment.
 
 ### Hangry Meet-up
-Once I was headed to a meet-up. I had not eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst". All of a sudden I could not imagine going to the meet-up anymore --- and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I am glad I did!
+Once I was headed to a meet-up. I had not eaten dinner yet and I found out there was going to be NO PIZZA at that meet-up. It was raining. I stepped in a puddle. I thought to myself "everything is the worst." All of a sudden I could not imagine going to the meet-up anymore --- and that would have been a shame, because I was really looking forward to it. I managed to catch myself, and I corrected this in the moment. I told myself that my wet/hungry state could both easily be fixed, and I convinced myself to go. I am glad I did!
 
+
+# Modeling The Brain
 ## Inner vs Outer Brain
 <!-- #content "I think some sort of transition between the examples and this next piece would be helpful. You start to go into the brain and as a reader I'm unable to understand the connection between the two.
 "  -->
 
 Some believe that left-brained people are more inclined to be creative, and right-brained people are more inclined to be analytical. Analytical vs creative may be a useful dichotomy, but these traits do not seem to stem from the two hemispheres of the brain. The difference between these two halves of the brain is often exaggerated. Here is <!-- add this in a citation format; move to bottom of this section if I do not go into it --> [one study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275) that goes into this in some depth.
 
-A much more useful dichotomy is the inner brain versus the outer brain. What is the difference between these two halves?
+A much more useful dichotomy is the inner brain versus the outer brain. What is the difference between these two parts? <!-- #content: cite a source for this, or declare it my own dichotomy - and also maybe say that it's still not a great true dichotomy, they overlap a lot -->
 
 ![Inner vs outer brain is a more useful dichotomy than left vs right brain.](assets/inner%20vs%20outer%20brain.png)
 
@@ -55,7 +62,7 @@ You can see the difference in the two paths with this example with cats:
 
 This illustrates the _Dual Pathway Model of Fear_ (LeDoux). I am using fear here as a vivid example, but the core idea applies to non-fear emotions as well.
 
-The _low road_ path is much faster than the _high road_ one. <!-- #content I think having a transition sentence would be helpful, as the paragraph makes me uncertain if the different paths are involved in the "Dual Pathway Model of Fear". If this is the case, you could say something along the lines of "The Dual Pathway Model of Fear is characterized by a "low road" and a "high road"." I like how you mention that the "inner brain" is the Limbic System, and while you mention the cortex later on, I think mentioning it here would be okay.
+The _low road_ path is much faster than the _high road_ one. <!-- #content I think having a transition sentence would be helpful, as the paragraph makes me uncertain if the different paths are involved in the "Dual Pathway Model of Fear." If this is the case, you could say something along the lines of "The Dual Pathway Model of Fear is characterized by a "low road" and a "high road."" I like how you mention that the "inner brain" is the Limbic System, and while you mention the cortex later on, I think mentioning it here would be okay.
  --> The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the _inner brain_ (limbic system), which is a much shorter path. Humans and animals both have this part of the brain. It is older than the _outer brain_ in evolutionary terms. The inner brain is where fear is experienced.
 
 ![The "inner brain" or "low road" pathway is shorter and faster.](assets/brain%20emotion%20path.png)
@@ -75,7 +82,7 @@ The _high road_ is much slower. Thoughts are processed more slowly, on the scale
 | feelings      | thoughts    |
 
 To summarize, _inner brain_ feelings are processed much more quickly than _outer brain_ thoughts are. We tend to feel first and think second.
-<!-- #content I think changing the wording here would be beneficial, as the summary is misleading and makes it seem as though feelings could also be in the "outer brain". For example if the sentence said "To summarize, feelings are processed significantly faster than thoughts." As a side comment, what is your intent with using quotation marks for inner and out brain? Generally speaking, these terms don't use quotations. -->
+<!-- #content I think changing the wording here would be beneficial, as the summary is misleading and makes it seem as though feelings could also be in the "outer brain." For example if the sentence said "To summarize, feelings are processed significantly faster than thoughts." As a side comment, what is your intent with using quotation marks for inner and out brain? Generally speaking, these terms don't use quotations. -->
 
 ## Systems Thinking
 
@@ -152,15 +159,10 @@ If you effectively influence your mind, you can often control whether you let th
 - Try to explain _inner brain_ vs _outer brain_ to a friend or coworker.
 
 
-
-# CBT, Introspection, and Inputs
-
-## Cognitive Behavioral Therapy
-
-Do you want to be a happier and more effective person? Try Cognitive Behavioral Therapy!
-
+# Cognitive Behavioral Therapy
 Cognitive Behavioral Therapy (CBT) is a specific and common form of talk therapy. CBT is effective for depression, anxiety, general stress from work, and much more!
 
+<!-- #content skip defining these here since it's covered later? -->
 The core idea is that certain thought patterns contribute to emotional distress and behavioral issues. These _cognitive distortions_ offer an inaccurate view of the world and/or yourself, and they can be changed and improved with practice and effort. The term _cognitive distortions_ is usually used interchangeably with _maladaptive thought patterns_ and _maladaptive cognitions_. <!-- #content too many ands in this sentence which hurts the flow. I would recommend restructuring the sentence
  -->
 
@@ -168,28 +170,32 @@ The full list of mental problems CBT can help with is quite long --- more than f
 
 You may be wondering "Do I need to have a mental health issue for CBT to help me?" Nope! The use of the word "therapy" here can be a bit misleading. Whether or not you have any mental health issues, CBT can help you be more happy and effective.
 
-### Therapy? Training!
-I think of CBT more like "brain training". To reduce its association with therapy, I sometimes call it "Cognitive Behavioral Training" instead of "Cognitive Behavioral Therapy". Many people I know find this title much more approachable. The stigma around mental health seems to be getting better over time, but that stigma is certainly still around. These techniques help whether or not you have any mental health issues. It is definitely helpful to understand how to process your thoughts and feelings better.
+## Therapy? Training!
+I think of CBT more like "brain training." To reduce its association with therapy, I sometimes call it "Cognitive Behavioral Training" instead of "Cognitive Behavioral Therapy." Many people I know find this title much more approachable. The stigma around mental health seems to be getting better over time, but that stigma is certainly still around. These techniques help whether or not you have any mental health issues. It is definitely helpful to understand how to process your thoughts and feelings better.
 
 If you are at all unsure whether you would benefit from ("need") actual therapy, I recommend you see someone to be screened. Please do not treat this book as therapy — this is not a suitable replacement for the real thing.
 
-### More about CBT
+## CBT and Systems Thinking
 
 This book applies "systems thinking" (like the IPO model) to Cognitive Behavioral Therapy. If you are interested in digging deeper into CBT after reading this book, I suggest the book "Feeling Good" by David Burns <!-- #citation feeling good -->. In one study, "Feeling Good" was the most commonly prescribed reading assignment from therapists doing CBT with their patients. In another study, it was found to be as effective as actual therapy for some people. <!-- #citation Uncertain for your need to be this scientific about the book. However, if you are going to mention the study, I think you should cite it.
  -->
 
-### Positive Outcomes
+## Positive Outcomes
 
 In my mind, there are two tangible positive outcomes from processing experiences. One is _learning_, and the other is reducing involuntary, unwelcome _intrusive thoughts_.
 
-If you can learn something from a situation, that might help you in a similar one. By "learn" I mean either something specific like "always make sure you have your keys when you leave the house", or something abstract like "try slowing down and be more careful".
+If you can learn something from a situation, that might help you in a similar one. This could be something specific like "make sure you have your keys when you leave the house," or something more abstract like "try slowing down and be more careful."
 
-Processing can also help reduce intrusive thoughts. Imagine a job interview. After the interview you are not sure how it went, and you think about it a lot. You play back what everyone said and did, thinking about what you could have done differently. This is probably some amount helpful, and some amount unhelpful. If these thoughts continue happening to you at inappropriate times, you might consider them "intrusive thoughts".
+Processing can also help reduce intrusive thoughts. Imagine a job interview. After the interview you are not sure how it went, and you think about it a lot. You play back what everyone said and did, thinking about what you could have done differently. This is probably some amount helpful, and some amount unhelpful. If these thoughts continue happening to you at inappropriate times, you might consider them "intrusive thoughts."
 
 How can you put unwanted thoughts to rest? For a particular experience, try to find value in it by learning something. If you are not sure there is anything further you can learn from it, it may help to try accepting it [Wells 2014](https://www.ncbi.nlm.nih.gov/pubmed/25243365) <!-- #citation Wells 2014 -->. Finding value or finding acceptance can help reduce the frequency of the intrusive thoughts.
 
-<!-- #content explain the software use case, and then connect it -->In software terms, intrusive thoughts are a bit like metrics and alerting. The subconscious mind sets up these alerts for itself. It decides that some experiences are important to process, and alerts you of those until they are fully processed. Addressing the root issue can often make it so the alert is not fired off as often, or at all.
+<!-- #content explain the software use case, and then connect it -->In software terms, intrusive thoughts are a bit like metrics and alerting. The subconscious mind sets up these alerts for itself. It decides that some experiences are important to process, and alerts you to those until they are fully processed. Addressing the root issue can often make it so the alert is not fired off as often, or at all.
 
+## Activities
+- Explain CBT (at a high level) to a friend. Do a bit of independent research (Googling!) if you want to be able to speak about it more accurately.
+
+# Introspection and Inputs
 ## Hitting Your Debugger
 
 When can you process an experience? It could be during, immediately after, hours after, weeks after, or even years after. How do we get into an introspective state to do this processing/debugging? It depends on whether you are debugging during or after the stressful situation. Each is valuable in its own way.
@@ -210,13 +216,13 @@ When you debug your brain after an experience, you may learn things that can hel
 
 To start up your debugger in the moment, I recommend the _whoop technique_.
 
-One day, my mother snapped at my younger brother for leaving the door open. Immediately after, she felt bad and apologized. She told us she really did not know why she yelled about "such a small thing". After thinking about it for a bit, she realized that she had not eaten that day. She was pretty hungry. That hunger affected both her mood and her response to my brother. After she ate some food, she felt much less irritable. I am really proud of her going through this whole thought process — great job, mom!
+One day, my mother snapped at my younger brother for leaving the door open. Immediately after, she felt bad and apologized. She told us she really did not know why she yelled about "such a small thing." After thinking about it for a bit, she realized that she had not eaten that day. She was pretty hungry. That hunger affected both her mood and her response to my brother. After she ate some food, she felt much less irritable. I am really proud of her going through this whole thought process — great job, mom!
 
 ### Whoop!
 
-This was not the first or last time this sort of thing would happen. My mom wanted to get better at this — better at noticing things like how her hunger, thoughts, and emotions can affect her mood. Once she got into that introspective state she could figure it out well enough, but she had trouble getting into that introspective state in the first place. In programming terms, she had trouble hitting a "debugger breakpoint".
+This was not the first or last time this sort of thing would happen. My mom wanted to get better at this — better at noticing things like how her hunger, thoughts, and emotions can affect her mood. Once she got into that introspective state she could figure it out well enough, but she had trouble getting into that introspective state in the first place.
 
-My mom asked us to help her next time she got frustrated or upset like this. We brainstormed, and decided that next time we could loudly yell "WHOOP!". After the whoop, she might enter an introspective state (the _whoop state_) and try processing the experience. Or, she could say "not now" and we would move on. She whoops herself, I whoop myself, my brother whoops himself. We all whoop!
+My mom asked us to help her next time she got frustrated or upset like this. We brainstormed, and decided that next time we could loudly yell "WHOOP!." After the whoop, she might enter an introspective state (the _whoop state_) and try processing the experience. Or, she could say "not now" and we would move on. She whoops herself, I whoop myself, my brother whoops himself. We all whoop!
 
 ![Whoop](assets/Whoop.png)
 
@@ -226,17 +232,18 @@ This technique is most useful for whooping yourself: either out loud, or quietly
 
 <!-- #content "The Whoop! section is excellent…But I missed out on how exactly one should use the technique. After reading through, the whoop technique seems to work in any stressful situation, but I was left wondering “okay is it really better to say it out loud…Is it more of a feeling thing? Does the word itself lend the solution or the feeling?” - Page 21 - 22" -->
 
+<!-- #content: for non-coders, it might be helpful to have a brief parenthetical explaining what a call stack is -->
 In programming terms, a "whoop" is like hitting the "debugger breakpoint" where you can take a moment to "inspect" what is going on. From here you can inspect local variables, global variables, the call stack, and even run some code that will affect the program even after you leave the breakpoint.
 
 ### Whoop Practice
 
-It takes a lot of practice to get good at noticing when introspection will help. Just being able to notice opportunities is a huge step forward. Whenever you get into this introspective state (_whoop state_) I want you to congratulate yourself. You will get better and better the more you do this. Be patient with yourself in the meantime.
+It takes a lot of practice to get good at noticing when introspection will help. Just being able to notice opportunities is a huge step forward. Whenever you get into this introspective state (_whoop state_), I want you to congratulate yourself. You will get better and better the more you do this. Be patient with yourself in the meantime.
 
 ### When Not To Control Your Thoughts?
 
 It takes both time and energy to introspect. If you do not have the time or energy to introspect as much as you would like, that is okay and normal. Sometimes you may enter the "whoop" state briefly, decide it is not worth introspecting right now, and leave before processing things. If that feels right, that is totally okay.
 
-You want to prevent most downward spirals. Most downward spirals are are a waste of your time and energy or lead to actions you may regret. However, sometimes it might be worth it to let yourself get worked up --- you might be driven to focus on something you would not otherwise.
+You want to prevent most downward spirals. They are often a waste of your time and energy, or lead to actions you may regret. However, sometimes it might be worth it to let yourself get worked up. You may be driven to focus on something you would not otherwise.
 
 For an example, once I got really upset in a food court. I was eating a meal, charging my phone, when a security officer rudely told me I could not use the power outlet. I felt myself getting worked up, I whooped internally, and I entered an introspective state. I considered — should I control my thoughts and feelings and prevent myself from being worked up? In this case, I decided to allow this to motivate me to act.
 
@@ -250,7 +257,7 @@ Imagine that you are now an expert at using the whoop technique to get into an i
 
 ## Post-hoc Rationalization
 
-When my brother did not close the door, my mom stopped to introspect for a moment. If she had not, she might have explained her behavior in an unsatisfying, inaccurate way called a _post-hoc rationalization_. Post-hoc means "after the fact". We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
+When my brother did not close the door, my mom stopped to introspect for a moment. If she had not, she might have explained her behavior in an unsatisfying, inaccurate way called a _post-hoc rationalization_. Post-hoc means "after the fact." We often experience a gut reaction first (inner brain), and then afterwards attempt to explain our thoughts and feelings quickly (outer brain). Often the quick attempt at explaining it is inaccurate or incomplete. This could cause internal conflict for yourself, or conflict with others.
 
 Some blatant examples: "he always does that!" (even if he has not done it much) or "he's going to let all the heat out!" (even if the heat was off). Post-hoc rationalization can happen during stressful or non-stressful situations. It can happen anytime. <!-- #content clarify that it happens after the emotion, but it can happen during the event "For clarification, if it is a post-hoc rationalization, it would not occur during the stressful or non-stressful situations --- it would always occur after the fact.
 " -->
@@ -276,7 +283,7 @@ This might encompass a feeling you get in a particular moment like a moment of f
 
 ### Automatic Thoughts
 
-An automatic thought is one you do not actively choose to think. You just "hear" the thought as it appears in your head. My mom automatically thought the words "Oh, not again!!". This automatic thought came to her around the same time as an _automatic feeling_ of frustration. Both automatic feelings and automatic thoughts are inputs to the conscious part of your brain. These are not directly under your control.
+An automatic thought is one you do not actively choose to think. You just "hear" the thought as it appears in your head. My mom automatically thought the words "Oh, not again!" This automatic thought came to her around the same time as an _automatic feeling_ of frustration. Both automatic feelings and automatic thoughts are inputs to the conscious part of your brain. These are not directly under your control.
 
 ### External Stimuli
 
@@ -294,7 +301,6 @@ Those are four types of input: automatic feelings, automatic thoughts, stimuli f
 
 - What are the four major types of inputs to your consciousness?
 - Practice the "whoop" — whoop yourself 3 times today. While in this introspective state, notice your inputs. Identify inputs from each of the four major types of inputs.
-- Explain CBT (at a high level) to a friend. Do a bit of independent research (Googling!) if you want to be able to speak about it more accurately.
 - Use the term "post-hoc rationalization" in a conversation this week.
 
 
@@ -302,17 +308,21 @@ Those are four types of input: automatic feelings, automatic thoughts, stimuli f
 
 # Experience Processing
 
+<!-- #content tie-in IPO more explicitly in this section "**I think you could more clearly state in that chapter that experience processing correlates to the “P” in IPO.**" -->
+
 ## Overview
 
 ### Experience Processing
 
-In this chapter, "Experience Processing", you will learn specific techniques to help you process experiences by putting them into words. Verbalizing an experience can help reduce the stress you feel about a given situation. It can help you feel more in control and at ease. It can help you express your experiences to others. It can help you choose the best response for the situation. You also get the opportunity to influence your future thoughts and feelings, through deliberate thought.
+In this chapter, "Experience Processing," you will learn specific techniques to help you process experiences by putting them into words. Verbalizing an experience can help reduce the stress you feel about a given situation. It can help you feel more in control and at ease. It can help you express your experiences to others. It can help you choose the best response for the situation. You also get the opportunity to influence your future thoughts and feelings, through deliberate thought.
 
 Putting the experience into words can be a huge relief, especially when the experience is complex or troublesome.
 
 Words give us "handles" that we can use to inspect experiences. We can use these to investigate and figure out what is really going on. By using accurate language, we can process experiences a lot more deeply and effectively than we can by using abstract wordless thoughts alone. You might verbalize an experience by thinking to yourself, by talking to a friend, or by writing.
 
 We will cover six concrete techniques to help you process experiences more fully and effectively.
+
+<!-- #content "it might be helpful to number the techniques so that it is clear which subheadings apply to a technique. There are more than six subheadings, so I wasn't quite sure which of them are the six concrete techniques and which may be more background or exposition on them." -->
 
 <!-- #content list the six here -->
 
@@ -327,6 +337,12 @@ In our IPO model of the mind, automatic thoughts and automatic emotions are inpu
 "You" are your conscious mind. Your conscious mind is the "process" part of the IPO model, at least when you are being mindful. Your conscious mind cannot control or influence its automatic inputs.
 
 When you accept automatic inputs as data, you can process them more fully. When you instead fixate on and judge these inputs, that can be very counterproductive. <!-- #content more than just counterproductive? make stronger-->
+
+<!-- #content "This is very interesting. In a type of therapy I have used, we call automatic inputs, "automatic appraisals," and the process of not fixating or judging "nonjudgmental awareness." Very similar!
+
+And any deliberate reframes of the automatic appraisal to reduce intrusive thughts or stop a spiral are referred to as "reappraisals."
+
+No real edit from this - just wanted to point out the cool similarity!" -->
 
 It can take a lot of practice and training to accept emotions as input. It will get easier with time and repetition. If you want to practice this deliberately, you might consider a meditation practice. Many meditation practices actively focus on observing thoughts and emotions non-judgmentally.
 
@@ -346,6 +362,7 @@ With practice, you can develop techniques to effectively process experiences ins
 
 ### Talk with a friend
 
+<!-- #content add in "emotional labor", define it here? "Very important - don't want to impose emotional labor on someone without their awareness/availability!"-->
 Talking through an experience with a close friend is one of the most powerful processing techniques. This is also my personal favorite. Not only is it helpful for processing the experience, but it is also a bonding opportunity for the relationship.
 
 You have to put your thoughts and feelings into concrete words in order to communicate them to another person. If your friend can accurately reflect back to you what you are saying, that helps you be more confident that you are understandable. This confidence can help you feel more settled about that part of the experience. This can help you move on to processing other parts of the experience.
@@ -356,7 +373,7 @@ Here is an example of how I process experiences with a friend.
 
 1. I ask the friend if they can help talk me through something. This makes sure they are available to help me process my unprocessed thoughts before diving in.
 2. When sharing unprocessed thoughts, sometimes I end up rambling a bit. It can take a few tries to figure out the right word. For example, I might try: "I feel good about it. Excited maybe? Not quite excited. I do think it'll go my way, and that's a comforting feeling."
-3. When I am having trouble, my actively listening friend might suggest "are you feeling confident?". If they are right, we've named this feeling! If not, we can continue on until some description feels right. Often you can find a single word for something. If not, you can at least find a phrase or sentence-long explanation of the feeling.
+3. When I am having trouble, my actively listening friend might suggest "are you feeling confident?" If they are right, we've named this feeling! If not, we can continue on until some description feels right. Often you can find a single word for something. If not, you can at least find a phrase or sentence-long explanation of the feeling.
 
 If they can reflect back to you accurately how you are feeling, that can make you feel understood by another person. It can be very comforting, validating your experience as understandable. This can help you feel like you can move on, now that the experience has been processed.
 
@@ -377,6 +394,16 @@ You can choose the identity of this imagined-audience to meet your needs --- the
 
 #### Duck vs Friend
 
+<!-- #content: something about inner monologue vs not "Question: are you a person who has an inner monologue while thinking, or do you think in less tangible ways?
+
+This portion made me think about articles that I read in February: https://www.today.com/health/experts-talk-about-what-it-means-have-inner-monologue-t173490
+
+Essentially, it seems that some people think more with an inner voice, while others do not. Those who do not have a very active inner voice, often have to process thoughts out loud or in writing. Some are almost incapable of doing this pre-processing or emotional articulation in their heads alone.
+
+It's fascinating. May be worth a sentence in either this section or the prior about discussing with friends that some people need to engage in speech to process!" -->
+
+<!-- #content any research to cite on inner monologue to add here? -->
+
 Sometimes you may want to talk to a duck before a friend. The duck can help you think of what questions the friend would ask to get context, and what assumptions you are making that would be helpful to make explicit.
 
 The duck can help you "pre-process" your thoughts, putting it into words as much as you can on your own. Putting the experience into words can help you explain it more accurately, clearly, and succinctly. The more you can enunciate on your own, the smoother and deeper a discussion with a friend will go.
@@ -389,9 +416,9 @@ Even though I use this technique so often, I am still so surprised every time it
 <!-- #formatting revisit ordering numbering in the text, or remove it-->
 Writing is the third tool in your toolbelt. Writing can help you go even deeper on an issue than just talking or thinking. Writing activates a different part of the brain, and makes you really nail down thoughts and feelings. When you take time to write, you can also focus more on using accurate terms.
 
-To start, you might "brainstorm", writing down everything in a stream-of-consciousness way. Just putting your thoughts and feelings into words, even if they are not very accurate to start. After brainstorming, you can then re-read and edit it until it feels accurate. Some parts will likely feel "off" on your first try, and you can iterate on them. Try to use the most specific words you can, especially for emotions.
+To start, you might "brainstorm," writing down everything in a stream-of-consciousness way. Just putting your thoughts and feelings into words, even if they are not very accurate to start. After brainstorming, you can then re-read and edit it until it feels accurate. Some parts will likely feel "off" on your first try, and you can iterate on them. Try to use the most specific words you can, especially for emotions.
 
-I use the term journaling to mean "writing out thoughts and feelings", wherever and whenever that is. This is useful even if you do not write those thoughts and feelings in a notebook every day before bed.
+I use the term journaling to mean "writing out thoughts and feelings," wherever and whenever that is. This is useful even if you do not write those thoughts and feelings in a notebook every day before bed.
 
 You do not need a physical journal to practice journaling. Some people prefer digital journaling using a computer or phone. My favorite place to journal is in an email draft message. It is quick to load and does not have any frills to get in the way. Often I will start an email draft imagining I would send it to a coworker (but with my name in the "to:" to be safe).
 
@@ -401,20 +428,20 @@ You can write to yourself, future-you, past-you, or to the journal itself. You c
 
 Practicing meditation can help you become more aware of your thoughts and emotions. Unlike many of the other techniques, meditation is not great for actively thinking about and processing experiences. It is useful for becoming aware of thoughts and feelings in the first place and accepting them as inputs, so that you can process them later.
 
-If you would like to try getting into meditation, there are a lot of resources to help you get started in a gentle and gradual way. My favorite introduction to meditation is a mobile app, "Headspace". It introduces meditation concepts one at a time, using voice guidance and cute little video animations.
+If you would like to try getting into meditation, there are a lot of resources to help you get started in a gentle and gradual way. My favorite introduction to meditation is a mobile app, "Headspace." It introduces meditation concepts one at a time, using voice guidance and cute little video animations.
 
 <!-- #content add it "a common ~mantra of meditation practices is to not judge your thoughts and feelings, but to accept them as inputs" -->
-Rumination is a risk with meditation. Sitting with these normally-unseen thoughts and feelings can be stressful. Stress is more likely to happen when in a particularly challenging situation, or when mentally or bodily fatigued. It is easy to judge these and accidentally kick off a downward spiral, making yourself feel worse. This risk is especially high for beginners. With practice, you will get better at not judging your thoughts and feelings.
+Rumination is a risk with meditation. Sitting with these thoughts and feelings that you are normally unaware of can be stressful. Stress is more likely to happen in a particularly challenging situation, or when mentally or bodily fatigued. It is easy to judge these and accidentally kick off a downward spiral, making yourself feel worse. This risk is especially high for beginners. With practice, you will get better at not judging your thoughts and feelings.
 
 ### Reading fiction
 
-Some people believe that nonfiction reading is more useful than fiction reading. Nonfiction books teach us facts. But both are useful in their own way. Nonfiction books may teach facts, but fiction books are useful for social and emotional development.
+Some people believe that nonfiction reading is more useful than fiction reading, but both are useful in their own way. Nonfiction books may teach facts, but fiction books are useful for social and emotional development.
 
 Fiction books give you the opportunity to peer inside another person's mind. You get to see how the characters interact with others and the results of those interactions. The characters often act in ways we would not ourselves, and in situations we could never find ourselves in. Even in similar situations, a character's thoughts and feelings are often quite different from how you yourself would react in that situation. Reading fiction helps you imagine ways in which other people think.
 
 The only way an author is able to convey these thoughts and feelings is to use words. If you can pick up on their wording or vocabulary that can help with your own wording and vocabulary.
 
-Some research has been done on this phenomenon, using the "narrative transportation theory". The term "high emotional transportation" means a story where the reader imagines they are immersed in the world, empathizing with the characters more deeply. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559433/) show that people who have recently read "high emotional transportation" books have greater empathy than those who read something without high emotional transportation.
+Some research has been done on this phenomenon, using the "narrative transportation theory." The term "high emotional transportation" means a story where the reader imagines they are immersed in the world, empathizing with the characters more deeply. [Some studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559433/) show that people who have recently read "high emotional transportation" books have greater empathy than those who read something without high emotional transportation.
 
 Try reading some fiction! You do not need to read from a high school English class curriculum; today's popular fiction totally counts. If you need an idea, maybe start with something from the top 10 bestsellers list for this year. You probably even know some people who have read one of those, and you can bond over that.
 
@@ -424,15 +451,20 @@ Children are usually taught the most simple emotions first --- like happy, sad, 
 
 Enriching your vocabulary can help you with both automatic and deliberate thoughts/feelings. The more you use accurate vocabulary in your deliberate thoughts, the more your automatic thoughts will use them as well. When you are monitoring your thoughts actively, the line between automatic and deliberate thoughts can be blurry, and that is normal. Each small nudge in the right direction adds up. <!-- #content revisit this paragraph, it has multiple topics going on -->
 
+<!-- #content: explain neural plasticity "Could be a good place to briefly mention neural plasticity and neural pathways (i.e. explaining why the more you deliberately use the vocab, the more your automatic thoughts will use them as well). Definitely not necessary, but I always found neural plasticity to be the most fascinating part of my neuroscience studies. It also made me believe that I truly could change the ways that I think, and has been an invaluable concept in my personal emotional/therapeutic journey. Knowing that the more I do a particular thing literally rewires my neural connections gives me the motivation to keep doing the thing. I know it will eventually become second nature if I am able to keep practicing it.
+" -->
+
 You can use an emotion thesaurus chart to expand your emotional vocabulary. Keep a reference like this one somewhere handy; print this one out, or save it to your desktop. There are many more resources like this online --- some in circular graphs, some with more colors.
 
 ![Emotions Wheel by Dr. Gloria Wilcox](assets/feelings-wheel.jpg)
+
+<!-- #images consider making my own feelings tree diagram? or find a similar one on wikipedia etc? -->
 
 The next time you are trying to describe your emotions, whether to yourself or to someone else, try using the reference. You may find a word a little more accurate than what you would think of naturally. You might also try a traditional thesaurus, or ask a friend how they would describe it. 
 
 ## Activities
 
-* Print out the emotional vocabulary chart [from this article](https://hbr.org/2016/11/3-ways-to-better-understand-your-emotions), to have it handy next time you need it. If you cannot print it, make it accessible somehow: save it to your desktop or email it to yourself and star it.
+* Print out the emotional vocabulary chart [from this article](https://hbr.org/2016/11/3-ways-to-better-understand-your-emotions), to have it handy the next time you need it. If you cannot print it, make it accessible somehow: save it to your desktop or email it to yourself and star it.
   * Look for others to print, too --- there are a lot of these available.
 * Try processing emotions a bit each day this week. Try a different tactic each day this week:
   * Schedule a time with a friend to talk about your feelings
@@ -461,11 +493,11 @@ Being supportive is both a disposition and a skill. One of the most powerful sup
 
 ## Communicating Validation
 
-If you want to help support others emotionally by listening, you should communicate validation. My favorite tool for thinking about validation is Dr. Marcia Linehan's "Six Levels of Validation".
+If you want to help support others emotionally by listening, you should communicate validation. My favorite tool for thinking about validation is Dr. Marcia Linehan's "Six Levels of Validation."
 
 This is not a strict scale of what you should use, but a framework to use when considering how to respond to a friend who is being vulnerable with you.
 
-For more reading on this, my favorite high-level overview is [this article](https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance) by Karyn Hall. If you want a more thorough overview, you might consider reading from [one of the original sources](https://www.researchgate.net/publication/232561580_Validation_and_psychotherapy).
+For more reading on this, my favorite high-level overview is [this article](https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance) by Karyn Hall. If you want a more thorough overview, you might consider reading from [one of the original sources](https://www.researchgate.net/publication/232561580_Validation_and_psychotherapy). <!-- #citation -->
 
 These are the six levels of validation, in order of increasing impact:
 
@@ -490,9 +522,9 @@ If you can put it in your own words, that can show that you have understood them
 
 ### 3. Guessing about unstated feelings
 
-If your friend is not able to communicate something clearly or fully enough, you may be able to help them refine their wording. You can ask things like "Are you feeling X? Or Y? Or something else?". Sometimes you may even describe things in a way that inspires a change in the way they think about it. Doing this well is generally more validating than levels 1 or 2.
+If your friend is not able to communicate something clearly or fully enough, you may be able to help them refine their wording. You can ask things like "Are you feeling X? Or Y? Or something else?" Sometimes you may even describe things in a way that inspires a change in the way they think about it. Doing this well is generally more validating than levels 1 or 2.
 
-Be careful to leave plenty of room for them to correct you, or this could backfire. If they feel misunderstood by you, that can make them feel invalidated instead. This technique requires their trust that you are earnestly trying to understand them. If for whatever reason your friend is not comfortable correcting your guesses, you may want to lean on other validation techniques instead.
+Be careful to leave plenty of room for them to correct you, or this could backfire. If they feel misunderstood by you, that can make them feel invalidated instead. If they trust that you are earnestly trying to understand them, they may be more willing to correct your guesses. If for whatever reason your friend is not comfortable correcting your guesses, you may want to lean on other validation techniques instead.
 
 <!-- #content consider expanding the leave room to correct part "**Guessing about unstated feelings has a very poignant section talking about “room to hear/feel a correction.” Really connected and I think you should expand the section! - Page 43**" -->
 
@@ -526,22 +558,24 @@ A friend's support can go a long way, but for deeper issues or trauma friends al
 
 You have read about how to enter an introspective state (whoop!), about how to process experiences by putting them into words, and about how to validate those experiences to non-judgmentally accept them as inputs. In this chapter, you will learn how to identify unhelpful thought patterns and how to turn them into helpful ones. This is known as _cognitive restructuring_.
 
-Cognitive Restructuring is the process of identifying and countering _unhelpful thought patterns_. Unchecked, these lead to downward spirals of negative emotion. They make you feel worse in an unproductive, unhelpful way. They tend to be irrational or exaggerated. Some examples include: all-or-nothing thinking, over-generalization, and magnification.
+Cognitive Restructuring is the process of identifying and countering _maladaptive thought patterns_. Maladaptive means "unhelpful" or "counterproductive." Maladaptive thought patterns are ones that do a bad job of being adaptive ("mal" = bad, "adaptive" = helpful). A more colloquial synonym for this is _unhelpful thought patterns_. Unchecked, these can lead to downward spirals of negative emotion. They make you feel worse in an unproductive, unhelpful way. 
 
-There are a few synonyms for _unhelpful thought patterns_, including  _maladaptive thought patterns_ and _cognitive distortions_. Maladaptive thought patterns are ones that do a bad job of being adaptive, or are being actively counterproductive ("mal" = bad, "adaptive" = helpful). Unhelpful and maladaptive are synonyms, at least in the context of this book.
-
-The term _cognitive distortion_ is a bit more specific. A cognitive distortion is a thought pattern that gives you a skewed, inaccurate view of reality. The next section covers cognitive distortions in particular.
+This rest of this chapter focuses on a specific type of maladaptive thought pattern: _cognitive distortion_.  A cognitive distortion is a maladaptive thought pattern that gives you a skewed, inaccurate view of reality. They tend to be irrational or exaggerated.
 
 ### Example Scenario
 
+<!-- #content or at least refer back to the earlier example? -->
 <!-- #content: remove duplicate example from earlier or from here -->
+<!-- #content "p47: You use the puddle example multiple times. As it is most fleshed out in this chapter, you should probably replace it in one of the earlier chapters" -->
 One evening I was excited to attend a tech meet-up. It was raining and I was wet and cold. On my way to the event I stepped in a puddle! I heard several thoughts go off in my head.  These thoughts made me feel worse, and I really considered not going. I gave myself a "whoop!" to introspect a bit, and took stock of my automatic thoughts:
 
-* "Ugh! Wet shoes are the worst!".
+* "Ugh! Wet shoes are the worst!"
 * "If I'm running late, I shouldn't even go!"
 * "Today sucks."
 
-These thoughts each have some underlying cognitive distortions.
+These thoughts each have some underlying cognitive distortions. <!-- #content might add "that I will analyze later in this chapter."
+
+Since you don't immediately go into the analysis of the cognitive distortions in this example, it could leave the reader wondering why this example was provided. -->
 
 ## Identifying Cognitive Distortions
 
@@ -555,7 +589,7 @@ There are many cognitive distortions, and this book covers the most common ones.
 #### Feelings vs Facts
 
 * **Emotional Reasoning** is when you believe something based on a feeling, as opposed to thinking about it and basing it on facts.
-* **Post-hoc Rationalization** is when you have already made up your mind based on a gut feeling and you defend that gut feeling with facts you come up with afterward. "Post-hoc" means "after the event".
+* **Post-hoc Rationalization** is when you have already made up your mind based on a gut feeling and you defend that gut feeling with facts you come up with afterward. "Post-hoc" means "after the event."
 
 #### Generalizing: Needs nuance
 
@@ -566,11 +600,11 @@ There are many cognitive distortions, and this book covers the most common ones.
 #### Focusing: Positive versus negative
 
 * **Magnification** is focusing too much on something (often negative), and **minimization** is focusing too little on something (often positive).
-* **Disqualifying the positive** is when you convince yourself that certain positive things does not count. This could be completely discounting the positive or partially discounting it, reducing the relative weight of importance you give it.
+* **Disqualifying the positive** is when you convince yourself that certain positive things do not count. This could be completely discounting the positive or partially discounting it, reducing the relative weight of importance you give it.
 
 #### People
 
-* **Personalization** is believing you have more control or influence over a situation than you actually do. This is often by not taking into account forces external to yourself.
+* **Personalization** is believing you have more control or influence over a situation than you actually do. This often occurs when you do not take into account forces external to yourself.
 * **Mind reading** is believing you know what another person is thinking or feeling without any evidence.
 
 #### Outcome Prediction
@@ -579,21 +613,21 @@ There are many cognitive distortions, and this book covers the most common ones.
 * **Catastrophization** is focusing on the worst possible outcome of a situation, especially when it is a less likely outcome.
 
 
-You can learn even more of these by searching online for "cognitive distortions" or "maladaptive thought patterns". The Wikipedia article on Cognitive Distortions is a good place to start, and easy to share with friends, too.
+You can learn even more of these by searching online for "cognitive distortions" or "maladaptive thought patterns." The Wikipedia article on Cognitive Distortions is a good place to start, and easy to share with friends, too.
 
 ### Identifying Cognitive Distortions, Example
 
 After I stepped in the puddle on the way to the meetup, I noticed several automatic thoughts:
 
-* "Ugh, wet shoes are the worst!".
+* "Ugh, wet shoes are the worst!"
 * "If I'm running late, I shouldn't even go!"
 * "Today sucks."
 
-Each of these thoughts contain cognitive distortions. They make me feel worse in an unhelpful, unproductive way. Dwelling on these thoughts is not going to be helpful (rumination!). Which cognitive distortions apply to these automatic thoughts?
+Each of these thoughts contains <!-- #grammar contain vs contains? each but.. --> cognitive distortions. They make me feel worse in an unhelpful, unproductive way. Dwelling on these thoughts is not going to be helpful (rumination!). Which cognitive distortions apply to these automatic thoughts?
 
 My thought "wet shoes are the worst" is an example of **magnification**. It blows the problem out of proportion --- not only are wet shoes bad, but they are the WORST. This is **emotional reasoning** since I am coming up with this based on my mood, and not based on facts. I would not consider this **post hoc rationalization** since I am not defending this thought with support.
 
-My thought "If I'm running late, I just shouldn't go!" is an example of **all or nothing thinking**. By this perspective, going on time is an option and not going is an option, but anything between is not an option. Digging deeper, the implied reason in my mind is "because arriving late will look bad". That reasoning is an example of **mind reading** of others and **fortune telling** that the folks at the event would judge you when you arrive late. This is also **disqualifying the positive** things that may happen by attending, like learning things and making connections with people.
+My thought "If I'm running late, I just shouldn't go!" is an example of **all or nothing thinking**. By this perspective, going on time is an option and not going is an option, but anything between is not an option. Digging deeper, the implied reason in my mind is "because arriving late will look bad." That reasoning is an example of **mind reading** of others and **fortune telling** that the folks at the event would judge you when you arrive late. This is also **disqualifying the positive** things that may happen by attending, like learning things and making connections with people.
 
 My thought "today sucks" has a lot going on. This is an example of **overgeneralizing** the entire day, **disqualifying the positive** things that happened earlier in the day, and **fortune telling** that the rest of the day is also going to be bad.
 
@@ -603,15 +637,17 @@ Once you identify what cognitive distortions you are experiencing, take a moment
 
 Once you know which cognitive distortions you are experiencing, you can deal with them one at a time. This "three column technique" can help with this (adapted from "Feeling Good: The New Mood Therapy" by David Burns). The left column is for describing your unhelpful _automatic thoughts_, and the middle column is for identifying the cognitive distortions. I bolded the cognitive distortion I think is the most applicable and helpful to counter. Later the right column will be for writing out more adaptive deliberate thoughts to counter the automatic thoughts.
 
+<!-- #content "p51: It may make more sense to put a blank chart here, then walk the reader through filling it out using your "wet shoes" example" -->
+
 <!-- #formatting table formatting -->
 
-| Automatic Thought | Cognitive Distortion | More Adaptive Thought |
-| - | - | - |
-| "wet shoes are the worst" | **magnification**, emotional reasoning |  |
-| "if I'm running late, I just shouldn't go" | **all or nothing thinking**, mind reading, fortune telling, disqualifying the positive |  |
-| "today sucks" | **disqualifying the positive**, overgeneralizing, fortune telling |  |
+| Automatic Thought                          | Cognitive Distortion                                                                   | More Adaptive Thought |
+|--------------------------------------------|----------------------------------------------------------------------------------------|-----------------------|
+| "wet shoes are the worst"                  | **magnification**, emotional reasoning                                                 |                       |
+| "if I'm running late, I just shouldn't go" | **all or nothing thinking**, mind reading, fortune telling, disqualifying the positive |                       |
+| "today sucks"                              | **disqualifying the positive**, overgeneralizing, fortune telling                      |                       |
 
-In the left column, write an automatic thought and any maladaptive thoughts that apply. This is descriptive of what is happening. In the right column, write out any alternative more-adaptive thoughts you can think of. <!-- #content "It sounds like you want the reader to create a table of their own. But it is not explicitly expressed. If this is correct I would suggest starting of by saying something along the lines of "try to create your own table following the outline earlier and write an automatic thought...." Alternatively, you could delete this paragraph. The following paragraph seems like a perfect fit.
+In the left column, write an automatic thought. In the middle column, write out any cognitive distortions that apply. These two columns are descriptive of what is happening. In the right column, write out any alternative more-adaptive thoughts you can think of. <!-- #content "It sounds like you want the reader to create a table of their own. But it is not explicitly expressed. If this is correct I would suggest starting of by saying something along the lines of "try to create your own table following the outline earlier and write an automatic thought...." Alternatively, you could delete this paragraph. The following paragraph seems like a perfect fit.
 " -->
 
 <!-- #content I would make this more "please do" and not say "in theory you would do" as much here, good call -->
@@ -622,11 +658,11 @@ To start, you might write out the full chart to process a past experience thorou
 
 In the "wet shoes" example from earlier, I imagined the two column technique in my mind. I ended up thinking of several more-adaptive thoughts for each of my maladaptive ones. I ended up going to the event after all, and I was very glad I did.
 
-My thought "wet shoes are the worst" contains **magnification**. I can adjust this thought to be more accurate and rational by thinking something more adaptive, like "Wet shoes are not literally the worst, obviously. I am feeling really uncomfortable and cold right now, and these wet shoes are making it worse. It's really unfortunate this happened.". This may not be as satisfying to exclaim as "wet shoes are the worst!", but that is the point --- this defuses you, and prevents you from experiencing a downward spiral of more, even more negative automatic thoughts and emotions.
+My thought "wet shoes are the worst" contains **magnification**. I can adjust this thought to be more accurate and rational by thinking something more adaptive, like "Wet shoes are not literally the worst, obviously. I am feeling really uncomfortable and cold right now, and these wet shoes are making it worse. It's really unfortunate this happened." This may not be as satisfying to exclaim as "wet shoes are the worst!," but that is the point --- this defuses you, and prevents you from experiencing a downward spiral of more, even more negative automatic thoughts and emotions.
 
 My thought "If I'm running late, I just shouldn't go!" contains **all or nothing thinking**. I could defuse this with something like "The gray area answer is often pretty good, let's think about it more. Is it really that bad to be late? Will it make you look so bad that it's literally not worth attending? No! Hmm I thought going was worth it before, and it's probably still pretty worthwhile. Actually yeah, the topic is great and the people are great and..."
 
-My thought "today sucks" contains **disqualifying the positive** things that happened earlier in the day and what could still happen. To counter this I might try and come up with a couple of positive things that happened that day like "well, brunch was good earlier at least". I might also think about the positives of being able to attend a meetup at all, like "I'm glad I have the free time and energy to attend meetups at all, even wet. Not everyone has this opportunity.".
+My thought "today sucks" contains **disqualifying the positive** things that happened earlier in the day and what could still happen. To counter this I might try and come up with a couple of positive things that happened that day like "well, brunch was good earlier at least." I might also think about the positives of being able to attend a meetup at all, like "I'm glad I have the free time and energy to attend meetups at all, even wet. Not everyone has this opportunity."
 
 Here is the three-column chart I drew up in my head in the moment I was considering not going:
 
@@ -639,6 +675,8 @@ Here is the three-column chart I drew up in my head in the moment I was consider
 | "today sucks" | **disqualifying the positive**, overgeneralizing, fortune telling | "I'm glad I get to go to a meetup at all" |
 
 ## Parallels to Programming
+
+<!-- #content "p55: The "parallels to programming" section at the end of this chapter is much longer than the ones at the end of other chapters. This is inconsistent and risks losing the interest of non-programmer readers. I would remove at least half of this (unless you're prepared to extend the other sections to similar length)" -->
 
 This brain debugging process may feel familiar to you if you have worked with "code smells" and "refactoring techniques" in the past.
 
@@ -696,9 +734,11 @@ You can consider this _bibliotherapy_, therapy via reading. The more motivated y
 
 ### Therapy
 
-You can think of Cognitive Behavioral Therapy as "Training". Therapists happen to be skilled personal trainers for CBT. Seeing a therapist regularly is the best option for working on these skills, it is the approach most likely to succeed. A therapist will determine how they can best help you, whether they make a formal diagnosis or not.
+You can think of Cognitive Behavioral Therapy as "Training." Therapists happen to be skilled personal trainers for CBT. Seeing a therapist regularly is the best option for working on these skills, it is the approach most likely to succeed. A therapist will determine how they can best help you, whether they make a formal diagnosis or not.
 
 A good place to start is through your health insurance plan, see which therapists are covered. If you can see one of these it may be the most cost effective approach. If you cannot find one through your health insurance, there are other options. Many places offer a sliding scale based on income, and there are other assistance programs available. If you believe therapy would help you, there is a way to get it.
+
+<!-- #content: "Might also include a plug for lower cost teletherapy options like "Talkspace" or "Better Help" that offer a more affordable, albeit not in-person way to access therapy." -->
 
 Two of the most frequent diagnoses are depression and anxiety. Many folks have undiagnosed mild depression and mild anxiety. Even these "mild" versions can still affect your life in very significant ways, and can benefit from developing skills like CBT.
 
@@ -712,7 +752,8 @@ Joyable is a great tool for social anxiety. I haven't yet found an app that help
 
 Meditation has a lot of health benefits. There are many studies showing that it decreases stress, anxiety, and depression. Some doctors even "prescribe" meditation to their patients. 
 
-There are many ways to get started with meditation --- apps, videos, books, classes. For one specific way to get started, I recommend the app "Headspace". It breaks down the main concepts of meditation into short sessions with cute videos.
+There are many ways to get started with meditation --- apps, videos, books, classes. For one specific way to get started, I recommend the app "Headspace." It breaks down the main concepts of meditation into short sessions with cute videos.
+<!-- #content mention "Calm" app, too -->
 
 ### Regular Practice
 
@@ -730,4 +771,20 @@ When you feel yourself potentially experiencing a downward spiral, get yourself 
 
 <!-- #content Summary diagram idea: whoop!, list inputs, list the six processing techniques, maybe list the 10 cognitive distortions. as a table, or image?-->
 
+<!-- #content review IPO in one paragraph "I think here would be a great place to more fully incorporate the IPO framework. You already mention to consider your "inputs," but the terms "process" and "outputs" are missing. I believe you could say something after you list the inputs like - "Then use your outer brain to process the input. Put the inputs into words...."
+
+And then end with something like "By engaging in this process you will hopefully turn the output from a downward spiral to a more balanced emotional state." or whatever the intended output is."  -->
+
 # References
+
+<!-- #content "General: You reference the "Feeling Good" book a lot! Either remove some of these references (they can distract the reader from the desired focus, which is /your/ book - not David Burns's book) or tell the reader explicitly which section of David Burns's book you're basing your chapter on, so it makes it easier for the reader to find further information if they want to
+" -->
+
+<!-- #content "General: It may be useful to mention that not all therapists can or are willing to do CBT, since you seem to suggest that /all/ therapists are skilled personal trainers for CBT" -->
+
+<!-- #content "1. The sections flow together logically, but only in hindsight. It would be very useful to close each section with a preview of what the next section discusses, and to open each section with a quick link back to what was previously discussed.
+Casey: in the transitions, explain which chapters are about I, P, and O?
+" -->
+
+<!-- #content 2. In a similar vein, you should open the book with a quick summary of the sections and concepts you will cover. This is very important!
+ -->
