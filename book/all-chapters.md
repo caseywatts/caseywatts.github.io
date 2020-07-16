@@ -1,19 +1,38 @@
+	# About the Author
+Who is writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a few neurobiology papers[^caseypapers], and I have also worked in software development for 10 years. This book brings together these two parts of my background: psychology and software development.
+
+<!-- "Casey Watts!" never leaves home without bubbles. His super-power is empathy and helping others become more empathetic. He has a background both in psychology and in software development, making him well prepared to discuss psychology with developers. He studied neurobiology at Yale University, and he co-published a few neurobiology papers.
+ -->
+
+[^caseypapers]: @maddoxNaturallyoccurringHistoneAcetyltransferase2013; @maddoxP300CBPHistone2013; @maddoxDNAMethyltransferaseActivity2014
+
+
 # Introduction
 You are about to learn how to "debug your brain," making yourself happier and more effective. You will end up with a mental model of your mind, and techniques to help adjust how it works. <!-- #content: define systems thinking. I do later, should I pull it forward, or punt using this term right away? -->
 
-Each chapter covers one major concept:
+<!-- #content elevator pitch here, similar to back cover -->
+
+Your brain is a complex system. Learn to influence this system, and you will become happier and more effective.  In this book you will learn how to "debug your brain," giving you the tools to make yourself a better friend, team member, and human. 
+MODEL
+FEEDBACK LOOP
+MANY SPECIFIC THINGS 6, 10, etc
+
+ debug it using this frontal cortex feedback loop to become a
+. Reframe frustration into accomplishment, catch “maladaptive thought patterns” before they get to you, and short-circuit “downward spirals”.
+
+ <!-- Developers are great systems thinkers. Surprise: your brain is a system too! Reframe frustration into accomplishment, and become a more effective and bubbly person using a frontal cortex feedback loop (Cognitive Behavioral Therapy/Training).  -->
+ 
+This book is written to be read in order, with each section building on the last. Each chapter is also written such that you can return to one later as a reference for yourself. Each chapter covers one major concept:
+
 1. "Modeling the Brain" introduces a discrete mental model of how your mind works, especially around thoughts and emotions.
 2. "Cognitive Behavioral Therapy" (CBT) introduces the principles of this most commonly used talk therapy, which are leveraged in this book.
 3. "Introspection and Inputs" covers how to become more aware of automatic thoughts and feelings, experiences and other inputs to your system.
-4. "Experience Processing," covers specific techniques you can use to put your experiences into words. This helps you understand them more deeply, and opens the way for you to think about your responses to them?
+4. "Experience Processing" covers specific techniques you can use to put your experiences into words. This helps you understand them more deeply, and opens the way for you to think about your responses to them?
 5. "Validation" covers techniques you can use to help someone feel like their experiences are valid and understandable, which is critical to dealing with them effectively.
 6. "Cognitive Restructuring" covers the most common unhelpful thought patterns, and how to counter them. This is the core idea of CBT.
 
-This book is written to be read in order, with each section building on the last. Each chapter is also written such that you can return to one later as a reference for yourself. You will learn the most if you can integrate these lessons into your life early and often. Each chapter has activities at the end to help make this easier.
+You will learn the most if you can integrate these concepts into your life early and often. Each chapter has activities at the end to help make this easier. 
 
-Who is writing this? Hi, I'm Casey! I studied neurobiology at Yale University. I am a co-author on a few neurobiology papers[^caseypapers], and I have also worked in software development for 10 years. This book brings together two of my passions: psychology and software development.
-
-[^caseypapers]: @maddoxNaturallyoccurringHistoneAcetyltransferase2013; @maddoxP300CBPHistone2013; @maddoxDNAMethyltransferaseActivity2014
 
 ## Goals
 
@@ -47,9 +66,13 @@ Once I was headed to a meet-up. I had not eaten dinner yet and I found out there
 <!-- #content "I think some sort of transition between the examples and this next piece would be helpful. You start to go into the brain and as a reader I'm unable to understand the connection between the two.
 "  -->
 
-Some believe that left-brained people are more inclined to be creative, and right-brained people are more inclined to be analytical. Analytical vs creative may be a useful dichotomy, but these traits do not seem to stem from the two hemispheres of the brain. The difference between these two halves of the brain is often exaggerated. Here is <!-- add this in a citation format; move to bottom of this section if I do not go into it --> [one study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071275) that goes into this in some depth.
+Some believe that left-brained people are more inclined to be creative, and right-brained people are more inclined to be analytical. Analytical vs creative may be a useful dichotomy, but these traits do not seem to stem from the two hemispheres of the brain. The difference between these two halves of the brain is often exaggerated[^leftvsright].
+
+[^leftvsright]:  @zaidelSplitbrainRightHemisphere2013
 
 A much more useful dichotomy is the inner brain versus the outer brain. What is the difference between these two parts? <!-- #content: cite a source for this, or declare it my own dichotomy - and also maybe say that it's still not a great true dichotomy, they overlap a lot -->
+The inner and outer brain are structurally and functionally different.
+Cortex, limbic system
 
 ![Inner vs outer brain is a more useful dichotomy than left vs right brain.](assets/inner%20vs%20outer%20brain.png)
 
@@ -63,12 +86,13 @@ You can see the difference in the two paths with this example with cats:
 This illustrates the _Dual Pathway Model of Fear_ (LeDoux). I am using fear here as a vivid example, but the core idea applies to non-fear emotions as well.
 
 The _low road_ path is much faster than the _high road_ one. <!-- #content I think having a transition sentence would be helpful, as the paragraph makes me uncertain if the different paths are involved in the "Dual Pathway Model of Fear." If this is the case, you could say something along the lines of "The Dual Pathway Model of Fear is characterized by a "low road" and a "high road."" I like how you mention that the "inner brain" is the Limbic System, and while you mention the cortex later on, I think mentioning it here would be okay.
- --> The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the _inner brain_ (limbic system), which is a much shorter path. Humans and animals both have this part of the brain. It is older than the _outer brain_ in evolutionary terms. The inner brain is where fear is experienced.
-
+ --> The low road processes emotions very quickly, on the scale of milliseconds. It only has to go through the _inner brain_ (limbic system), which is a much shorter path. Humans and animals both have this part of the brain. It is older than the _outer brain_ (cerebral cortex) in evolutionary terms. The inner brain is where fear is experienced.
+<!-- #content the other part is the hindbrain, which is responsible for breathing, movement, and sleep -->
 ![The "inner brain" or "low road" pathway is shorter and faster.](assets/brain%20emotion%20path.png)
 
-The _high road_ is much slower. Thoughts are processed more slowly, on the scale of seconds. It has to go all the way through the _outer brain_ (cortex), which is a much longer path. The cortex is the part of the brain humans actually think in --- your conscious mind. Humans have the largest cortex relative to brain size --- much larger than animals. Some people like to oversimplify and claim that animals cannot "think" --- that they do not use their cortex in the same way humans do. <!-- #content I would add your opinion here, or add science here. I think that leaving that statement makes me feel that you believe that animals can't think. Alternatively, I don't think that sentence really adds much to your argument.
+The _high road_ is much slower. Thoughts are processed more slowly, on the scale of seconds. It has to go all the way through the _outer brain_ (cerebral cortex), which is a much longer path. The cortex is the part of the brain humans actually think in --- your conscious mind. Humans have the largest cortex relative to brain size --- much larger than animals. Some people like to oversimplify and claim that animals cannot "think" --- that they do not use their cortex in the same way humans do. <!-- #content I would add your opinion here, or add science here. I think that leaving that statement makes me feel that you believe that animals can't think. Alternatively, I don't think that sentence really adds much to your argument.
  -->
+ <!-- #content after some research, I'm seeing that the crux of my distinction is "limbic system" is under the "cerebral cortex", and those are inner vs outer -->
 
 ![The "outer brain" or "high road" pathway is longer and slower.](assets/brain%20thought%20path.png)
 
@@ -125,6 +149,8 @@ But we humans are not always so aware of what goes on inside our heads. When we 
 
 ![autopilot vs mindful](assets/autopilot%20vs%20mindful.png)
 *Model of autopilot: input leads to output. Model of mindfulness: input leads to process leads to output.*
+
+<!-- #content - put habit in the autopilot part? ooh "One thing I found simplified is the description of the automatic response in animals- input to output; I would add a "habit" box in between, and then explain that, over time and consistent mapping, the "process" (in the cognitive-human) becomes a habit. This explains why we behave like animals (we are animals indeed!) but offer a glimpse of hope that we can change and fix our responses, thanks to Cognitive Behaviour Training." -->
 
 ### Automatic vs Deliberate Thoughts and Feelings
 <!-- #formatting quotes to italics -->
