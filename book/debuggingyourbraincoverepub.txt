@@ -1,5 +1,0 @@
----
-title: Debugging Your Brain
-author: Casey Watts
-language: en-US
----
