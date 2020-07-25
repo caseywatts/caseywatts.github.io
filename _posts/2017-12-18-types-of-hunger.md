@@ -5,6 +5,14 @@ tagline: enrich your vocabulary
 tags:
 ---
 
+<div style="text-align:center; margin:30px;">
+Listen to Casey read this article
+<audio controls style="display:block; margin: auto;">
+  <source src="https://files-caseywatts-com.s3.amazonaws.com/Inner+vs+Outer.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
 Whenever you're hungry, it helps to determine which type of hunger you're experiencing. Here are several kinds I experience:
 
 1. **Blood Sugar Hungry** - Muscles/limbs feel weak and unpowered. May be getting hangry. Need sugar.
