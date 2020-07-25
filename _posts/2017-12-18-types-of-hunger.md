@@ -7,7 +7,7 @@ tags:
 
 <div style="text-align:center; margin:30px;">
 Listen to Casey read this article
-<audio controls style="display:block; margin: auto;">
+<audio controls controlsList="nodownload" style="display:block; margin: auto;">
   <source src="https://files-caseywatts-com.s3.amazonaws.com/Inner+vs+Outer.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
