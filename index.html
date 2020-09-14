@@ -3,7 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  <p class="description-well">{{ site.description }}</p>
+  {% include dyb_coming.html %}
+  <p class="description-well" style="margin-top: 2rem;">{{ site.description }}</p>
+
   <h3>This Site</h3>
   <div class="some-section">
     <a href="/blog.html">
