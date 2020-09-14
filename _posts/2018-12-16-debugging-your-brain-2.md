@@ -5,6 +5,8 @@ tagline: Cognitive Restructuring for Systems Thinkers
 tags:
 ---
 
+{% include dyb_precursor.html %}
+
 # CBT, Introspection, and Inputs
 
 ## Cognitive Behavioral Therapy
