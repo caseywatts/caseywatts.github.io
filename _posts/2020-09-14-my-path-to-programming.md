@@ -52,11 +52,11 @@ Eventually I taught my own introduction to programming class through the univers
 I loved helping students learn to love coding!
 
 ## 😎 Side Projects
-I have since worked in software development for a long time. Lately as a Product Manager I do not write as much code myself. Instead, I work on choosing what features the team works on. I still always explaining the why.
+I have since worked in software development for a long time. Lately as a Product Manager I do not write as much code myself. Instead, I work on choosing what features the team works on. I still always like explaining the why.
 
 When I do code things lately, they are small side projects. I love solving actual problems with a bit of code. Here are some of my more simple but well-motivated side projects. I am using simple as a relative term here, these are not full-blown, complex web applications like Facebook. These are more like single-use-case tools:
 
-* [Is My Mic Working](httsp://ismymicworking.com) — Sometimes I can't tell if my microphone is working. I just want the computer to tell me. This records a few seconds of mic input, and plays back what it hears. So simple!
+* [Is My Mic Working](https://ismymicworking.com) — Sometimes I can't tell if my microphone is working. I just want the computer to tell me. This records a few seconds of mic input, and plays back what it hears. So simple!
 * [Is My Internet Working](https://github.com/caseywatts/electron-ping) — On every videocall, someone asks "oh is it my internet or yours?" — the computer can know this! I made a tiny app that messages google.com every second to see if the internet is up for me. When it gets spotty on my end, I get a notification.
 * [Videocall Push To Talk](http://caseywatts.com/ptt) — On some videocalls I want to stay muted the whole time except when I am speaking. I like the walkie-talkie style of holding down a key to speak, so I made that happen in Google Meet / Hangouts!
 * [Folk Tune Transposer](https://folktunetransposer.com) — I love to play folk music in bands. When I play flute I can read the sheet music directly, because flute as an instrument is in the key of C. When I play my B-flat clarinet or B-flat trumpet, I cannot read the sheet music directly. Perfect use of code! This site I made transposes folk music into the key I need it to be in for my instrument of the day.
