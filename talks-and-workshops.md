@@ -7,43 +7,32 @@ group: navigation
 
 ## Talks & Workshops
 
-{% include neurobiologists_guide.md %}
+### Debugging Your Brain Talk
+A one-hour presentation, covering the biggest concepts in Debugging Your Brain: when/how to be mindful, four inputs to your mind, experience processing techniques, experience validation techniques, and countering cognitive distortions.
+<!-- [Debugging Your Brain Talk details](/talks-and-workshops/debugging-your-brain-talk) -->
 
-### [Electron Workshop](learnshinythings.com/electron)
+### Debugging Your Brain Workshop
+A two-hour workshop:
+* half overview of DYB concepts: when/how to be mindful, four inputs to your mind, experience processing techniques, experience validation techniques, and countering cognitive distortions.
+* half hands-on practice in small breakout groups (everyone's favorite part!)
+<!-- [Debugging Your Brain Workshop details](/talks-and-workshops/debugging-your-brain-workshop) -->
 
-I've given this ~3-hour workshop quite a few times. It's approachable even for someone with very little javascript experience. It covers:
+### Team Health & Psychological Safety
+A 90-minute workshop
+* What makes a team healthy? How can we help our team be the happiest, most effective they can be?
+* We’ll practice many specific techniques that managers and team members can do to foster psychological safety.
 
-- modern javascript (ES2017)
-- Node.js, browser Javascript
-- the Electron APIs
-
-### [Graphviz Workshop](https://github.com/caseywatts/graphviz-tutorial)
-
-Graphviz is like markdown, for diagrams. It's a tool that can transform text input into a "directed graph" output, which is nodes pointing to other nodes. You can use it for architecture diagrams, DB diagrams, documentation for users, etc.
+[Team Health & Psychological Safety details](/talks-and-workshops/team-health)
 
 
-### [Chrome Extension Workshop](http://caseywatts.com/chromeextensionworkshop)
-I've given this ~3-hour workshop quite a few times. It's written to be do-able on your own at home, too! It's approachable even for someone with very little javascript experience. It covers:
+### Feeling Understood Workshop
+A 90-minute workshop
+* Beyond just “active listening,” this workshop covers a framework for how to help people feel understood: **four levels of listening**, and **three levels of explicit validation**. You can use this framework to support others, or to ask for support yourself.
 
-- using the javascript console
-- creating bookmarklets
-- creating a chrome extension
+[Feeling Understood details](/talks-and-workshops/feeling-understood)
 
-### Collaboration Tips and Tricks Collection
-[Presentation on YouTube](https://www.youtube.com/watch?v=JKZ_CHSO7rs), [Notes](http://tinyurl.com/caseycollaborationtools)
 
-Curated resources used to improve team collaboration
+## Contact Casey
+Interested in a talk or workshop for your company or community group?
 
-## Book Me
-
-### Developer Psychology
-Want your team to be the happiest, most productive team around? Your team would love to see my talk "A Developer's Guide to Mind Manipulation". I'd love to travel to your company and share these modern psychology techniques with your team. So many attendees have told me it was immensely impactful, and the techniques stayed with them even much after the talk.
-
-The "Neurobiologist's Guide to Mind Manipulation" talk can be done as a Lunch & Learn. I'll do a 25 minute presentation, followed by 25 minutes of open questions and/or facilitated discussion time. Each workshop costs $750 (for the DC area).
-
-Email me at: `casey.s.watts (at) gmail.com`
-
-### Javascript Workshops
-The Electron Workshop and Chrome Extension Workshop are each 3-5 hours. Your team will quickly and effectively pick up many modern javascript skills - both ES6 in general, and the specific topic. Each workshop costs $2000 (for the DC area).
-
-Email me at: `casey.s.watts (at) gmail.com`
+Email Casey at: `casey.s.watts (at) gmail.com`
