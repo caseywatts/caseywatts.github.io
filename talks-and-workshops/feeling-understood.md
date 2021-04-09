@@ -3,7 +3,7 @@ layout: post
 title: Feeling Understood
 tagline: Techniques for Deeper Conversations
 tags: team
-published: false
+published: true
 
 ---
 ### Overview

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gists & Tricks
+navTitle: Gists & Tricks
 group: navigation
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Talks & Workshops
+navTitle: Talks & Workshops
 group: navigation
 ---
 
