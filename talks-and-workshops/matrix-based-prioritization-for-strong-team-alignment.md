@@ -1,5 +1,5 @@
 ---
-layout: workshop
+layout: post
 title: Matrix-Based Prioritization for Strong Team Alignment
 tagline: ''
 tags: ''
