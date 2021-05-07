@@ -1,0 +1,77 @@
+---
+layout: default
+draft: true
+---
+
+<div class="home">
+  {% include dyb_coming.html %}
+  <p class="description-well" style="margin-top: 2rem;">{{ site.description }}</p>
+
+  <h3>This Site</h3>
+  <div class="some-section">
+    <a href="/blog.html">
+      <p class="bubble-link">Blog</p>
+    </a>
+    <a href="/gists-and-tricks.html">
+      <p class="bubble-link">Gists &amp; Tricks</p>
+    </a>
+    <a href="/projects.html">
+      <p class="bubble-link">Projects</p>
+    </a>
+    <a href="/talks-and-workshops.html">
+      <p class="bubble-link">Talks &amp; Workshops</p>
+    </a>
+
+    <a href="/bubbles.html">
+      <p class="bubble-link">
+        <span class="icon">
+          {% include bubbles.svg %}
+        </span>
+      </p>
+    </a>
+
+    <a href="/soundboard">
+      <p class="bubble-link">
+        <span class="icon">
+          {% include speaker.svg %}
+        </span>
+      </p>
+    </a>
+  </div>
+  <h3>Blog - Most Recent</h3>
+  <ul class="post-list">
+    {% for post in site.posts limit:2 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+            <div class="tagline">{{ post.tagline }}</div>
+          </a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  <a href="/blog.html">More Blog Posts</a>
+  <h3>Social Media</h3>
+  <div class="some-section">
+    <a href="http://twitter.com/kyloma">
+      <span class="icon  icon--github"></span>
+      <p class="bubble-link">Twitter (@kyloma)</p>
+    </a>
+    <a href="http://github.com/caseywatts">
+      <span class="icon  icon--github"></span>
+      <p class="bubble-link">Github (@caseywatts)</p>
+    </a>
+    <a href="https://www.linkedin.com/in/caseywatts">
+      <p class="bubble-link">Linkedin (@caseywatts)</p>
+    </a>
+    <a href="https://www.instagram.com/kyloma/">
+      <p class="bubble-link">Instagram (@kyloma)</p>
+    </a>
+    <a href="http://dctechslack.com/">
+      <p class="bubble-link">DCTechSlack (@caseywatts)</p>
+    </a>
+  </div>
+</div>
