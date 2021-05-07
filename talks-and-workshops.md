@@ -5,19 +5,19 @@ navTitle: Talks & Workshops
 group: navigation
 ---
 
-## Talks & Workshops
+# Talks & Workshops
 
-### Debugging Your Brain Talk
+## Debugging Your Brain Talk
 A one-hour presentation, covering the biggest concepts in Debugging Your Brain: when/how to be mindful, four inputs to your mind, experience processing techniques, experience validation techniques, and countering cognitive distortions.
 <!-- [Debugging Your Brain Talk details](/talks-and-workshops/debugging-your-brain-talk) -->
 
-### Debugging Your Brain Workshop
+## Debugging Your Brain Workshop
 A two-hour workshop:
 * half overview of DYB concepts: when/how to be mindful, four inputs to your mind, experience processing techniques, experience validation techniques, and countering cognitive distortions.
 * half hands-on practice in small breakout groups (everyone's favorite part!)
 <!-- [Debugging Your Brain Workshop details](/talks-and-workshops/debugging-your-brain-workshop) -->
 
-### Team Health & Psychological Safety
+## Team Health & Psychological Safety
 A 90-minute workshop
 * What makes a team healthy? How can we help our team be the happiest, most effective they can be?
 * We’ll practice many specific techniques that managers and team members can do to foster psychological safety.
@@ -25,7 +25,7 @@ A 90-minute workshop
 [Team Health & Psychological Safety details](/talks-and-workshops/team-health)
 
 
-### Feeling Understood Workshop
+## Feeling Understood Workshop
 A 90-minute workshop
 * Beyond just “active listening,” this workshop covers a framework for how to help people feel understood: **four levels of listening**, and **three levels of explicit validation**. You can use this framework to support others, or to ask for support yourself.
 

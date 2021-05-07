@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: talk
 title: Feeling Understood
 tagline: Techniques for Deeper Conversations
 tags: team
