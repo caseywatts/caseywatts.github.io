@@ -1,22 +1,38 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
 
   <body>
-
-    {% include header.html %}
-
-    {% include bubble-background.html %}
-
+    {% include header.html %} {% include bubble-background.html %}
     <div class="page-content">
       <div class="wrapper">
+        <div class="some-section">
+          <div class="bubble-link">
+            <div>
+              On June 26, come to my online workshop
+              <a
+                href="https://www.eventbrite.com/e/embracing-your-authentic-self-tickets-153549475615"
+                style="text-decoration: underline"
+                >Embracing Your Authentic Self</a
+              >
+            </div>
+
+            <div style="margin-top: 1rem">
+              You will practice two perspectives that work together:<br />
+              logical/neuroscience, and spiritual/meditation.
+
+              <a
+                href="https://www.eventbrite.com/e/embracing-your-authentic-self-tickets-153549475615"
+                style="text-decoration: underline"
+                >Get Tickets</a
+              >.
+            </div>
+          </div>
+        </div>
         {{ content }}
       </div>
     </div>
 
     {% include footer.html %}
-
   </body>
-
 </html>
