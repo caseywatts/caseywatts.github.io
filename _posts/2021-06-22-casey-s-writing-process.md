@@ -5,9 +5,11 @@ tagline: for Debugging Your Brain
 tags: ''
 
 ---
+### How did I take ideas and turn them into a book?
+
 I wrote the book iteratively - conversations, to presentations, to blog posts, and finally to a book. I edited the book by leaning on 40 friends to give me feedback - it's so polished! I formatted the book using some tech tools: markdown and pandoc and Zotero help me export to pdf and epub formats. I self-published the printed book and eBook via Ingram Spark. I also narrated the audio book myself and self-published that to Findaway Voices.
 
-There are four main steps: write, edit, format, publish
+There are four main steps: write, edit, format, and publish
 
 ### How did I write the book?
 
