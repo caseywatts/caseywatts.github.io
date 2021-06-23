@@ -23,14 +23,21 @@ Eventually when I was ready to turn it into a full book, I took a 2-month sabbat
 
 For print and ebook formatting, I wrote it in markdown which helped the computer produce the pdf for printing and epub for ebook. I used the tool pandoc to convert my files for me, using this setup. For my text editor I used Zettlr which is very good at markdown AND tracking images AND tracking citations. I would totally recommend Zettlr for any research papers going forward!
 
-### How did I self-publish the book?
+### How did I self-publish the paper book / eBook?
 
-I used IngramSpark to publish and distribute my print and eBook versions, and I used Findaway Voices to publish and distribute my audio book version.
+I used IngramSpark to publish and distribute my print and eBook versions. They even distribute to libraries, which is something I care about a lot!
 
 I'd recommend IngramSpark to other people interested in self-publishing, it was a good experience overall! I had three gotchas when using them, but I got over each one:
 
-* You get a review state for printed books where they don't charge you before you accept a draft version, and that's great - but eBooks do not have this! I accidentally submitted both, and I had to pay an extra $25 for my eBook revision.
+* Watch out for the review state. Printed books have a review state where they don't charge you before you accept a draft version, but eBooks do NOT have this! I accidentally submitted both, and I had to pay an extra $25 for my eBook revision.
 * If you want it to go to Apple and Amazon you'll have to sign an extra agreement for those two. These agreements may or may not show up in your account as options, they did not for me. I signed them by emailing their support team.
+* If you want to do Amazon Kindle directly you can - the rates and metrics/insights are better on KDP if you don't mind doing the paperwork.
 * My book's cover I had to resubmit a few times - the spine width was wrong for me. It's very worth triple-checking the measurements before submitting, since it can take them a couple of days to notice it. They are pretty thorough though, and they'll catch a mistake if you make one!
 
-Findaway Voices is more polished than IngramSpark, no gotchas at all! They are also the only service that enables me to run deals on Chirp, which I heard a lot of friends use and buy audio books from.
+### How did I self-publish the audiobook?
+
+For the audiobook I used Findaway Voices for publishing and distribution. Its interface is more polished than IngramSpark, and there were no gotchas at all!
+
+In my research I noticed that a lot of friends who listen to a lot of audiobooks use Chirp, so I wanted my book listed there as well. Chirp deals are a great advertising technique, too. Although I did not manage to get a Chirp deal for my book in the end, Findaway Voices is the only service that would have enabled me to run deals on Chirp. I'd say that's not the most compelling reason to go with them, but they were easy to use overall anyway!
+
+I also published directly to Audible, but I now hate Audible and I plan to remove my audiobook from it. Somehow I ended up with 3 versions of my audiobook in Audible, and customer service was terrible about helping me with that. The rates are very low as well. The people I talked to about audiobook platforms were all very willing to use Google Play Books and Apple Books instead of Audible - everyone knows Audible is terrible.
