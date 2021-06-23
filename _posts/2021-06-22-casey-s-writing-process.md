@@ -21,7 +21,7 @@ Eventually when I was ready to turn it into a full book, I took a 2-month sabbat
 
 ### How did I format the book?
 
-For print and ebook formatting, I wrote it in markdown which helped the computer produce the pdf for printing and epub for ebook. I used the tool pandoc to convert my files for me, using this setup. For my text editor I used Zettlr which is very good at markdown AND tracking images AND tracking citations. I would totally recommend Zettlr for any research papers going forward!
+For print and ebook formatting, I wrote it in markdown which helped the computer produce the pdf for printing and epub for ebook. I used the tool pandoc to convert my files for me, [using this setup](caseywatts.com/selfpublish). For my text editor I used Zettlr which is very good at markdown AND tracking images AND tracking citations. I would totally recommend Zettlr for any research papers going forward!
 
 ### How did I self-publish the paper book / eBook?
 
