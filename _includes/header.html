@@ -1,39 +1,149 @@
-<header class="site-header">
+<nav class="bg-white shadow dark:bg-gray-800">
+  <div
+    class="
+      container
+      px-6
+      py-3
+      mx-auto
+      md:flex md:justify-between md:items-center
+    "
+  >
+    <div class="flex items-center justify-between">
+      <div>
+        <a
+          class="
+            text-xl
+            font-bold
+            text-gray-800
+            dark:text-white
+            md:text-2xl
+            hover:text-gray-700
+            dark:hover:text-gray-300
+          "
+          href="#"
+          >Casey Watts!</a
+        >
+      </div>
 
+      <!-- Mobile menu button -->
+      <div class="flex md:hidden">
+        <button
+          type="button"
+          class="
+            text-gray-500
+            dark:text-gray-200
+            hover:text-gray-600
+            dark:hover:text-gray-400
+            focus:outline-none focus:text-gray-600
+            dark:focus:text-gray-400
+          "
+          aria-label="toggle menu"
+        >
+          <svg viewBox="0 0 24 24" class="w-6 h-6 fill-current">
+            <path
+              fill-rule="evenodd"
+              d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"
+            ></path>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
+      <div class="items-center md:flex">
+        <div class="flex flex-col md:flex-row md:mx-6">
+          <a
+            class="
+              my-1
+              text-gray-700
+              dark:text-gray-200
+              hover:text-indigo-500
+              dark:hover:text-indigo-400
+              md:mx-4 md:my-0
+            "
+            href="#"
+            >About Casey</a
+          >
+          <a
+            class="
+              my-1
+              text-gray-700
+              dark:text-gray-200
+              hover:text-indigo-500
+              dark:hover:text-indigo-400
+              md:mx-4 md:my-0
+            "
+            href="#"
+            >Talks, Workshops, Coaching</a
+          >
+          <a
+            class="
+              my-1
+              text-gray-700
+              dark:text-gray-200
+              hover:text-indigo-500
+              dark:hover:text-indigo-400
+              md:mx-4 md:my-0
+            "
+            href="#"
+            >Writing</a
+          >
+          <a
+            class="
+              my-1
+              text-gray-700
+              dark:text-gray-200
+              hover:text-indigo-500
+              dark:hover:text-indigo-400
+              md:mx-4 md:my-0
+            "
+            href="#"
+            >Projects</a
+          >
+        </div>
+      </div>
+    </div>
+    <div>a</div>
+  </div>
+</nav>
+
+
+<!-- <header class="site-header">
   <div class="wrapper">
-
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          <path
+            fill="#424242"
+            d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"
+          />
+          <path
+            fill="#424242"
+            d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"
+          />
+          <path
+            fill="#424242"
+            d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"
+          />
         </svg>
       </a>
 
       <div class="trigger">
-        {% for page in site.html_pages %}
-          {% if page.navTitle %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.navTitle }}</a>
-          {% endif %}
-        {% endfor %}
+        {% for page in site.html_pages %} {% if page.navTitle %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}"
+          >{{ page.navTitle }}</a
+        >
+        {% endif %} {% endfor %}
 
         <a href="/bubbles" class="page-link">
-          <span class="icon">
-            {% include bubbles.svg %}
-          </span>
+          <span class="icon"> {% include bubbles.svg %} </span>
         </a>
 
         <a href="/soundboard" class="page-link">
-          <span class="icon">
-            {% include speaker.svg %}
-          </span>
+          <span class="icon"> {% include speaker.svg %} </span>
         </a>
       </div>
     </nav>
-
   </div>
-
-</header>
+</header> -->
