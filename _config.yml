@@ -13,3 +13,6 @@ linkedin_username:  heycaseywattsup
 # Build settings
 markdown: kramdown
 exclude: [node_modules, gulpfile.js]
+
+plugins:
+  - jekyll-postcss
