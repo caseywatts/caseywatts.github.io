@@ -1,22 +1,17 @@
 ---
 layout: page
-title: Blog
+title: Articles
 navTitle: Blog
 ---
 
-<div class="home">
-  <h2>Blog</h2>
-  <ul class="post-list">
+<div class="">
+  <h2>Articles</h2>
+  <ul class="">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-            <div class="tagline">{{ post.tagline }}</div>
-          </a>
-        </h2>
+      <li class="">
+          <a class="text-xl" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="text-lg"> {{ post.tagline }}</span>
+                  <div class="text-sm">{{ post.date | date: "%b %-d, %Y" }}</div>
       </li>
     {% endfor %}
   </ul>
