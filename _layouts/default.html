@@ -3,8 +3,9 @@
   {% include head.html %}
 
   <body>
-    {% include nav.html %} {% include bubble-background.html %}
-    <div class="container mx-auto px-1">{{ content }}</div>
+    {% include nav.html %} {%- comment -%} {% include bubble-background.html %}
+    {%- endcomment -%}
+    <div class="container pt-16 mx-auto px-1">{{ content }}</div>
 
     {% include footer.html %}
   </body>
