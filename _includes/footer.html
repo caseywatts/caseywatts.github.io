@@ -1,10 +1,24 @@
 <footer class="bg-gray-200">
-  <div class="container mx-auto flex justify-between p-4">
-      <div class="p-2">
-        <p class="">{{ site.description }}</p>
-      </div>
+  <div class="container mx-auto flex justify-evenly p-2">
+            <p class="prose prose-indigo m-2 p-2">
+      You might know Casey Watts! from his:
+      <a
+        class=""
+        href="https://www.youtube.com/watch?v=nj3IoW_rboE&amp;list=PLsGBNq2i4TkLJUc2p5-p1T2LATcuP-Kx1"
+        >talks at tech conferences</a
+      >, or
+      <a class="" href="https://www.debuggingyourbrain.com"
+        >book Debugging Your Brain</a
+      >, or <a class="bubble-link" href="/blog">articles and blog posts</a>,
+      or
+      <a
+        class="bubble-link"
+        href="https://www.greaterthancode.com/hosts/casey-watts"
+        >co-hosting the Greater Than Code podcast</a
+      >, or <a class="bubble-link" href="/bubbles">blowing bubbles</a>.
+    </p>
 
-      <div class="p-2">{% include social_media.html %}</div>
+      {% include social_media.html %}
     </div>
   </div>
 </footer>
