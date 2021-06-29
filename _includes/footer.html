@@ -1,15 +1,10 @@
-<footer class="site-footer">
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-2">
-        Casey Watts! {% include social_media.html %}
+<footer class="bg-gray-200">
+  <div class="container mx-auto flex justify-between p-4">
+      <div class="p-2">
+        <p class="">{{ site.description }}</p>
       </div>
 
-      <div class="footer-col footer-col-1"></div>
-
-      <div class="footer-col footer-col-3">
-        <p class="text">{{ site.description }}</p>
-      </div>
+      <div class="p-2">{% include social_media.html %}</div>
     </div>
   </div>
 </footer>
