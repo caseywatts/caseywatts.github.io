@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <div><a href="/talks-and-workshops">◀ see all talks and workshops</a></div>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
+<div class="prose mx-auto text-center">
+  <a href="/talks-and-workshops">◀ see other talks and workshops</a>
 </div>
+<h1 class="mx-auto text-5xl text-center mb-16">
+  {{ page.title }}
+  <div class="text-lg">{{ page.subtitle}}</div>
+</h1>
+<article class="mx-auto prose lg:prose-xl prose-indigo mb-16">
+  {{ content }}
+</article>
+{% include byline.html %}
