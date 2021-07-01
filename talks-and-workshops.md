@@ -5,6 +5,8 @@ navTitle: Talks & Workshops
 group: navigation
 ---
 
+Casey has given a _ton_ of workshops, and very few are listed here so far. If these examples sound interesting, reach out to Casey to hear about more!
+
 ## Debugging Your Brain Talk
 
 A one-hour presentation, covering the biggest concepts in Debugging Your Brain: when/how to be mindful, four inputs to your mind, experience processing techniques, experience validation techniques, and countering cognitive distortions.
