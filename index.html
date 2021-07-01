@@ -3,3 +3,35 @@ layout: default
 ---
 
 {% include byline.html %}
+
+<div class="block md:grid grid-cols-3">
+  <div>
+    <h2 class="text-2xl text-center mt-10">Bring Casey in to your Company</h2>
+    <div class="">
+      {% include buttonlink.html href="/talks-and-workshops" text="talks and
+      workshops" %}
+    </div>
+  </div>
+
+  <div>
+    <h2 class="text-2xl text-center mt-10">Read, Listen, Watch</h2>
+    <div class="">
+      {% include buttonlink.html href="/blog" text="read articles" %} {% include
+      buttonlink.html
+      href="https://www.youtube.com/watch?v=nj3IoW_rboE&list=PLsGBNq2i4TkLJUc2p5-p1T2LATcuP-Kx1"
+      text="watch videos" %} {% include buttonlink.html
+      href="https://www.greaterthancode.com/hosts/casey-watts" text="listen to
+      podcast episodes" %} {% include buttonlink.html
+      href="https://www.debuggingyourbrain.com" text="read the book Debugging
+      Your Brain" %}
+    </div>
+  </div>
+
+  <div>
+    <h2 class="text-2xl text-center mt-10">Tools, Projects</h2>
+    <div class="">
+      {% include buttonlink.html href="/gists-and-tricks" text="gists & tricks"
+      %} {% include buttonlink.html href="/projects" text="projects" %}
+    </div>
+  </div>
+</div>
