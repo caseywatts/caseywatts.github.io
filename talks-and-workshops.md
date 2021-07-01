@@ -7,13 +7,23 @@ group: navigation
 
 Casey has given a _ton_ of workshops, and very few are listed here so far. If these examples sound interesting, reach out to Casey to hear about more!
 
-## Debugging Your Brain Talk
+## Large Team Workshops
+
+Large Workshops share big ideas to a wide audience (30-60 people). I convey the ideas clearly and concisely, and I make time for attendees to practice the skills in breakout sessions. Large Team Workshops are 2 hours, and alternate between lecture and breakout activities (about 50/50 overall). Examples include: Team Health and Psychological Safety Workshop, Feeling Understood Workshop, Debugging Your Brain Workshop, and Matrix-Based Prioritization for Strong Organizational Alignment Workshop.
+
+## Small Team Workshops
+
+Small Team Workshops focus on the communication patterns and social norms of smaller teams (6-12) of people who regularly work together. Examples include: facilitated organizational change retrospective, facilitated community of practice, a “Possible Futures” workshop, a “Hopes and Fears” workshop, a Matrix-Based Prioritization.</p>
+
+## Examples
+
+### Debugging Your Brain Talk
 
 A one-hour presentation, covering the biggest concepts in Debugging Your Brain: when/how to be mindful, four inputs to your mind, experience processing techniques, experience validation techniques, and countering cognitive distortions.
 
 <!-- [Debugging Your Brain Talk details](/talks-and-workshops/debugging-your-brain-talk) -->
 
-## Debugging Your Brain Workshop
+### Debugging Your Brain Workshop
 
 A two-hour workshop:
 
@@ -21,7 +31,7 @@ A two-hour workshop:
 - half hands-on practice in small breakout groups (everyone's favorite part!)
 <!-- [Debugging Your Brain Workshop details](/talks-and-workshops/debugging-your-brain-workshop) -->
 
-## Team Health & Psychological Safety
+### Team Health & Psychological Safety
 
 A 90-minute workshop
 
@@ -30,7 +40,7 @@ A 90-minute workshop
 
 [Team Health & Psychological Safety details](/talks-and-workshops/team-health)
 
-## Feeling Understood Workshop
+### Feeling Understood Workshop
 
 A 90-minute workshop
 
