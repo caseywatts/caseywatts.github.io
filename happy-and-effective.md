@@ -3,7 +3,7 @@ layout: page
 title: Be Happy and Effective with Casey
 ---
 
-Casey’s past teams all became “the happy, effective team” by the time he left them. Employees clamored to be a part of the team, and executive leadership was thrilled with our work. Your team can become “the happy, effective team,” too, through Casey’s leadership coaching and team workshops.
+Casey’s past teams all became “the happy, effective team” by the time he left them. Employees clamored to be a part of the team, and executive leadership was thrilled with our work. Work with casey to turn your team into “the happy, effective team,” too!
 
 ## You Deserve This
 
@@ -11,7 +11,15 @@ You deserve to work in a happy, inclusive, productive team. Unfortunately, that 
 
 Fortunately, we can improve this system! We can change our work environment for the better. Even more fortunately, all of these cultural improvements are simultaneously great for business outcomes AND great for the people you work with every day.
 
-## Both: Top-down and Bottom-up
+## Measuring Progress
+
+Do you know how happy and effective your organization is today?
+
+To make sure you get as much as you can out of the engagement we'll track progress. Together we'll monitor the change over time: starting with a baseline, and checking in every 3 months. We'll either use Casey's standard team health metrics or custom metrics that align with your organization's goals (such as objectives and key results, OKRs).
+
+To really succeed, you need to approach this from both sides: top-down (coaching) and bottom-up (workshops).
+
+## Top-down and Bottom-up
 
 A happy and effective team culture requires interest and support from both directions: top-down and bottom-up. You need both leadership AND employees to be interested, involved, and equipped for this cultural change. If your team is missing support from either direction, the company culture will naturally regress away from healthy norms. Even a team that is "toxic" today can be reformed into a healthy team with support from the top and bottom.
 
@@ -63,14 +71,11 @@ Employees really form the culture from the bottom.
 
 ## I love it! What's next?
 
-<div class="grid grid-cols-3">
+<div class="grid grid-cols-2">
 <div>
 {% include buttonlink.html href="/coaching" text="coaching" %}
 </div>
 <div>
 {% include buttonlink.html href="/workshops" text="workshops" %}
-</div>
-<div>
-{% include buttonlink.html href="/my-story" text="what is Casey's background?" %}
 </div>
 </div>

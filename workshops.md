@@ -5,46 +5,75 @@ title: Team Workshops
 
 {% include talks-coaching-crosslink.md %}
 
-## Workshops
+---
 
-In a **workshop**, attendees learn to apply and practice concrete skills.
+Workshops are in a few categories: [Individual Skills](#individual-skills), [Team Skills](#team-skills), and [Team Challenges](#team-challenges).
 
-If logistics get in the way, many of these can also be done as a **talk**.
-
-## Workshop Format
+In a **workshop**, attendees learn to apply and practice concrete skills. If logistics get in the way, many of these can also be done as a **talk**.
 
 Casey’s workshops are usually 50% presentation content by Casey and 50% activities for attendees. Some activities are **solo activities** where attendees answer a prompt on their own, and optionally share their responses with the group. Some activities are **pair activities**, where people discuss a prompt in a Zoom breakout room, and then we all return to the main group and share what the pairs discussed.
 
-Your team members must integrate these ideas into their day to day lives. Practicing is key. Each workshop has **activities** for attendees to apply these skills within the session, and each workshop also assigns **homework** to do throughout the following week.
-
-## Workshop Topics
-
-Workshops are in a few categories: [Individual Skills](#individual-skills), [Team Skills](#team-skills), and [Team Challenges](#team-challenges). A common thread in all of this training is empathy. Empathy for yourself, and empathy for others.
-
-The **Individual Skills** workshops focus on work that individuals must do to understand themselves, so they can choose how they interact with the world and with each other.
-
-The **Team Skills** workshops focus on interactions between team members which help people feel included. Not only will marginalized individuals feel much more like a part of the team, but the team’s work output will also benefit enormously from having everyone’s ideas incorporated.
-
-The **Team Challenges** workshops help a small team (4-10 people) work through challenges that particular team has.
+Practicing these skills is key. Each workshop has **activities** for attendees to apply these skills within the session. Each workshop also assigns **homework** to do throughout the following week.
 
 ## Individual Skills
 
-A set of foundational skills that should be taught in all schools and workplaces: how to be introspective, how to process challenging experiences, and how to listen so that others feel understood, and how to ask for support. These skills are critical for mental health, preventing and recovering from burnout, and wellbeing. Unfortunately most people only get exposure to these skills by going to therapy — until now.
+Individual Skills workshops help individuals choose how they interact with the world and with each other. This set of foundational skills should be taught in all schools and workplaces.
 
-Casey’s approach for teaching these skills leverages both his background in psychology and in software development. He uses metaphors from software development to make these psychology concepts and techniques both clear and actionable.
+These skills are critical for mental health, preventing and recovering from burnout, and wellbeing. Unfortunately most people only get exposure to these skills by going to therapy — until now.
 
-### Introspection & Mindfulness (30 min)
+Casey’s approach leverages both his background in psychology and in software development. He uses metaphors from software development to make these psychology concepts and techniques both clear and actionable.
+
+Workshops include:
+
+- Introspection & Mindfulness
+- Techniques for Processing Experiences
+- Communicating Understanding & Feeling Understood
+- Asking for Support
+
+<!-- ### Introspection & Mindfulness (30 min)
 
 - Attendees will understand the benefits of introspection and mindfulness.
 - Attendees will be able to explain a model of the brain as a system using the “Input Process Output” model.
 - Attendees will learn a way to become introspective on demand, using “the whoop technique.”
 - Pair Activity: Attendees will discuss times when they successfully became introspective, and times when they wish they had been able to.
 - Attendees will be able to identify the four types of input to look out for.
-- Solo Activity: Attendees will identify inputs from each of the four categories for an experience.
+- Solo Activity: Attendees will identify inputs from each of the four categories for an experience. -->
 
 ## Team Skills
 
+Team Skills workshops focus on interactions between team members which help people feel included. Not only will marginalized individuals feel much more like a part of the team, but the team’s work output will also benefit enormously from having everyone’s ideas incorporated.
+
+Inclusive Communication Workshops:
+
+- Psychological Safety: The Secret Ingredient
+- Implicit and Explicit Communication
+- Persuasion via Mutual Understanding
+- Glad We Work Together
+- Growth Mindset
+
+Diversity, Equity, and Inclusion (DEI) Workshops:
+
+- Why is Diversity, Equity, and Inclusion Important?
+- Countering Biases
+- Bystander to Upstander
+- Team Culture & Norm Regulation
+- LGBTQ Inclusive Workplace
+- Inclusive Terminology & Avoiding Microaggressions
+- Inclusive Writing Workshop
+
 ## Team Challenges
+
+Team Challenges Workshops focus on the communication patterns and social norms of smaller teams (4-10) of people who regularly work together, working on specific challenges the team faces today.
+
+Workshops include:
+
+- facilitated organizational change retrospective
+- facilitated community of practice
+- “Possible Futures” workshop
+- “Hopes and Fears” workshop
+- "Matrix-Based Prioritization" workshop
+
+Casey has also facilitated many of the workshops listed on the [Product Discovery Methods site](https://pdmethods.com) and the [18F Methods site](https://methods.18f.gov). Casey can help you figure out which of these might best help your team with the particular challenges they have.
 
 <!-- ## Small Bubble, Large Bubble
 
