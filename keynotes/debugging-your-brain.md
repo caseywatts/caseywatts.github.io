@@ -1,6 +1,6 @@
 ---
 layout: keynote
-title: Debugging Your Brain
+title: Debugging Your Brain Keynote
 published: true
 ---
 

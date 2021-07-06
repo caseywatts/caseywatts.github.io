@@ -17,10 +17,10 @@ group: navigation
 Have an event or conference coming up? Set the tone with a keynote:
 
 <div>
-{% include buttonlink.html href="/keynotes/debugging-your-brain" text="<b>Debugging Your Brain</b> support employees' mental health" %}
+{% include buttonlink.html href="/keynotes/debugging-your-brain" text="support employees' mental health<b>Debugging Your Brain</b>" %}
 </div>
 <div>
-{% include buttonlink.html href="/keynotes/team-health" text="<b>Team Health Matters</b>how to foster healthy team culture" %}
+{% include buttonlink.html href="/keynotes/team-health" text="foster healthy team culture<b>Team Health Matters</b>" %}
 </div>
 <!-- <div>
 {% include buttonlink.html href="#" text="<b>Practical Diversity, Equity, and Inclusion</b> empowers team members to be actively supportive of marginalized groups" %}
