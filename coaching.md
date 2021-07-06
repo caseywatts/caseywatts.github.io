@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coaching
+title: Leadership Coaching
 ---
 
 {% include talks-coaching-crosslink.md %}

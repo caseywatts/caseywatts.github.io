@@ -15,7 +15,7 @@ Fortunately, we can improve this system! We can change our work environment for 
 
 A happy and effective team culture requires interest and support from both directions: top-down and bottom-up. You need both leadership AND employees to be interested, involved, and equipped for this cultural change. If your team is missing support from either direction, the company culture will naturally regress away from healthy norms. Even a team that is "toxic" today can be reformed into a healthy team with support from the top and bottom.
 
-How can you make this change happen? You need to hit it from both sides: top-down and bottom-up. Teams see the biggest impact when using a combination of workshops and coaching. [**Leadership coaching**](/coaching) helps leaders tailor these ideas to the specific circumstances of the team, and the specific people on the team. [**Team workshops**](/talks-and-workshops) help get the whole team on board to a set of ideas, practices, and techniques.
+How can you make this change happen? You need to hit it from both sides: top-down and bottom-up. Teams see the biggest impact when using a combination of workshops and coaching. [**Leadership coaching**](/coaching) helps leaders tailor these ideas to the specific circumstances of the team, and the specific people on the team. [**Team workshops**](/workshops) help get the whole team on board to a set of ideas, practices, and techniques.
 
 <div class="grid grid-cols-2" markdown="1">
 
@@ -35,7 +35,7 @@ Executives and other leaders set the tone and vision from the top.
 
 ### Bottom-up
 
-{% include buttonlink.html href="/talks-and-workshops" text="team workshops"%}
+{% include buttonlink.html href="/workshops" text="team workshops"%}
 
 Employees really form the culture from the bottom.
 
@@ -68,7 +68,7 @@ Employees really form the culture from the bottom.
 {% include buttonlink.html href="/coaching" text="coaching" %}
 </div>
 <div>
-{% include buttonlink.html href="/talks-and-workshops" text="talks and workshops" %}
+{% include buttonlink.html href="/workshops" text="workshops" %}
 </div>
 <div>
 {% include buttonlink.html href="/my-story" text="what is Casey's background?" %}

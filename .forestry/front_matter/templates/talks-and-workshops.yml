@@ -1,5 +1,5 @@
 ---
-label: talks-and-workshops
+label: workshops
 hide_body: false
 fields:
 - type: text
@@ -16,7 +16,7 @@ fields:
   label: tags
 pages:
 - _posts/2021-06-22-casey-s-writing-process.md
-- talks-and-workshops/feeling-understood.md
-- talks-and-workshops/matrix-based-prioritization-for-strong-team-alignment.md
-- talks-and-workshops/matrix-based-prioritization-for-strong-team-alignment.md
-- talks-and-workshops/team-health.md
+- workshops/feeling-understood.md
+- workshops/matrix-based-prioritization-for-strong-team-alignment.md
+- workshops/matrix-based-prioritization-for-strong-team-alignment.md
+- workshops/team-health.md

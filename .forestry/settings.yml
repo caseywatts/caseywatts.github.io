@@ -11,12 +11,12 @@ sections:
   label: Pages
   create: all
 - type: directory
-  path: talks-and-workshops
+  path: workshops
   label: Talks and Workshops
   create: all
   match: "**/*"
   templates:
-  - talks-and-workshops
+  - workshops
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
