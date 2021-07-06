@@ -17,14 +17,14 @@ group: navigation
 Have an event or conference coming up? Set the tone with a keynote:
 
 <div>
-{% include buttonlink.html href="#" text="<b>Debugging Your Brain</b> supports the mental health of employees" %}
+{% include buttonlink.html href="/keynotes/debugging-your-brain" text="<b>Debugging Your Brain</b> support employees' mental health" %}
 </div>
 <div>
-{% include buttonlink.html href="#" text="<b>Team Health Matters</b> helps foster healthy team culture" %}
+{% include buttonlink.html href="/keynotes/team-health" text="<b>Team Health Matters</b>how to foster healthy team culture" %}
 </div>
-<div>
+<!-- <div>
 {% include buttonlink.html href="#" text="<b>Practical Diversity, Equity, and Inclusion</b> empowers team members to be actively supportive of marginalized groups" %}
-</div>
+</div> -->
 
 </div>
 <div markdown="1" class="p-2">
@@ -37,7 +37,7 @@ A **talk** focuses more on delivering content.
 
 A **workshop** focuses on applying and practicing skills.
 
-{% include buttonlink.html href="#" text="talk and workshop descriptions below" %}
+{% include buttonlink.html href="#examples" text="talk and workshop descriptions below" %}
 
 </div>
 </div>
@@ -115,4 +115,4 @@ A 90-minute workshop
 
 Interested in a talk or workshop for your company or community group?
 
-Email Casey at: `casey.s.watts (at) gmail.com`
+{% include meetwithcasey.html %}

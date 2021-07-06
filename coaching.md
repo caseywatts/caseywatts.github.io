@@ -133,4 +133,4 @@ Engagements are done for 3 months at a time, which is 12 coaching sessions per c
 
 ### Get in touch
 
-{% include buttonlink.html href="https://calendly.com/heycaseywattsup/30min" text="meet with Casey" %}
+{% include meetwithcasey.html %}

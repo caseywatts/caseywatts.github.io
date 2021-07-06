@@ -13,54 +13,62 @@ Your team can become “the happy, effective team” too, through Casey’s lead
 
 Cultural change happens most effectively when there is support from the top and bottom, both.
 
-Casey uses these terms because these are the levels at which norms really form, and cultural change can really happen. While broadly speaking "company culture" is its own phenomenon, cultural change really happens at the lower levels.
-
-Both are critical, and neither alone is not enough to foster healthy cultural norms. Without support from the top, or without support from the bottom, culture naturally shifts away from healthy culture.
+Neither approach alone is not enough to foster healthy cultural norms. If your team is missing support from either direction, the company culture will naturally regress away from healthy norms. Even a team that is "toxic" today can be reformed into a healthy team with support from the top and bottom.
 
 <div class="grid grid-cols-2" markdown="1">
 
-<div markdown="1">
+<div markdown="1" class="p-2">
 
 ### Top-down
 
 {% include buttonlink.html href="/coaching" text="coaching"%}
 
-Executives and other leaders set the tone and vision, from the top.
+Executives and other leaders set the tone and vision from the top.
 
-This comes from words and actions, both. Words like saying "we value X at this company," and actions like promoting and celebrating people who embody those values.
+This support comes from words and actions, both. Words like establishing "we value X at this company," and actions like promoting and celebrating people who embody those values.
 
 </div>
 
-<div markdown="1">
+<div markdown="1" class="p-2">
 
 ### Bottom-up
 
 {% include buttonlink.html href="/talks-and-workshops" text="talks and workshops"%}
 
-Employees really form the culture, from the bottom. This happens first in "small bubbles", and then bubbles up to "large bubbles".
+Employees really form the culture from the bottom. This happens first in small groups (3-12), and then bubbles up to larger groups (30-60).
 
 </div>
 
 </div>
 
-## Happy Former Coworkers
+## What do people say?
 
-Executives love the work my teams do:
+### Executives
 
-> "I feel like we have entered a different era and the technology that has been developed will serve as the catalyst for the rest of the agency. So proud of you all and these developments are so meaningful."
->
-> -- Andrew Davidson, Chief of the Asylum Division, United States Citizenship and Immigration Services
+> I feel like we have entered a different era and the technology that has been developed will serve as the catalyst for the rest of the agency. So proud of you all and these developments are so meaningful.
 
-Coworkers love being on my teams:
+-- Andrew Davidson, Chief of the Asylum Division, United States Citizenship and Immigration Services
 
-> “Casey’s secret has to do with knowing that, deep down, everyone is searching for joy and purpose in their work. When we inhibit others’ productivity, we ultimately rob ourselves of joy and purpose.”
->
-> -- Bill Garr, United States Citizenship and Immigration Services
+### Employees
 
-> “I dare you to walk away from a conversation with Casey without a smile on your face. It can't be done.”
->
-> -- Lou Rinaldi, Yale Information Technology Services
+> Casey’s secret has to do with knowing that, deep down, everyone is searching for joy and purpose in their work. When we inhibit others’ productivity, we ultimately rob ourselves of joy and purpose.
 
-## Who's Casey?
+-- Bill Garr, United States Citizenship and Immigration Services
 
-Read more about [Casey the human](/my-story).
+> I dare you to walk away from a conversation with Casey without a smile on your face. It can't be done.
+
+-- Lou Rinaldi, Yale Information Technology Services
+
+## I love it! What's next?
+
+<div class="grid grid-cols-3">
+<div>
+{% include buttonlink.html href="/coaching" text="coaching" %}
+</div>
+<div>
+{% include buttonlink.html href="/talks-and-workshops" text="talks and workshops" %}
+</div>
+<div>
+{% include buttonlink.html href="/my-story" text="what is Casey's background?" %}
+</div>
+</div>
