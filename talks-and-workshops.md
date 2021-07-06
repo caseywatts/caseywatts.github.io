@@ -5,15 +5,78 @@ navTitle: Talks & Workshops
 group: navigation
 ---
 
-Casey has given a _ton_ of workshops, and very few are listed here so far. If these examples sound interesting, reach out to Casey to hear about more!
+{% include talks-coaching-crosslink.md %}
 
-## Large Team Workshops
+## Keynotes vs Talks/Workshops
+
+<div class="grid grid-cols-2">
+<div markdown="1" class="p-2">
+
+## Keynotes
+
+Have an event or conference coming up? Set the tone with a keynote:
+
+<div>
+{% include buttonlink.html href="#" text="<b>Debugging Your Brain</b> supports the mental health of employees" %}
+</div>
+<div>
+{% include buttonlink.html href="#" text="<b>Team Health Matters</b> helps foster healthy team culture" %}
+</div>
+<div>
+{% include buttonlink.html href="#" text="<b>Practical Diversity, Equity, and Inclusion</b> empowers team members to be actively supportive of marginalized groups" %}
+</div>
+
+</div>
+<div markdown="1" class="p-2">
+
+## Talks/Workshops
+
+Most of Casey's content can be done as either a talk or as a workshop.
+
+A **talk** focuses more on delivering content.
+
+A **workshop** focuses on applying and practicing skills.
+
+{% include buttonlink.html href="#" text="talk and workshop descriptions below" %}
+
+</div>
+</div>
+
+## Small Bubble, Large Bubble
+
+A "small bubble" is the group of 4-12 people that you work closely with day to day.
+
+A "large bubble" is the 30-60 people that you interact with occasionally, including many people from other "small bubbles."
+
+Casey uses these terms because language about teams varies so widely by organization. One company's 12-person "department" can be another company's 12-person "team." There are cognitive limits to how many people can form a cohesive group (have you heard of [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number)?).
+
+<div class="grid grid-cols-2" markdown="1">
+
+<div markdown="1" class="p-2">
+
+## Small Bubble
+
+4-12 people you work with day to day
+
+sometimes called "project teams" or "squads"
+
+Every small team experiences its own unique challenges, and those need unique solutions. Casey will train the team to be self-aware on a team level, and teach ways to improve communication among team members.
+
+Examples include: facilitated organizational change retrospective, facilitated community of practice, a “Possible Futures” workshop, a “Hopes and Fears” workshop, a Matrix-Based Prioritization.
+
+</div>
+
+<div markdown="1" class="p-2">
+
+## Large Bubble
+
+Your large bubble is the 30-60 people you work with occasionally, including many people in other small bubbles. At some companies these are called "team" or "department" or "division."
 
 Large Workshops share big ideas to a wide audience (30-60 people). I convey the ideas clearly and concisely, and I make time for attendees to practice the skills in breakout sessions. Large Team Workshops are 2 hours, and alternate between lecture and breakout activities (about 50/50 overall). Examples include: Team Health and Psychological Safety Workshop, Feeling Understood Workshop, Debugging Your Brain Workshop, and Matrix-Based Prioritization for Strong Organizational Alignment Workshop.
 
-## Small Team Workshops
+</div>
 
-Small Team Workshops focus on the communication patterns and social norms of smaller teams (6-12) of people who regularly work together. Examples include: facilitated organizational change retrospective, facilitated community of practice, a “Possible Futures” workshop, a “Hopes and Fears” workshop, a Matrix-Based Prioritization.</p>
+</div>
 
 ## Examples
 

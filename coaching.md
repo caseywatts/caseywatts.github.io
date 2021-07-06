@@ -3,6 +3,8 @@ layout: page
 title: Coaching
 ---
 
+{% include talks-coaching-crosslink.md %}
+
 <div class="bg-gray-100 px-10 py-1" markdown="1">
   
   <div class="flex items-center justify-between">
