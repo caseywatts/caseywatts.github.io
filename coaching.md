@@ -7,7 +7,7 @@ title: Coaching
   
   <div class="flex items-center justify-between">
     <h2 class="inline-block">Why Coaching?</h2>
-    <a href="#caseys-coaching" class="text-xs text-black text-opacity-10 text-right">I already love coaching,<br>how can Casey help?</a>
+    <a href="#caseys-coaching" class="text-xs text-black text-opacity-10 text-right">I love coaching,<br>how can Casey help?</a>
   </div>
 
 Employees need support to thrive. In modern tech, managers are expected to actively support their employees as professionals. Sometimes this works out and you have a great people-manager who supports your growth and cares about your happiness. This doesn't always happen, but when it does it works out great for the employees at least!
