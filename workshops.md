@@ -7,7 +7,7 @@ title: Team Workshops
 
 ---
 
-Workshops are in a few categories: [Individual Skills](#individual-skills), [Team Skills](#team-skills), and [Team Challenges](#team-challenges).
+## Format
 
 In a **workshop**, attendees learn to apply and practice concrete skills. If logistics get in the way, many of these can also be done as a **talk**.
 
@@ -15,7 +15,34 @@ Casey’s workshops are usually 50% presentation content by Casey and 50% activi
 
 Practicing these skills is key. Each workshop has **activities** for attendees to apply these skills within the session. Each workshop also assigns **homework** to do throughout the following week.
 
-## Individual Skills
+## Workshop Goals
+
+Workshops are in three categories: Individual Skill Workshops, Team Skill Workshops, and Team Challenges Workshops.
+
+<div class="grid grid-cols-3">
+  <div class="m-2">
+    {% include buttonlink.html href="#individual-skills" text="Individual Skills Workshops"%}
+    {% include pill.html bgColor="bg-purple-50" text="prevent and recover from burnout"%}
+    {% include pill.html bgColor="bg-purple-50" text="improve wellbeing"%}
+    {% include pill.html bgColor="bg-purple-50" text="preventative mental health interventions"%}
+    {% include pill.html bgColor="bg-purple-50" text="clearer, more candid communication"%}
+  </div>
+  <div class="m-2">
+    {% include buttonlink.html href="#team-skills" text="Team Skills Workshops"%}
+    {% include pill.html bgColor="bg-purple-50" text="diversity, equity, and inclusion"%}
+    {% include pill.html bgColor="bg-purple-50" text="leveraging everyone's perspectives"%}
+    {% include pill.html bgColor="bg-purple-50" text="feeling like a cohesive team"%}
+    {% include pill.html bgColor="bg-purple-50" text="forming, storming, norming, performing"%}
+  </div>
+  <div class="m-2">
+    {% include buttonlink.html href="#team-challenges" text="Team Challenges Workshops"%}
+    {% include pill.html bgColor="bg-purple-50" text="getting alignment on what the team should do"%}
+    {% include pill.html bgColor="bg-purple-50" text="incentive alignment / who should do what"%}
+    {% include pill.html bgColor="bg-purple-50" text="addressing specific challenges"%}
+  </div>
+</div>
+
+## Individual Skills Workshops
 
 Individual Skills workshops help individuals choose how they interact with the world and with each other. This set of foundational skills should be taught in all schools and workplaces.
 
@@ -39,9 +66,9 @@ Workshops include:
 - Attendees will be able to identify the four types of input to look out for.
 - Solo Activity: Attendees will identify inputs from each of the four categories for an experience. -->
 
-## Team Skills
+## Team Skills Workshops
 
-Team Skills workshops focus on interactions between team members which help people feel included. Not only will marginalized individuals feel much more like a part of the team, but the team’s work output will also benefit enormously from having everyone’s ideas incorporated.
+Team Skills Workshops focus on interactions between team members which help people feel included. Not only will marginalized individuals feel much more like a part of the team, but the team’s work output will also benefit enormously from having everyone’s ideas incorporated.
 
 Inclusive Communication Workshops:
 
@@ -61,7 +88,7 @@ Diversity, Equity, and Inclusion (DEI) Workshops:
 - Inclusive Terminology & Avoiding Microaggressions
 - Inclusive Writing Workshop
 
-## Team Challenges
+## Team Challenges Workshops
 
 Team Challenges Workshops focus on the communication patterns and social norms of smaller teams (4-10) of people who regularly work together, working on specific challenges the team faces today.
 
