@@ -3,13 +3,19 @@ layout: page
 title: Coaching
 ---
 
-<div class="bg-gray-100 px-10 py-1">
-  <h2>Background</h2>
-  <div class="prose">
-    <p>Employees need support to thrive. In modern tech, managers are expected to actively support their employees as professionals. Sometimes this works out and you have a great people-manager who supports your growth and cares about your happiness. This doesn't always happen, but when it does it works out great for the employees at least!</p>
-    <p>Who supports people at the top? Who can a CTO talk to about CTO problems? When a CTO is too busy to be an active mentor (it's common!), who can support technical leaders like engineering managers and product managers?</p>
-    <p>Ignore this situation and everyone loses out: you lose out as an individual, your company loses out by not having you stay and grow, your customer lose out by having less effective, engaged employees. Conversely, doing a great job at this has huge benefits: employee happiness, effectiveness, retention, easier hiring, and happier customers. It's a shame any company misses out on these!</p>
+<div class="bg-gray-100 px-10 py-1" markdown="1">
+  
+  <div class="flex items-center justify-between">
+    <h2 class="inline-block">Why Coaching?</h2>
+    <a href="#caseys-coaching" class="text-xs text-black text-opacity-10 text-right">I already love coaching,<br>how can Casey help?</a>
   </div>
+
+Employees need support to thrive. In modern tech, managers are expected to actively support their employees as professionals. Sometimes this works out and you have a great people-manager who supports your growth and cares about your happiness. This doesn't always happen, but when it does it works out great for the employees at least!
+
+Who supports people at the top? Who can a CTO talk to about CTO problems? When a CTO is too busy to be an active mentor (it's common!), who can support technical leaders like engineering managers and product managers?
+
+Ignore this situation and everyone loses out: you lose out as an individual, your company loses out by not having you stay and grow, your customer lose out by having less effective, engaged employees. Conversely, doing a great job at this has huge benefits: employee happiness, effectiveness, retention, easier hiring, and happier customers. It's a shame any company misses out on these!
+
   <div class="grid grid-cols-1 md:grid-cols-2 text-center">
     <div>
       <h3>Without Support</h3>
@@ -24,8 +30,11 @@ title: Coaching
       <div>{% include pill.html bgColor="bg-green-200" text="better project outcomes<br />happy clients/users" %}</div>
     </div>
   </div>
-  <h2>Where does anyone get professional support?</h2>
-  There are generally three approaches to getting one-on-one support as a professional: internal coaching, external coaching, and personal coaching.
+
+## Where does anyone get professional support?
+
+There are generally three approaches to getting one-on-one support as a professional: internal coaching, external coaching, and personal coaching.
+
   <div class="grid grid-cols-1 md:grid-cols-3 text-center">
     <div>
       <h3>Internal Coaching</h3>
@@ -41,8 +50,13 @@ title: Coaching
       <div>{% include pill.html bgColor="bg-blue-200" text="professional coach<br /><br />hired by you for yourself" %}</div>
     </div>
   </div>
+
 </div>
-<h2>How can Casey help?</h2>
+
+<h1 id="caseys-coaching">Casey's Coaching</h1>
+
+## How can Casey help?
+
 <div class="grid grid-cols-1 md:grid-cols-3 text-center">
   <div>
     <h3>Internal Coaching</h3>
@@ -60,8 +74,10 @@ title: Coaching
   </div>
 </div>
 
-<h2>What roles?</h2>
-<p>Casey coaches people in these positions and others. Casey has worked in many of these roles himself, directly.</p>
+## Who is this for?
+
+Casey coaches people in these positions and others. Casey has worked in many of these roles himself, directly.
+
 <div class="grid grid-cols-1 md:grid-cols-2 text-center">
   <div>
     <h3>Executives</h3>
@@ -78,9 +94,12 @@ title: Coaching
   </div>
 </div>
 
-<h2>Coaching Goals</h2>
-<p>Together, we create goals and track them. We define these at beginning of the coaching relationship, and update them periodically. These help focus our efforts, making sure the coachee gets the most out of the engagement. Sometimes externally-set goals are a part of the process, but to be successful goals must be defined and agreed to by the coachee.</p>
-<p>Here are some example goals for different roles.</p>
+## Coaching Goals
+
+Together, we create goals and track them. We define these at beginning of the coaching relationship, and update them periodically. These help focus our efforts, making sure the coachee gets the most out of the engagement. Sometimes externally-set goals are a part of the process, but to be successful goals must be defined and agreed to by the coachee.
+
+Here are some example goals for different roles.
+
 <div class="grid grid-cols-1 md:grid-cols-3 text-center">
   <div>
     <h3>Example Goals for a CTO</h3>
@@ -102,12 +121,14 @@ title: Coaching
   </div>
 </div>
 
-<h2>Weekly One-on-ones</h2>
-<p>The bulk of coaching progress is made in weekly 60-minute one-on-one conversations. We talk through areas for professional growth, and strategize how the coachee can approach that growth. In these, we talk through current challenges and potential approaches to dealing with them. The process of talking through a problem with someone who really gets it is hard to overstate.</p>
+## Weekly One-on-ones
 
-<h2>Engagement Duration</h2>
-<p>Engagements are done for 3 months at a time, which is 12 coaching sessions per coachee.</p>
+The bulk of coaching progress is made in weekly 60-minute one-on-one conversations. We talk through areas for professional growth, and strategize how the coachee can approach that growth. In these, we talk through current challenges and potential approaches to dealing with them. The process of talking through a problem with someone who really gets it is hard to overstate.
 
-<h3>Get in touch</h3>
+## Engagement Duration
+
+Engagements are done for 3 months at a time, which is 12 coaching sessions per coachee.
+
+### Get in touch
 
 {% include buttonlink.html href="https://calendly.com/heycaseywattsup/30min" text="meet with Casey" %}
