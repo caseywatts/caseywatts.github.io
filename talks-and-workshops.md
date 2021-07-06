@@ -42,7 +42,7 @@ A **workshop** focuses on applying and practicing skills.
 </div>
 </div>
 
-## Small Bubble, Large Bubble
+<!-- ## Small Bubble, Large Bubble
 
 A "small bubble" is the group of 4-12 people that you work closely with day to day.
 
@@ -76,9 +76,9 @@ Large Workshops share big ideas to a wide audience (30-60 people). I convey the 
 
 </div>
 
-</div>
+</div> -->
 
-## Examples
+## Talks & Workshops
 
 ### Debugging Your Brain Talk
 
