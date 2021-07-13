@@ -7,7 +7,7 @@ title: Team Workshops
 
 ---
 
-## Format
+## Workshop Format
 
 In a **workshop**, attendees learn to apply and practice concrete skills. If logistics get in the way, many of these can also be done as a **talk**.
 
