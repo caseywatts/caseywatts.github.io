@@ -11,16 +11,16 @@ var myColors = colorsString.split("\n");
 
 function renderLegend(domElement, myColors) {
   domElement.innerHTML = `
-  <div style="">
-  Better Team Health
-  <div style="background-color:${myColors[6]}; height: 1em; width:3em; "></div>
-  <div style="background-color:${myColors[5]}; height: 1em; width:3em; "></div>
-  <div style="background-color:${myColors[4]}; height: 1em; width:3em; "></div>
-  <div style="background-color:${myColors[3]}; height: 1em; width:3em; "></div>
-  <div style="background-color:${myColors[2]}; height: 1em; width:3em; "></div>
-  <div style="background-color:${myColors[1]}; height: 1em; width:3em; "></div>
-  <div style="background-color:${myColors[0]}; height: 1em; width:3em; "></div>
-  Worse Team Health
+  <div class="flex justify-center items-center text-center">
+  <span class="p-8">Worse<br />Team Health</span>
+  <span style="display:inline-block; background-color:${myColors[0]}; height: 3em; width:3em; "></span>
+  <span style="display:inline-block; background-color:${myColors[1]}; height: 3em; width:3em; "></span>
+  <span style="display:inline-block; background-color:${myColors[2]}; height: 3em; width:3em; "></span>
+  <span style="display:inline-block; background-color:${myColors[3]}; height: 3em; width:3em; "></span>
+  <span style="display:inline-block; background-color:${myColors[4]}; height: 3em; width:3em; "></span>
+  <span style="display:inline-block; background-color:${myColors[5]}; height: 3em; width:3em; "></span>
+  <span style="display:inline-block; background-color:${myColors[6]}; height: 3em; width:3em; "></span>
+  <span class="p-8">Better<br />Team Health</span>
   </div>
   `;  
 }

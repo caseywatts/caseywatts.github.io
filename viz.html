@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Team Health"
+---
+
 <script src="//unpkg.com/circlepack-chart"></script>
 <script src="//unpkg.com/icicle-chart"></script>
 <script src="//unpkg.com/treemap-chart"></script>
@@ -7,10 +12,16 @@
 <script src="/javascript/hierarchy-viz/googleSheets.js"></script>
 <script src="/javascript/hierarchy-viz/renderViz.js"></script>
 
-<div style="width: 100vw">
-  <span id="legend" style="position: absolute; top: 3em; left: 2em"></span>
-  <span id="chart-options"></span>
-  <span id="my-chart"></span>
+<div style="">
+  <span id="legend" style=""></span>
+  <div id="chart-options" class="flex justify-around items-center text-center">
+    <a onclick="reColor('averagehealth')" class="m-4 p-4 min-w-80 bg-gray-200 text-center rounded-full flex items-center justify-center cursor-pointer">Today</a>
+    <a onclick="reColor('improvement')" class="m-4 p-4 min-w-80 bg-gray-200 text-center rounded-full flex items-center justify-center cursor-pointer">With Support</a>
+    <a onclick="reColor('degredation')" class="m-4 p-4 min-w-80 bg-gray-200 text-center rounded-full flex items-center justify-center cursor-pointer">Without Support</a>
+  </div>
+  <div class="text-center flex justify-center items-center">
+    <span id="my-chart" style="width: 300px; height: 300px"></span>
+  </div>
   <style>
         .circlepack-viz circle {
           stroke: #000000;
@@ -32,11 +43,11 @@
   var sheetPageNumber = "3";
   var d3Diagram;
   tableObjectFromGoogleSheets(sheetID, sheetPageNumber).then(({ table, spreadsheetLoadedTime, validColumns }) => {
-    debugger;
-    console.log(table);
-    d3Diagram = renderDiagram(table);
+    const domElement = document.getElementById("my-chart");
+    d3Diagram = renderDiagram(domElement, table);
+
     // renderOptions(validColumns);
-    renderOptions(["averagehealth", "improvement", "degredation"]);
+    // renderOptions(["averagehealth", "improvement", "degredation"]);
   });
 
   function sevenPointColorScoreFor(datapoint) {
@@ -54,7 +65,19 @@
     var option = validColumns[6];
     validColumns.forEach((column) => {
       document.getElementById("chart-options").innerHTML += `
-      <a onclick="reColor('${column}')">${column}</a>
+      <a onclick="reColor('${column}')" class="
+    m-4
+    p-4
+    min-w-80
+
+    bg-gray-200
+    text-center
+    rounded-full
+
+    flex
+    items-center
+    justify-center
+    ">${column}</a>
     `;
     });
   }

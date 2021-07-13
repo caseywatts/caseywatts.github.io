@@ -2,12 +2,20 @@ var myChart = CirclePack();
 // var myChart = Treemap();
 // const myChart = d3.treemap();
 
+const asInt = (x) => {
+  return parseInt(x, 10);
+}
+
 var dataToRender;
-function renderDiagram(json) {
+const renderDiagram = (domElement, table) => {
   // dataToRender = fillInDataForBubbles(formatDataForBubbles(json));
   // var root = dataToRender;
+  // console.log(domElement)
+  // console.log(table)
+  var width = asInt(domElement.style.height);
+  var height = asInt(domElement.style.width);
+  debugger;
 
-  var table = json;
   var root = d3
     .stratify()
     .id(function (d) {
@@ -53,7 +61,10 @@ function renderDiagram(json) {
     .label((d) => d.id)
     .color((d, parent) => {
       return d.data.averagehealth ? myColors[round(d.data.averagehealth) - 1] : "#EEE";
-    })(document.getElementById("my-chart"));
+    })
+    .width(width)
+    .height(height)
+    (domElement);
 }
 
 function round(x) {
