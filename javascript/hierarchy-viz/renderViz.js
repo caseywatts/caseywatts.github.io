@@ -14,7 +14,7 @@ const renderDiagram = (domElement, table) => {
   // console.log(table)
   var width = asInt(domElement.style.height);
   var height = asInt(domElement.style.width);
-  debugger;
+  // debugger;
 
   var root = d3
     .stratify()
