@@ -35,7 +35,8 @@
     debugger;
     console.log(table);
     d3Diagram = renderDiagram(table);
-    renderOptions(validColumns);
+    // renderOptions(validColumns);
+    renderOptions(["averagehealth", "improvement", "degredation"]);
   });
 
   function sevenPointColorScoreFor(datapoint) {
