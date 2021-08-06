@@ -1,0 +1,17 @@
+<div
+  class="
+    m-1
+    p-1
+    min-w-80
+
+    {{include.bgColor}}
+    text-center
+
+    flex
+    flex-col
+    items-center
+"
+>
+  <div class="text-xl">{{include.title | markdownify}}</div>
+  <p>{{include.description | markdownify}}</p>
+</div>

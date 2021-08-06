@@ -1,81 +1,75 @@
 ---
 layout: page
-title: Be Happy and Effective with Casey
+title: Happy & Effective™ Leadership Coaching
 ---
 
-Casey’s past teams all became “the happy, effective team” by the time he left them. Employees clamored to be a part of the team, and executive leadership was thrilled with our work. Work with casey to turn your team into “the happy, effective team,” too!
+<div class="text-lg text-center">
+<blockquote>Casey brings out the best in people. He is a <b>force multiplier</b>.
+<br />-- Ian Bulmer, Engineer
+</blockquote>
+</div>
 
-## You Deserve This
+## Why Happy and Effective?
 
-You deserve to work in a happy, inclusive, productive team. Unfortunately, that is often not the reality in many work environments for many team members. Even well-meaning individuals can unwittingly make their teammates feel othered and out of place. This issue, at its core, is cultural and systemic.
+### Happy Teams = Effective Businesses
 
-Fortunately, we can improve this system! We can change our work environment for the better. Even more fortunately, all of these cultural improvements are simultaneously great for business outcomes AND great for the people you work with every day.
+Effective businesses are built from teams that are excited to come into work every day. Research has shown that an increase in employee happiness can generate [up to 30% more sales](http://dx.doi.org/10.2139/ssrn.3470734). Companies that invest in employee happiness also enjoy higher productivity and lower turnover. Happiness is a worthwhile investment.
 
-## Measuring Progress
+However, happiness may not be what you think. [Happiness is not about persistent positivity](https://www.washingtonpost.com/lifestyle/wellness/toxic-positivity-mental-health-covid/2020/08/19/5dff8d16-e0c8-11ea-8181-606e603bb1c4_story.html), which can be detrimental to mental health and inadvertently lead to toxic work environments. Teams that are happy _and_ effective operate with trust, clear communication, and mutual understanding. They address conflict head on. Instead of putting on a face of perfection and invincibility, they practice courageous transparency and vulnerability.
 
-Do you know how happy and effective your organization is today?
+### Learning Effective Happiness
 
-To make sure you get as much as you can out of the engagement we'll track progress. Together we'll monitor the change over time: starting with a baseline, and checking in every 3 months. We'll either use Casey's standard team health metrics or custom metrics that align with your organization's goals (such as objectives and key results, OKRs).
+Casey Watts specializes in helping organizations lead through effective happiness. As the author of the book [Debugging Your Brain](https://www.debuggingyourbrain.com), Casey uses applied cognitive psychology to create training programs that focus on yielding positive, measurable results. This is done through 1:1 coaching sessions, workshops, and embedded team coaching. All coaching and training is virtual (via Zoom, Microsoft Teams, Google Meet, etc).
 
-To really succeed, you need to approach this from both sides: top-down (coaching) and bottom-up (workshops).
+### Focused, Measurable Results
 
-## Top-down and Bottom-up
+Effectiveness is achieved through focus. That’s why we start by pinpointing the specific pain points and growth opportunities you want to target. We will set goals that align with your organization’s goals, such as objectives and key results (OKRs). We will track progress by using both quantitative data (metrics) and qualitative data (stories). To monitor the change over time, we start with a baseline, and then measure it every three months: checking in at month 3, month 6, etc.
 
-A happy and effective team culture requires interest and support from both directions: top-down and bottom-up. You need both leadership AND employees to be interested, involved, and equipped for this cultural change. If your team is missing support from either direction, the company culture will naturally regress away from healthy norms. Even a team that is "toxic" today can be reformed into a healthy team with support from the top and bottom.
+## Why Casey?
 
-How can you make this change happen? You need to hit it from both sides: top-down and bottom-up. Teams see the biggest impact when using a combination of workshops and coaching. [**Leadership coaching**](/coaching) helps leaders tailor these ideas to the specific circumstances of the team, and the specific people on the team. [**Team workshops**](/workshops) help get the whole team on board to a set of ideas, practices, and techniques.
+<div class="grid grid-cols-3">
+{% include attribution_card.html
+title="Author of [Debugging Your Brain](https://www.debuggingyourbrain.com)"
+description="An applied psychology book, targeting tech-minded people."
+bgColor="bg-gray-50" %}
 
-<div class="grid grid-cols-2" markdown="1">
+{% include attribution_card.html
+title="Co-host of the Podcast [Greater Than Code](https://www.greaterthancode.com)"
+description="A podcast about the human side of software development."
+bgColor="bg-gray-50" %}
 
-<div markdown="1" class="p-2">
+{% include attribution_card.html
+title="Keynote Speaker, Event Emcee"
+description="Like his keynote at [The PERL Conference in Pittsburgh](https://www.youtube.com/watch?v=nj3IoW_rboE), and being Emcee for NationJS."
+bgColor="bg-gray-50" %}
 
-### Top-down
+{% include attribution_card.html
+title="Neuroscience Background"
+description="Co-author of several behavioral neurobiology papers while at Yale University."
+bgColor="bg-gray-50" %}
 
-{% include buttonlink.html href="/coaching" text="leadership coaching"%}
+{% include attribution_card.html
+title="Teaching Background"
+description="Taught the Full Stack Tech Bootcamp at the Yale Entrepreneurial Institute."
+bgColor="bg-gray-50" %}
 
-Executives and other leaders set the tone and vision from the top.
-
-<!-- This support comes from words and actions, both. Words like establishing "we value X at this company," and actions like promoting and celebrating people who embody those values. -->
+{% include attribution_card.html
+title="Facilitator, Trainer"
+description="For companies, community groups, and conferences."
+bgColor="bg-gray-50" %}
 
 </div>
 
-<div markdown="1" class="p-2">
+## Next Step? Let’s Chat About Your Goals
 
-### Bottom-up
+When you’re ready to invest in effective happiness training for your team, we’re here to help.
 
-{% include buttonlink.html href="/workshops" text="team workshops"%}
+<div class= "grid grid-cols-2">
+{% include buttonlink.html href="mailto:casey@happyandeffective.com" text="Email us" %}
 
-Employees really form the culture from the bottom.
+{% include buttonlink.html
+href="http://calendly.com/heycaseywattsup" text="Schedule a time with us"%}
 
 </div>
 
-</div>
-
-## What do people say?
-
-### Executives
-
-> I feel like we have entered a different era and the technology that has been developed will serve as the catalyst for the rest of the agency. So proud of you all and these developments are so meaningful.
-
--- Andrew Davidson, Chief of the Asylum Division, United States Citizenship and Immigration Services
-
-### Employees
-
-> Casey’s secret has to do with knowing that, deep down, everyone is searching for joy and purpose in their work. When we inhibit others’ productivity, we ultimately rob ourselves of joy and purpose.
-
--- Bill Garr, United States Citizenship and Immigration Services
-
-> I dare you to walk away from a conversation with Casey without a smile on your face. It can't be done.
-
--- Lou Rinaldi, Yale Information Technology Services
-
-## I love it! What's next?
-
-<div class="grid grid-cols-2">
-<div>
-{% include buttonlink.html href="/coaching" text="coaching" %}
-</div>
-<div>
-{% include buttonlink.html href="/workshops" text="workshops" %}
-</div>
-</div>
+Thanks for the opportunity to share our services with you. If you have any questions or would like to create custom training, just let us know.
