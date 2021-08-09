@@ -17,7 +17,7 @@ Effective businesses are built from teams that are excited to come into work eve
 
 However, happiness may not be what you think. [Happiness is not about persistent positivity](https://www.washingtonpost.com/lifestyle/wellness/toxic-positivity-mental-health-covid/2020/08/19/5dff8d16-e0c8-11ea-8181-606e603bb1c4_story.html), which can be detrimental to mental health and inadvertently lead to toxic work environments. Teams that are happy _and_ effective operate with trust, clear communication, and mutual understanding. They address conflict head on. Instead of putting on a face of perfection and invincibility, they practice courageous transparency and vulnerability.
 
-### Learning Effective Happiness
+### Teaching Effective Happiness
 
 Casey Watts specializes in helping organizations lead through effective happiness. As the author of the book [Debugging Your Brain](https://www.debuggingyourbrain.com), Casey uses applied cognitive psychology to create training programs that focus on yielding positive, measurable results. This is done through 1:1 coaching sessions, workshops, and embedded team coaching. All coaching and training is virtual (via Zoom, Microsoft Teams, Google Meet, etc).
 
@@ -72,4 +72,4 @@ href="http://calendly.com/heycaseywattsup" text="Schedule a time with us"%}
 
 </div>
 
-Thanks for the opportunity to share our services with you. If you have any questions or would like to create custom training, just let us know.
+Thank you for the opportunity to share our services with you. If you have any questions or would like to create custom training, just let us know.
