@@ -13,17 +13,17 @@ These are the tools that Casey uses himself.
 
 Numbness and tingling (nerves), and tension (muscles) are no joke! These are what Casey uses / has used to prevent and recover from nerve injury:
 
-* [Wrist Brace](https://amzn.to/3iylnri) - for carpel tunnel (numb thumb, pointer, middle fingers), worn while at the computer or piano
-* [Elbow Brace](https://amzn.to/3AkjX9Q) - for cubital tunnel (numb pinky/ring finger), worn while sleeping
-* [Pop Socket](https://amzn.to/3AiBu26) - for texting thumb (tight/painful thumb muscles), used while phone-ing
+* [Wrist Brace](https://amzn.to/3iylnri) - for carpel tunnel (numb thumb, pointer, middle fingers), worn while at the computer or piano. It's hard to notice when your wrists are bent - this makes it easy.
+* [Elbow Brace](https://amzn.to/3AkjX9Q) - for cubital tunnel (numb pinky/ring finger), worn while sleeping. I tried a bunch, this one was the most comfortable (none are comfortable though lol).
+* [Pop Socket](https://amzn.to/3AiBu26) - for texting thumb (tight/painful thumb muscles), used while phone-ing. I miss wireless charging, but it is totally worth it! I also drop my phone a lot less.
 
 ## Home Office
 
 ### Ergonomics
 
-* [Monitor on a Stand](https://amzn.to/3dmgXBm) - you don't want your head perpetually looking up or down, it needs to be neutral
-* [Standing Desk Foot Stool](https://amzn.to/3dkpjJO) - you need good posture while standing - putting a foot on something helps keep your core/posture engaged
-* [Split Keyboard](https://amzn.to/2TfAHj1) - you don't want your wrists bent sideways while typing. Keyboard position can help some, but the split keyboard lets you bring the keyboard to your natural hand position.
+* [Monitor on a Stand](https://amzn.to/3dmgXBm) - For your posture, you don't want to be looking down at the laptop sitting on the desk. Your neck needs to be neutral. Bring the screen to your gaze, not your gaze to your screen.
+* [Standing Desk Foot Stool](https://amzn.to/3dkpjJO) - You need good posture while standing too. Putting a foot on something helps keep your core/posture engaged. I was surprised how much this helped, I only tried it because my physical therapist recommended it.
+* [Split Keyboard](https://amzn.to/2TfAHj1) - You don't want your wrists bent sideways while typing, that can lead to carpel tunnel. KeyboardThe split keyboard lets you bring the keyboard to your natural hand position, instead of taking your hands unnaturally to the keyboard.
 
 
 ## Remote Work
@@ -49,4 +49,4 @@ I work from coffee shops all the time! When I'm out of the house I especially ha
 ### USB C
 
 * [USB-C Multi-Adapter](https://amzn.to/3BogeK0) - USB-C to HDMI/USB-A/USB-C. I originally bought this adapter for my Switch (it's functionally the same as the Switch dock! same ports). This also works with my Mac, so now I mainly use it for that. It's the same shape/size as the more expensive Apple one. The Apple one is a lot more reliable (less fidgeting to get it to work), but I still use this cheaper one on-the-go.
-* [USB-C to USB-A adapter](https://amzn.to/3y0Xeij) - this simple adapter is cheap and reliable. 
+* [USB-C to USB-A adapter](https://amzn.to/3y0Xeij) - this simple adapter is cheap and reliable.
