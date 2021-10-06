@@ -22,9 +22,18 @@ Numbness and tingling (nerves), and tension (muscles) are no joke! These are wha
 ### Ergonomics
 
 * [Monitor on a Stand](https://amzn.to/3dmgXBm) - For your posture, you don't want to be looking down at the laptop sitting on the desk. Your neck needs to be neutral. Bring the screen to your gaze, not your gaze to your screen.
+* [Standing Desk](https://amzn.to/3uKKtrT) - I usually stand for 1-3 hours each day, and sit the rest. I love a "standing desk" for sitting too!! I use it to bring the table/keyboard height to my natural position for typing - lower than a standard table. Bring the desk/keyboard to your body, not your body to the desk/keyboard. I got the size that's so big you can fit a hammock under it, but I often wish I had gotten a size down since my apartment isn't all that big.
 * [Standing Desk Foot Stool](https://amzn.to/3dkpjJO) - You need good posture while standing too. Putting a foot on something helps keep your core/posture engaged. I was surprised how much this helped, I only tried it because my physical therapist recommended it.
+* [Yoga Ball](https://amzn.to/3adDuy8) - I use a yoga ball to sit on for an hour a day on average. It's another way to get my core engaged, while giving my legs a bit of a break.
+* [Adjustable Height Chair](https://amzn.to/3mvHJLm) - When I tried a bunch of chairs in-person, this was the best fit for my tall/thin body, but it probably isn't the best one for you. You have to try chairs to see how they fit you. You need a chair with adjustable height and lumbar support (could be a pillow). Even a cheap $50 adjustable height chair is better than a non-adjustable one.
+* [Lumbar Throw Pillow](https://amzn.to/3ldPAh0) - I got a similar one to this at Target, and I use it all the time! I move it higher or lower behind my back while sitting depending on how I feel. I've seen some others with straps, but personally I think that's overkill. I don't know if this particular one I linked is firm enough or not, just trying to give you an idea of the shape. These pillows are in lots of local stores.
 * [Split Keyboard](https://amzn.to/2TfAHj1) - You don't want your wrists bent sideways while typing, that can lead to carpel tunnel. KeyboardThe split keyboard lets you bring the keyboard to your natural hand position, instead of taking your hands unnaturally to the keyboard.
 
+
+### Audio
+
+* [Desk Stand Mic](https://amzn.to/3iCt9Rb) - I got this one because it's cheap and has a stand. It's not the highest quality mic, but it's better than my laptop mic and I can also bring it to me instead of leaning into the mic - good for my posture.
+* [External Audio Interface](https://amzn.to/3DfaaDY) - When I was recording my audio book, my external mic picked up a lot of electronic static - that's a common problem! When your audio card is inside your computer it picks up that electric fuzz. That's why they make "external audio interface" devices that are basically an electrically-insulated audio card that sits outside your computer. Who knew! This one is the simpler/cheaper model of a reliable and well-known brand.
 
 ## Remote Work
 
