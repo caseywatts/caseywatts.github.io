@@ -4,7 +4,13 @@ title: Things Casey Uses
 navTitle: Uses
 ---
 
-These are the tools that Casey uses himself.
+After my hands went numb several years ago, I invested a lot in equipment to help my body recover. I'm sharing this list in case it can help anyone else.
+
+Probably the coolest thing on this list is my **portable laptop stand**, people ask about it all the time.
+
+<img src="/assets/images/laptop outside.png" alt="Casey's laptop setup outdoors: laptop on a stand, wireless trackpad and keyboard, headset, iced tea - all on a picnic table">
+
+## Amazon vs Non-Amazon
 
 * Do you buy things from Amazon? Please use these links so Casey gets an **affiliate referral** cut from your purchase. It actually doesn't mater what product you end up buying - you could choose alternatives to each of these, and Casey will still get a cut of the purchase (as long as you clicked one of these links recently).
 * Do you avoid Amazon (like Casey)? That's great! Please let him know where else you found these items.
