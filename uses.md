@@ -4,7 +4,7 @@ title: Things Casey Uses
 navTitle: Uses
 ---
 
-After my hands went numb several years ago, I invested a lot in equipment to help my body recover. I'm sharing this list in case it can help anyone else.
+After my hands went numb several years ago (they're mostly recovered!), I invested a lot in equipment to help my body recover. I'm sharing this list in case it can help anyone else.
 
 Probably the coolest thing on this list is my **portable laptop stand**, people ask about it all the time.
 
@@ -19,7 +19,7 @@ Probably the coolest thing on this list is my **portable laptop stand**, people 
 
 Numbness and tingling (nerves), and tension (muscles) are no joke! These are what Casey uses / has used to prevent and recover from nerve injury:
 
-* [Wrist Brace](https://amzn.to/3iylnri) - for carpel tunnel (numb thumb, pointer, middle fingers), worn while at the computer or piano. It's hard to notice when your wrists are bent - this makes it easy.
+* [Wrist Brace](https://amzn.to/3iylnri) - for carpel tunnel (numb thumb, pointer, middle fingers), worn while at the computer or piano. This brace is sold one at a time, you might want to buy two of them. It's reversible!
 * [Elbow Brace](https://amzn.to/3AkjX9Q) - for cubital tunnel (numb pinky/ring finger), worn while sleeping. I tried a bunch, this one was the most comfortable (none are comfortable though lol).
 * [Pop Socket](https://amzn.to/3AiBu26) - for texting thumb (tight/painful thumb muscles), used while phone-ing. I miss wireless charging, but it is totally worth it! I also drop my phone a lot less.
 
