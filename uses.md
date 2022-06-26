@@ -65,3 +65,9 @@ I work from coffee shops all the time! When I'm out of the house I especially ha
 
 * [USB-C Multi-Adapter](https://amzn.to/3BogeK0) - USB-C to HDMI/USB-A/USB-C. I originally bought this adapter for my Switch (it's functionally the same as the Switch dock! same ports). This also works with my Mac, so now I mainly use it for that. It's the same shape/size as the more expensive Apple one. The Apple one is a lot more reliable (less fidgeting to get it to work), but I still use this cheaper one on-the-go.
 * [USB-C to USB-A adapter](https://amzn.to/3y0Xeij) - this simple adapter is cheap and reliable.
+
+## Other
+
+### Earplugs
+
+* [Actually good earplugs](https://amzn.to/3HTkaWV). I got these for marching band, but now I wear them to bars too! Why? Both for my hearing health AND for audio fatigue. I want to be able to hear well even in old age -- and when my Apple Watch tells me "you are in a noisy environment!!" I'm thankful for the reminder. I ALSO get really tired from being around the noise too -- so I can last twice as long at a bar with these! 
