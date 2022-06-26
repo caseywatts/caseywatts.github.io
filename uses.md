@@ -70,4 +70,4 @@ I work from coffee shops all the time! When I'm out of the house I especially ha
 
 ### Earplugs
 
-* [Actually good earplugs](https://amzn.to/3HTkaWV). I got these for marching band, but now I wear them to bars too! Why? Both for my hearing health AND for audio fatigue. I want to be able to hear well even in old age -- and when my Apple Watch tells me "you are in a noisy environment!!" I'm thankful for the reminder. I ALSO get really tired from being around the noise too -- so I can last twice as long at a bar with these! 
+* [Actually good earplugs](https://amzn.to/3HTkaWV). I got these for marching band, but now I wear them to bars too! Why? Both for my hearing health AND for audio fatigue. I want to be able to hear well even in old age -- and when my Apple Watch tells me "you are in a noisy environment!!" I'm thankful for the reminder. I ALSO get really tired from being around the noise too -- so I can last twice as long at a bar with these! These particular earplugs don't muffle the sound at all. The sound is so clear I'm always wondering if they're even in! (they are -- it's SO loud when I take them out) 
